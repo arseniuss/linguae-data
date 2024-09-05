@@ -1,0 +1,241 @@
+Name Latin
+Version 2024.05.21.
+License 2024 Armands Arseniuss Skolmeisters
+
+# Nouns
+
+ref cases "nōminātīvus,genetīvus,datīvus,accūsātīvus,ablatīvus,vocātīvus"
+
+ref decl1 "prīma declīnātiō"
+ref decl2 "secunda declīnātiō"
+ref decl3e "tērtia declīnātiō"
+ref decl3i "tērtia declīnātiō, i-stem pūrum"
+ref decl3x "tērtia declīnātiō, i-stem"
+ref decl4 "quārtā declīnātiō"
+ref decl5 "quīnta declīnātiō"
+
+ref sg_f "singulāris, fēminīnum"
+ref pl_f "plūrālis, fēminīnum"
+ref sg_m "singulāris, masculīnum"
+ref pl_m "plūrālis, masculīnum"
+ref sg_n "singulāris, neutrum"
+ref pl_n "plūrālis, neutrum"
+
+# noun generation
+gen decline &decl1 &sg_f -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
+gen decline &decl1 &pl_f -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
+
+# Verbs
+
+ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg.,I. pers. pl.,II. pers. pl.,III. pers. pl."
+
+ref conj1 "prīma coniugātiō"
+ref conj2 "secunda coniugātiō"
+ref conj3 "tērtia coniugātiō"
+ref conj4 "quārtā coniugātiō"
+
+ref praes_act_ind "praesēns āctīvum indicātīvum"
+ref imperf_act_ind "imperfectum āctīvum indicātīvum"
+ref fut_act_ind "futūrum prīmum āctīvum indicātīvum"
+ref perf_act_ind "perfectum āctīvum indicātīvum"
+ref plus_act_ind "plūsquamperfectum āctīvum indicātīvum"
+ref futp_act_ind "fūtūrum perfectum āctīvum indicātīvum"
+
+ref praes_pas_ind "praesēns passīvum indicātīvum"
+ref imperf_pas_ind "imperfectum passīvum indicātīvum"
+ref fut_pas_ind "futūrum prīmum passīvum indicātīvum"
+ref perf_pas_ind "perfectum passīvum indicātīvum"
+ref plus_pas_ind "plūsquamperfectum passīvum indicātīvum"
+ref futp_pas_ind "fūtūrum perfectum passīvum indicātīvum"
+
+ref praes_act_con "praesēns āctīvum coniūnctīvum"
+ref imperf_act_con "imperfectum āctīvum coniūnctīvum"
+ref perf_act_con "perfectum āctīvum coniūnctīvum"
+ref plus_act_con "plūsquamperfectum āctīvum coniūnctīvum"
+
+ref praes_pas_con "praesēns passīvum coniūnctīvum"
+ref imperf_pas_con "imperfectum passīvum coniūnctīvum"
+ref perf_pas_con "perfectum passīvum coniūnctīvum"
+ref plus_pas_con "plūsquamperfectum passīvum coniūnctīvum"
+
+ref praes_act_imp "praesēns āctīvum imperatīvum"
+ref fut_act_imp "futūrum prīmum āctīvum imperatīvum"
+
+# regular verb generation
+gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
+gen conjugate &conj4 &praes_act_ind -ī-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+unt
+
+theory Theory/01_Nōmen_substantīvum.txt
+theory Theory/02_Nōmen_substantīvum_1.txt
+theory Theory/03_Nōmen_substantīvum_2.txt
+theory Theory/04_Nōmen_substantīvum_3.txt
+theory Theory/05_Nōmen_substantīvum_4.txt
+theory Theory/06_Nōmen_substantīvum_5.txt
+theory Theory/07_Nōmen_adiectīvum.txt
+theory Theory/08_Prōnōmen.txt
+theory Theory/09_Numerālia.txt
+
+Lesson Lēctiō_1.txt
+
+#
+# The second chapter
+# - 2nd decliation
+# - genetīvus possesivus, datīvus
+#
+# Nouns:
+# Verbs:
+#
+
+# Fīlia agricolae amīcae vaccam in aulā mōstrat.
+# Fīliae agricolārum amicīs vacās in aulīs mōnstrant.
+
+# in patriā
+# in terrā
+# ex silvā
+# dē agricolīs
+# cum aliīs peullīs
+# prō patriā
+# prō amīcā
+
+# in scholā esse
+# in scholam properāre
+
+Lesson Lēctiō_2.txt
+
+#
+# The third chapter
+# - cum as adverb and as conjunction
+# - 3rd person passive
+# - ablative three meanings
+# - in, ex, dē, cum, sine, prō + abl.
+#
+# Nouns:
+# Verbs:
+#
+
+Lesson Lēctiō_3.txt
+
+#
+# The fourth chapter
+# - the second conjugation (ind. praes. āct.)
+# - the fifth conjugation (rēs)
+# - ego, tū ..
+# - imperative praes. āct.
+#
+# Nouns:
+# Verbs:
+#
+
+Lesson Lēctiō_4.txt
+
+#
+# The fifth chapter
+# - esse
+# - imperative
+# - quid
+# - adjective
+#
+# Nouns:
+# Adjectives: parvus, magnus,
+# Verbs:
+#
+
+Lesson Lēctiō_5.txt
+
+#
+# The sixth chapter
+# - 2nd declination -r, liber, puer,ager etc.
+# - ego, meus, quis
+# - haber + acc.
+# - negation nēmo, nihil, numquam
+#
+# Nouns:
+# Verbs:
+#
+
+#
+# The seventh chapter
+# - the third conjugation
+#  - 3rd declination
+# - commūnis generis
+#
+#
+
+#
+# The eight chapter
+# - 4th conjugation
+# - nolī + inf.
+# - interragatīvus
+# - mēcum, tēcum
+#
+#
+#
+
+#
+# The ninth chapter
+# - fūtūrum I (esse)
+# - adesse, abesse, prōdesse, posse (praes, fut).
+# - numbers: ordinals, cardinals
+# - Nōnne, nisi, num
+#
+
+#
+# The 10th chapter
+# - fūtīrum I (1 coni, 2. coni)
+# - ordinals, quotus
+# - singulāre tantum, plūrālum tantum
+#
+
+#
+# The 11th chapter
+# - fūtūrum I (3, 4)
+# - diēs
+# - domum without praepos.
+# - how to tell time?
+#
+
+#
+# The 12th chapter
+# - adjectivo pronominala
+# - nemo, nihil
+# - reflextive prōnomen
+# - passive ind.
+#
+
+#
+# The 13th chapter
+# - coni. praes. āct.
+#
+
+
+#Special case ANY
+Training Test.txt "Test" "Test"
+Training "" "Omnes exercitationēs" "All trainings"
+Training Nōmen_substantīvum.txt "Nōmen substantīvum" "Nouns"
+Training Prōnōmen.txt "Prōnomen" "Pronouns"
+Training Nōmen_adiectīvum.txt "Nōmen adiectīvum" "Adjectives"
+Training Verbum_rēgulāre.txt "Verbum rēgulāre" "Regular verbs"
+Training Verbum_irrēgulāre.txt "Verbum irrēgulāre" "Irregular verbs"
+Training Prōformae_adverbōrum.txt "Prōformae adverbōrum" "Latin correlatives"
+
+# Modī:
+# - indīcātīvus
+# - coniūnctīvus
+# - imperātivus
+# - īnfinītivus
+# - participium
+# - gerundium
+# - gerundīvum
+# - supīnum
+
+# Tempora:
+# - praesēns
+# - imperfectum
+# - futūrum
+# - perfectum
+# - plūsquamperfectum
+# - fūtūrum perfectum
+
+# Genera:
+# - āctīvus
+# - passīvus

@@ -1,0 +1,14 @@
+
+
+#ref praes_act_imp "praesēns āctīvum imperatīvum"
+#ref imperf_act_con "imperfectum āctīvum coniūnctīvum"
+#ref to_be "to be, exist"
+#ref conj_irreg "coniugātiō īrregularis"
+
+
+#task 8 conjugate &conj_irreg &imperf_act_con sum,esse &to_be &persons essem/forem,essēs/forēs,esset/foret,essēmus/forēmus,essētis/forētis,essent/forent
+#task 11 conjugate &conj_irreg &praes_act_imp sum,esse &to_be &persons ,es,,,este,
+
+ref additionals "I,you,we,the,a,an,in,of,rose,roses,dove,doves,grandmother,school,story,frog,frogs,forest,beautiful,small,great,red,love,loves,tell,tells"
+
+task t10 translate "Puella et fīlia scholae discipulae sunt" "The girl and the daughter are students of the school." &additionals

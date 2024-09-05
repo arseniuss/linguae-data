@@ -1,0 +1,2 @@
+title "Quīntae declīnātiōnis nōmina"
+description "Fifth declension nouns"

@@ -1,0 +1,59 @@
+title "Nōmen substantīvum"
+description "Nouns"
+
+chapter intro1 <EOL
+    # Introdūctiō
+    
+    Genera nōminum substantīvōrum sunt tria:
+     - masculīnum (m.),
+     - fēminīnum (f.),
+     - neutrum (n.).
+    
+    Duo numerī grammaticī:
+     - singulāris (sg.),
+     - plūrālis (pl.).
+    
+    Sex cāsūs grammaticī:
+     - nōminātīvus (N.),
+     - genetīvus (G.),
+     - datīvus (D.),
+     - accūsātīvus (Acc.),
+     - ablātīvus (Abl.),
+     - vocātīvus (V.).
+EOL <EOL
+    # Introduction
+
+    In Latin nouns has three genders:
+     - masculine - _genus masculīnum_ (m.),
+     - feminine - _genus fēminīnum_ (f.),
+     - neuter - _genus neutrum_ (n.).
+
+    Two grammatical numbers:
+     - singular - _numerus singulāris_ (sg.),
+     - plural - _numerus plūrālis_ (pl.).
+    
+    Six grammatical cases:
+     - nominative - _cāsus nōminātīvus_ (N.),
+     - genitive - _cāsus genetīvus_ (G.),
+     - dative - _cāsus datīvus_ (D.),
+     - accusative - _cāsus accūsātīvus_ (Acc.),
+     - ablative - _cāsus ablātīvus_ (Abl.),
+     - vocative - _cāsus vocātīvus_ (V.).
+EOL
+
+chapter intro2 <EOL
+    # Dēclīnātionēs
+
+    In linguā Latīnā quīnque dēclīnātiōnēs sunt.
+
+    Insīgnē dēclīnātiōnis est exitus genetīvī singulāris:
+
+    | Exitus G. sg. nōminum           | Exampla           |
+    | ------------------------------- | ----------------- |
+    | I. dēclīnātiōnis est **-ae**    | persōn-**ae**     |
+    | II. dēclīnātiōnis est **-ī**    | numer-**ī**       |
+    | III. dēclīnātiōnis est **-is**  | dēclīnātiōn-**is** |
+    | IV. dēclīnātiōnis est **-ūs**   | cās-**ūs**        |
+    | V. dēclīnātiōnis est **-eī**    | r-**eī**          |
+EOL <EOL
+EOL

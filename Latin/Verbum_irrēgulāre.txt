@@ -1,0 +1,152 @@
+#
+# Irregular verbs
+#
+
+ref conj_irreg "coniugātiō īrregularis"
+
+ref mean_to_be "to be, exist"
+ref verb_sum "sum, esse, fuī"
+
+task 1 conjugate &conj_irreg &praes_act_ind &verb_sum &mean_to_be &persons sum,es,est,sumus,estis,sunt
+task 2 conjugate &conj_irreg &imperf_act_ind &verb_sum &mean_to_be &persons eram,erās,erat,erāmus,erātis,erant
+task 3 conjugate &conj_irreg &fut_act_ind &verb_sum &mean_to_be &persons erō,eris/ere,erit,erimus,eritis,erunt
+task 4 conjugate &conj_irreg &perf_act_ind &verb_sum &mean_to_be &persons fuī,fuistī,fuit,fuimus,fuistis,fuērunt/fuēre
+task 5 conjugate &conj_irreg &plus_act_ind &verb_sum &mean_to_be &persons fueram,fuerās,fuerat,fuerāmus,fuerātis,fuerant
+task 6 conjugate &conj_irreg &futp_act_ind &verb_sum &mean_to_be &persons fuerō,fueris,fuerit,fuerimus,fueritis,fuerint
+
+task 7 conjugate &conj_irreg &praes_act_con &verb_sum &mean_to_be &persons sim,sīs,sit,sīmus,sītis,sint
+task 8 conjugate &conj_irreg &imperf_act_con &verb_sum &mean_to_be &persons essem/forem,essēs/forēs,esset/foret,essēmus/forēmus,essētis/forētis,essent/forent
+task 9 conjugate &conj_irreg &perf_act_con &verb_sum &mean_to_be &persons fuerim,fuerīs,fuerit,fuerīmus,fuerītis,fuerint
+task 10 conjugate &conj_irreg &plus_act_con &verb_sum &mean_to_be &persons fuissem,fuissēs,fuisset,fuissēmus,fuissētis,fuissent
+
+task 11 conjugate &conj_irreg &praes_act_imp &verb_sum &mean_to_be &persons ,es,,,este,
+task 12 conjugate &conj_irreg &fut_act_imp &verb_sum &mean_to_be &persons ,estō,estō,,estōte,suntō
+
+ref mean_to_be_able "to be able, can"
+ref verb_possum "possum, posse, potuī"
+
+task 13 conjugate &conj_irreg &praes_act_ind &verb_possum &mean_to_be_able &persons possum,potes,potest,possumus,potestis,possunt
+task 14 conjugate &conj_irreg &imperf_act_ind &verb_possum &mean_to_be_able &persons poteram,poterās,poterat,poterāmus,poterātis,poterant
+task 15 conjugate &conj_irreg &fut_act_ind &verb_possum &mean_to_be_able &persons poterō,poteris|potere,poterit,poterimus,poteritis,poterunt
+task 16 conjugate &conj_irreg &perf_act_ind &verb_possum &mean_to_be_able &persons potuī,potuistī,potuit,potuimus,potuistis,potuērunt|potuēre
+task 17 conjugate &conj_irreg &plus_act_ind &verb_possum &mean_to_be_able &persons potueram,potuerās,potuerat,potuerāmus,potuerātis,potuerant
+task 18 conjugate &conj_irreg &futp_act_ind &verb_possum &mean_to_be_able &persons potuērō,potueris,potuerit,potuerimus,potueritis,potuerint
+
+task 19 conjugate &conj_irreg &praes_act_con &verb_possum &mean_to_be_able &persons possim,possīs,possit,possīmus,possītis,possint
+task 20 conjugate &conj_irreg &imperf_act_con &verb_possum &mean_to_be_able &persons possem,possēs,posset,possēmus,possētis,possent
+task 21 conjugate &conj_irreg &perf_act_con &verb_possum &mean_to_be_able &persons potuerim,potuerīs,potuerit,potuerīmus,potuerītis,potuerint
+task 22 conjugate &conj_irreg &plus_act_con &verb_possum &mean_to_be_able &persons potuissem,potuissēs,potuisset,potuissēmus,potuissētis,potuissent
+
+ref mean_to_go "to go"
+ref verb_eo "eō, īre, iī/īvī"
+
+task 23 conjugate &conj_irreg &praes_act_ind &verb_eo &mean_to_go &persons eō,īs,it,īmus,ītis,eunt
+task 24 conjugate &conj_irreg &imperf_act_ind &verb_eo &mean_to_go &persons ībam,ībās,ībat,ībāmus,ībātis,ībant
+task 25 conjugate &conj_irreg &fut_act_ind &verb_eo &mean_to_go &persons ībō,ībis,ībit,ībimus,ībitis,ībunt
+task 26 conjugate &conj_irreg &perf_act_ind &verb_eo &mean_to_go &persons iī/īvī,īstī/īvistī,iit/īvit,iimus,īstis,iērunt/iēre
+task 27 conjugate &conj_irreg &plus_act_ind &verb_eo &mean_to_go &persons ieram,ierās,ierat,ierāmus,ierātis,ierant
+task 28 conjugate &conj_irreg &futp_act_ind &verb_eo &mean_to_go &persons ierō,ieris,ierit,ierimus,ieritis,ierint
+
+task 29 conjugate &conj_irreg &praes_pas_ind &verb_eo &mean_to_go &persons eor,īris/īre,ītur,īmur,īminī,euntur
+task 30 conjugate &conj_irreg &imperf_pas_ind &verb_eo &mean_to_go &persons ībar,ībāris/ībāre,ībātur,ībāmur,ībāminī,ībantur
+task 31 conjugate &conj_irreg &fut_pas_ind &verb_eo &mean_to_go &persons ībor,īberis/ībere,ībitur,ībimur,ībiminī,ībuntur
+task 32 conjugate &conj_irreg &perf_pas_ind &verb_eo &mean_to_go &persons "itus sum,itus es,itus est,itus sumus,itus estis,itus sunt"
+task 33 conjugate &conj_irreg &plus_pas_ind &verb_eo &mean_to_go &persons "itus eram,itus erās,itus erat,itus erāmus,itus erātis,itus erant"
+task 34 conjugate &conj_irreg &futp_pas_ind &verb_eo &mean_to_go &persons "itus erō,itus eris/itus ere,itus erit,itus erimus,itus eritis,itus erunt"
+
+task 35 conjugate &conj_irreg &praes_act_con &verb_eo &mean_to_go &persons eam,eās,eat,eāmus,eātis,eant
+task 36 conjugate &conj_irreg &imperf_act_con &verb_eo &mean_to_go &persons īrem,īrēs,īret,īrēmus,īrētis,īrent
+task 37 conjugate &conj_irreg &perf_act_con &verb_eo &mean_to_go &persons ierim,ierīs,ierit,ierīmus,ierītis,ierint
+task 38 conjugate &conj_irreg &plus_act_con &verb_eo &mean_to_go &persons īssem,īssēs,īsset,īssēmus,īssētis,īssent
+
+task 39 conjugate &conj_irreg &praes_pas_con &verb_eo &mean_to_go &persons ear,eāris/eāre,eātur,eāmur,eāminī,eantur
+task 40 conjugate &conj_irreg &imperf_pas_con &verb_eo &mean_to_go &persons īrer,īrēris/īrēre,īrētur,īrēmur,īrēminī,īrentur
+task 41 conjugate &conj_irreg &perf_pas_con &verb_eo &mean_to_go &persons "itus sim,itus sīs,itus sit,itus sīmus,itus sītis,itus sint"
+task 42 conjugate &conj_irreg &plus_pas_con &verb_eo &mean_to_go &persons "itus essem/itus forem,itus essēs/itus forēs,itus esset/itus foret,itus essēmus/itus forēmus,itus essētis/itus forētis,itus essent/itus forent"
+
+ref mean_to_wish "to wish, want"
+ref verb_volo "volō, velle, voluī"
+
+task 43 conjugate &conj_irreg &praes_act_ind &verb_volo &mean_to_wish &persons volō,vīs,vult/volt,volumus,vultis/voltis,volunt
+task 44 conjugate &conj_irreg &imperf_act_ind &verb_volo &mean_to_wish &persons volēbam,volēbās,volēbat,volēbāmus,volēbātis,volēbant
+task 45 conjugate &conj_irreg &fut_act_ind &verb_volo &mean_to_wish &persons volam,volēs,volet,volēmus,volētis,volent
+task 46 conjugate &conj_irreg &perf_act_ind &verb_volo &mean_to_wish &persons voluī,voluistī,voluit,voluimus,voluistis,voluērunt/voluēre
+task 47 conjugate &conj_irreg &plus_act_ind &verb_volo &mean_to_wish &persons volueram,voluerās,voluerat,voluerāmus,voluerātis,voluerant
+task 48 conjugate &conj_irreg &futp_act_ind &verb_volo &mean_to_wish &persons voluerō,volueris,voluerit,voluerimus,volueritis,voluerint
+
+task 49 conjugate &conj_irreg &praes_act_con &verb_volo &mean_to_wish &persons velim,velīs,velit,velīmus,velītis,velint
+task 50 conjugate &conj_irreg &imperf_act_con &verb_volo &mean_to_wish &persons vellem,vellēs,vellet,vellēmus,vellētis,vellent
+task 51 conjugate &conj_irreg &perf_act_con &verb_volo &mean_to_wish &persons voluerim,volueris,voluerit,voluerīmus,voluerītis,voluerint
+task 52 conjugate &conj_irreg &plus_act_con &verb_volo &mean_to_wish &persons voluissem,voluissēs,voluisset,voluissēmus,voluissētis,voluissent
+
+ref mean_to_be_unwilling "to be unwilling"
+ref verb_nolo "nōlō, nōlle, nōluī"
+
+task 53 conjugate &conj_irreg &praes_act_ind &verb_nolo &mean_to_be_unwilling &persons "nōlō,nōn vīs,nōn vult,nōlumus,nōn vultis,nōlunt"
+task 54 conjugate &conj_irreg &imperf_act_ind &verb_nolo &mean_to_be_unwilling &persons "nōlēbam,nōlēbās,nōlēbat,nōlēbāmus,nōlēbātis,nōlēbant"
+task 55 conjugate &conj_irreg &fut_act_ind &verb_nolo &mean_to_be_unwilling &persons "nōlam,nōlēs,nōlet,nōlēmus,nōlētis,nōlent"
+task 56 conjugate &conj_irreg &perf_act_ind &verb_nolo &mean_to_be_unwilling &persons "nōluī,nōluistī,nōluit,nōluimus,nōluistis,nōluērunt/nōluēre"
+task 57 conjugate &conj_irreg &plus_act_ind &verb_nolo &mean_to_be_unwilling &persons "nōlueram,nōluerās,nōluerat,noluerāmus,nōluerātis,nōluerant"
+task 58 conjugate &conj_irreg &futp_act_ind &verb_nolo &mean_to_be_unwilling &persons "nōluerō,nōlueris,nōluerit,nōluerimus,nōlueritis,nōluerint"
+
+task 59 conjugate &conj_irreg &praes_act_con &verb_nolo &mean_to_be_unwilling &persons nōlim,nōlīs,nōlit,nōlīmus,nōlītis,nōlint
+task 60 conjugate &conj_irreg &imperf_act_con &verb_nolo &mean_to_be_unwilling &persons nōllem,nōllēs,nōllet,nōllēmus,nōllētis,nōllent
+task 61 conjugate &conj_irreg &perf_act_con &verb_nolo &mean_to_be_unwilling &persons nōluerim,nōluerīs,nōluerit,nōluerīmus,nōluerītis,nōluerint
+task 62 conjugate &conj_irreg &plus_act_con &verb_nolo &mean_to_be_unwilling &persons nōluissem,nōluissēs,nōluisset,nōluissēmus,noluissētis,nōluissent
+
+task 63 conjugate &conj_irreg &praes_act_imp &verb_nolo &mean_to_be_unwilling &persons ,nolī,,,nolīte,
+task 64 conjugate &conj_irreg &fut_act_imp &verb_nolo &mean_to_be_unwilling &persons ,nōlitō,nōlitō,,nōlitōte,nōluntō
+
+ref mean_to_prefer "to prefer"
+ref verb_malo "mālō, mālle, māluī"
+
+task 65 conjugate &conj_irreg &praes_act_ind &verb_malo &mean_to_prefer &persons mālō,māvīs,māvult,mālumus,māvultis,mālunt
+task 66 conjugate &conj_irreg &imperf_act_ind &verb_malo &mean_to_prefer &persons mālēbam,mālēbās,mālēbat,mālēbāmus,mālēbātis,mālēbant
+task 67 conjugate &conj_irreg &fut_act_ind &verb_malo &mean_to_prefer &persons mālam,mālēs,mālet,mālēmus,mālētis,mālent
+task 68 conjugate &conj_irreg &perf_act_ind &verb_malo &mean_to_prefer &persons māluī,māluistī,māluit,māluimus,māluistis,māluērunt/māluēre
+task 69 conjugate &conj_irreg &plus_act_ind &verb_malo &mean_to_prefer &persons mālueram,māluerās,māluerat,māluerāmus,māluerātis,māluerant
+task 70 conjugate &conj_irreg &futp_act_ind &verb_malo &mean_to_prefer &persons māluerō,mālueris,māluerit,māluerimus,mālueritis,māluerint
+
+task 71 conjugate &conj_irreg &praes_act_con &verb_malo &mean_to_prefer &persons mālim,mālīs,mālit,mālīmus,mālītis,mālint
+task 72 conjugate &conj_irreg &imperf_act_con &verb_malo &mean_to_prefer &persons māllem,māllēs,māllet,māllēmus,māllētis,māllent
+task 73 conjugate &conj_irreg &perf_act_con &verb_malo &mean_to_prefer &persons māluerim,māluerīs,māluerit,māluerīmus,māluerītis,māluerint
+task 74 conjugate &conj_irreg &plus_act_con &verb_malo &mean_to_prefer &persons māluissem,māluissēs,māluisset,māluissēmus,māluissētis,māluissent
+
+ref mean_to_bear "to bear"
+ref verb_fero "ferō, ferre, tulī, lātum"
+
+task 75 conjugate &conj_irreg &praes_act_ind &verb_fero &mean_to_bear &persons ferō,fers,fert,ferimus,fertis,ferunt
+task 76 conjugate &conj_irreg &imperf_act_ind &verb_fero &mean_to_bear &persons ferēbam,ferēbās,ferēbat,ferēbāmus,ferēbātis,ferēbant
+task 77 conjugate &conj_irreg &fut_act_ind &verb_fero &mean_to_bear &persons feram,ferēs,feret,ferēmus,ferētis,ferent
+task 78 conjugate &conj_irreg &perf_act_ind &verb_fero &mean_to_bear &persons tulī/tetulī,tulistī/tetulistī,tulit/tetulit,tulimus/tetulimus,tulistis/tetulistis,tulērunt/tulēre/tetulērunt/tetulēre
+task 79 conjugate &conj_irreg &plus_act_ind &verb_fero &mean_to_bear &persons tuleram/tetuleram,tulerās/tetulerās,tulerat/tetulerat,tulerāmus/tetulerāmus,tulerātis/tetulerātis,tulerant/tetulerant
+task 80 conjugate &conj_irreg &futp_act_ind &verb_fero &mean_to_bear &persons tulerō/tetulerō,tuleris/tetuleris,tulerit/tetulerit,tulerimus/tetulerimus,tuleritis/tetuleritis,tulerint/tetulerint
+
+#task 81 conjugate &conj_irreg &praes_pas_ind &verb_fero &mean_to_bear &persons
+#task 82 conjugate &conj_irreg &imperf_pas_ind &verb_fero &mean_to_bear &persons
+#task 83 conjugate &conj_irreg &fut_pas_ind &verb_fero &mean_to_bear &persons
+#task 84 conjugate &conj_irreg &perf_pas_ind &verb_fero &mean_to_bear &persons
+#task 85 conjugate &conj_irreg &plus_pas_ind &verb_fero &mean_to_bear &persons
+#task 86 conjugate &conj_irreg &futp_pas_ind &verb_fero &mean_to_bear &persons
+
+#task 87 conjugate &conj_irreg &praes_act_con &verb_fero &mean_to_bear &persons
+#task 88 conjugate &conj_irreg &imperf_act_con &verb_fero &mean_to_bear &persons
+#task 89 conjugate &conj_irreg &perf_act_con &verb_fero &mean_to_bear &persons
+#task 90 conjugate &conj_irreg &plus_act_con &verb_fero &mean_to_bear &persons
+
+#task 91 conjugate &conj_irreg &praes_pas_con &verb_fero &mean_to_bear &persons
+#task 92 conjugate &conj_irreg &imperf_pas_con &verb_fero &mean_to_bear &persons
+#task 93 conjugate &conj_irreg &perf_pas_con &verb_fero &mean_to_bear &persons
+#task 94 conjugate &conj_irreg &plus_pas_con &verb_fero &mean_to_bear &persons
+
+#task 95 conjugate &conj_irreg &praes_act_imp &verb_fero &mean_to_bear &persons
+#task 96 conjugate &conj_irreg &fut_act_imp &verb_fero &mean_to_bear &persons
+#task 95 conjugate &conj_irreg &praes_pas_imp &verb_fero &mean_to_bear &persons
+#task 96 conjugate &conj_irreg &fut_pas_imp &verb_fero &mean_to_bear &persons
+
+# fiō
+# faciō
+# edō
+# dō
+# aiō
+

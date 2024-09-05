@@ -1,0 +1,10 @@
+Name "Secunda lēctiō"
+Description \
+        Second declension singular nouns and adjectives<br>
+
+# Nouns:
+#
+
+
+
+

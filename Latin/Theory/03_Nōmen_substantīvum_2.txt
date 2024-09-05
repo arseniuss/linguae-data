@@ -1,0 +1,18 @@
+title "Secundae dēclīnātiōnis nōmina"
+description "Second declension nouns"
+
+chapter ns2 <EOL
+    # Paradīgma secundae sīve o-dēclīnātiōnis
+
+    | Cāsus                   | Singulāris   | Plūrālis     |
+    | --------------------    | ---------    | --------     |
+    | Nōminātīvus (quid?)     | mūr-**us**   | mūr-**ī**    |
+    | Genetīvus (cuius reī?): | mūr-**ī**    | mūr-**ōrum** |
+    | Datīvus (cui reī?):     | mūr-**ō**    | mūr-**īs**   |
+    | Accūsātīvus (quid?):    | mūr-**um**   | mūr-**ōs**   |
+    | Ablātīvus (quā rē?):    | mūr-**ō**    | mūr-**īs**   |
+    | Vocātīvus:              | mūr-**e**!   | mūr-**ī**    |
+
+    **NB** Mūrus est rēs inanima, itaque interrogāmus: "quid?".
+EOL <EOL
+EOL

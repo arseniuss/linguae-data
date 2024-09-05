@@ -1,0 +1,20 @@
+#
+# Adjectives
+#
+
+
+task l1-1 decline &decl1 &sg_f pulchra "beautiful, fair, pretty" &cases @gen:pulchra
+
+task l1-2 decline &decl1 &sg_f magna "great, large, big" &cases @gen:magna
+
+task l1-3 decline &decl1 &sg_f parva "small, little, puny" &cases @gen:parva
+
+task l1-4 decline &decl1 &sg_f bona "good, honest, brave, noble, kind, pleasant" &cases @gen:bona
+
+task l1-5 decline &decl1 &sg_f mala "unpleasant, distressing, painful, nasty, bad" &cases @gen:mala
+
+task l1-6 decline &decl1 &sg_f alba "white, dull white" &cases @gen:alba
+
+task l1-7 decline &decl1 &sg_f rubra "red; ruddy" &cases @gen:rubra
+
+task l1-8 decline &decl1 &sg_f laeta "happy, cheerful, glad" &cases @gen:laeta

@@ -1,0 +1,18 @@
+title "Prīmae dēclīnātiōnis nōmina"
+description "First declension nouns"
+
+chapter ns1 <EOL
+    # Paradigma prīmae sīve ā-dēclīnātīōnis
+
+    | Cāsus                | Singulāris   | Plūrālis      |
+    | -------------------- | ---------    | --------      |
+    | Nōminātīvus (quis?)  | amīc-**a**   | amīc-**ae**   |
+    | Genetīvus (cuius?):  | amīc-**ae**  | amīc-**ārum** |
+    | Datīvus (cui?):      | amīc-**ae**  | amīc-**īs**   |
+    | Accūsātīvus (quem?): | amīc-**am**  | amīc-**ās**   |
+    | Ablātīvus (quō?):    | amīc-**ā**   | amīc-**īs**   |
+    | Vocātīvus:           | amīc-**a**!  | amīc-**ae**!  |
+
+    **NB** Vocātīvus prīmae dēclīnātiōnis nōn deffert ā nōminātīvō (amīca, amīcae).
+EOL <EOL
+EOL
