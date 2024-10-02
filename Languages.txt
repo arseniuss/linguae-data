@@ -1,0 +1,10 @@
+#
+# Repository for languages
+#
+
+name "Arseniuss's language repository"
+# <a href="https://www.flaticon.com/free-icons/spqr" title="spqr icons">Spqr icons created by Freepik - Flaticon</a>
+
+language Latin Latin Latin/eagle.png
+#language Latin1 Latin Latin/eagle.png
+#language Latin2 Latin Latin/eagle.png
