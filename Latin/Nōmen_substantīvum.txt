@@ -2,6 +2,9 @@
 # Nouns
 #
 
+category decline &decl1 &sg_f
+category decline &decl1 &pl_f
+
 #
 # First declension
 #

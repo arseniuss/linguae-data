@@ -5,6 +5,8 @@
 ref verb_spectare "spectāre"
 ref mean_to_watch "to watch, observe, look at, consider"
 
+category conjugate &conj1 &praes_act_ind
+
 task l1-1 conjugate &conj1 &praes_act_ind &verb_spectare &mean_to_watch &persons @gen:spectāre
 
 ref verb_amare amāre

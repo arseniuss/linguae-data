@@ -2,6 +2,7 @@
 # Adjectives
 #
 
+category decline &decl1 &sg_f
 
 task l1-1 decline &decl1 &sg_f pulchra "beautiful, fair, pretty" &cases @gen:pulchra
 

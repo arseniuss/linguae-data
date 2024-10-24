@@ -1,6 +1,15 @@
-Name Latin
-Version 2024.05.21.
-License 2024 Armands Arseniuss Skolmeisters
+#
+#   Latin language
+#
+
+name        Latin
+version     2024.10.17.1
+image       eagle_512x512.png
+license     2024 Armands Arseniuss Skolmeisters
+license     <a href="https://www.flaticon.com/free-icons/spqr" title="spqr icons">Spqr icons created by Freepik - Flaticon</a>
+
+setting ignore-macrons "Do not use macrons" boolean false
+
 
 # Nouns
 

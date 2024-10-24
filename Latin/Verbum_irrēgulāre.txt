@@ -7,6 +7,16 @@ ref conj_irreg "coniugātiō īrregularis"
 ref mean_to_be "to be, exist"
 ref verb_sum "sum, esse, fuī"
 
+category conjugate &conj_irreg &praes_act_ind
+category conjugate &conj_irreg &praes_act_con
+category conjugate &conj_irreg &imperf_act_ind
+category conjugate &conj_irreg &fut_act_ind
+
+category conjugate &conj_irreg &praes_act_con
+category conjugate &conj_irreg &imperf_act_con
+category conjugate &conj_irreg &perf_act_con
+category conjugate &conj_irreg &plus_act_con
+
 task 1 conjugate &conj_irreg &praes_act_ind &verb_sum &mean_to_be &persons sum,es,est,sumus,estis,sunt
 task 2 conjugate &conj_irreg &imperf_act_ind &verb_sum &mean_to_be &persons eram,erās,erat,erāmus,erātis,erant
 task 3 conjugate &conj_irreg &fut_act_ind &verb_sum &mean_to_be &persons erō,eris/ere,erit,erimus,eritis,erunt
