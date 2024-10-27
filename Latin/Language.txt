@@ -5,8 +5,14 @@
 name        Latin
 version     2024.10.17.1
 image       eagle_512x512.png
-license     2024 Armands Arseniuss Skolmeisters
-license     <a href="https://www.flaticon.com/free-icons/spqr" title="spqr icons">Spqr icons created by Freepik - Flaticon</a>
+license     license1 <EOL
+    ## Content
+    © 2024 Armands Arseniuss Skolmeisters [home page](https://arseniuss.id.lv/)
+EOL
+license     license2 <EOL
+    ## Icons
+    [Spqr icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/spqr)
+EOL
 
 setting ignore-macrons "Do not use macrons" boolean false
 
