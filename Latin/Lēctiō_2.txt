@@ -1,10 +1,14 @@
-Name "Secunda lēctiō"
-Description \
-        Second declension singular nouns and adjectives<br>
+name "Secunda lēctiō"
+description <<EOL
+        Objective: Expand vocabulary with second-declension nouns and introduce adjectives.
+        Content:
+         - Second Declension Nouns: Introduce a few masculine and neuter nouns, such as servus (slave), amicus (friend), and bellum (war).
+         - Agreement with Adjectives: Introduce simple adjectives, such as bonus, bona, bonum (good) and magnus, magna, magnum (great/big).
+         - Sentence Practice: Combine first- and second-declension nouns with adjectives to reinforce noun-adjective agreement. Example: "Amicus bonus est" (He is a good friend).
+EOL
 
-# Nouns:
-#
+chapter l2-ch1 <<EOL
 
+EOL <<EOL
 
-
-
+EOL
