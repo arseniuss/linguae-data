@@ -1,13 +1,15 @@
 name "Chapter 1A: Latin Nouns and Simple Sentences"
-description <<EOL
-        Objective: Introduce basic noun structure and simple sentence construction using first-declension nouns.
-        Content:
+description <EOL
+        **Objective:** Introduce basic noun structure and simple sentence construction using first-declension nouns.
+
+        **Content:**
+
          - Introduction to Cases: Focus on nominative (subject) and accusative (direct object).
          - First Declension Nouns: Introduce a few key nouns, such as puella (girl), terra (land), and familia (family).
          - Basic Sentence Structure: Simple Subject-Verb-Object sentences. Example: "Puella aquam portat" (The girl carries water).
 EOL
 
-chapter l1-ch1 <<EOL
+chapter l1-ch1 <EOL
         1. Quid est Nomen?
 
         Nomen est verbum pro persona, loco, re, vel idea, sicut "puella," "aqua," aut "terra." In Latine, nomina diversa suffixa habent ad suam partem in sententia monstrandam. Haec mutatio declinatio vocatur.
@@ -33,7 +35,7 @@ chapter l1-ch1 <<EOL
          - Aquam est obiectum in casu accusativo.
 
         In Latina, ordo verborum variari potest quia suffixa nobis sensum ostendunt. Hoc nos adiuvat ad intellectum suffixorum.
-EOF <<EOL
+EOL <EOL
         1. What is a Noun?
 
         A noun is a word for a person, place, thing, or idea, like "girl," "water," or "land." In Latin, nouns have different endings to show their role in a sentence. This change is called declension.
@@ -65,53 +67,51 @@ EOL
 # Nouns: rosa, silva, magistra, schola, fīlia, aula, patria, agricola, puella
 # Nouns: incola, discipula, aqua, herba, avia, vacca, mēnsa, columba, rāna, Iūlia
 
-theory Theory/Nōmen_substantīvum_1.txt
-
-task-ref Nōmen_substantīvum.txt-1 # rosa
-task-ref Nōmen_substantīvum.txt-3 # silva
-task-ref Nōmen_substantīvum.txt-5 # magistra
-task-ref Nōmen_substantīvum.txt-7 # schola
-task-ref Nōmen_substantīvum.txt-9 # fīlia
-task-ref Nōmen_substantīvum.txt-11 # aula
-task-ref Nōmen_substantīvum.txt-13 # patria
-task-ref Nōmen_substantīvum.txt-15 # agricola
-task-ref Nōmen_substantīvum.txt-17 # puella
-task-ref Nōmen_substantīvum.txt-19 # incola
-task-ref Nōmen_substantīvum.txt-21 # discipula
-task-ref Nōmen_substantīvum.txt-23 # aqua
-task-ref Nōmen_substantīvum.txt-25 # herba
-task-ref Nōmen_substantīvum.txt-27 # avia
-task-ref Nōmen_substantīvum.txt-29 # vacca
-task-ref Nōmen_substantīvum.txt-31 # mēnsa
-task-ref Nōmen_substantīvum.txt-33 # columba
-task-ref Nōmen_substantīvum.txt-35 # rāna
-task-ref Nōmen_substantīvum.txt-37 # Iūlia
+task-ref Trainings/Nōmen_substantīvum.txt-1 # rosa
+task-ref Trainings/Nōmen_substantīvum.txt-3 # silva
+task-ref Trainings/Nōmen_substantīvum.txt-5 # magistra
+task-ref Trainings/Nōmen_substantīvum.txt-7 # schola
+task-ref Trainings/Nōmen_substantīvum.txt-9 # fīlia
+task-ref Trainings/Nōmen_substantīvum.txt-11 # aula
+task-ref Trainings/Nōmen_substantīvum.txt-13 # patria
+task-ref Trainings/Nōmen_substantīvum.txt-15 # agricola
+task-ref Trainings/Nōmen_substantīvum.txt-17 # puella
+task-ref Trainings/Nōmen_substantīvum.txt-19 # incola
+task-ref Trainings/Nōmen_substantīvum.txt-21 # discipula
+task-ref Trainings/Nōmen_substantīvum.txt-23 # aqua
+task-ref Trainings/Nōmen_substantīvum.txt-25 # herba
+task-ref Trainings/Nōmen_substantīvum.txt-27 # avia
+task-ref Trainings/Nōmen_substantīvum.txt-29 # vacca
+task-ref Trainings/Nōmen_substantīvum.txt-31 # mēnsa
+task-ref Trainings/Nōmen_substantīvum.txt-33 # columba
+task-ref Trainings/Nōmen_substantīvum.txt-35 # rāna
+task-ref Trainings/Nōmen_substantīvum.txt-37 # Iūlia
 
 # Verbs: spectāre, amāre, laudāre, narrāre, portāre, arāre
 
-task-ref Verbum_rēgulāre.txt-l1-1 # spectāre
-task-ref Verbum_rēgulāre.txt-l1-2 # amāre
-task-ref Verbum_rēgulāre.txt-l1-3 # laudāre
-task-ref Verbum_rēgulāre.txt-l1-4 # narrāre
-task-ref Verbum_rēgulāre.txt-l1-5 # portāre
-task-ref Verbum_rēgulāre.txt-l1-6 # arāre
+task-ref Trainings/Verbum_rēgulāre.txt-l1-1 # spectāre
+task-ref Trainings/Verbum_rēgulāre.txt-l1-2 # amāre
+task-ref Trainings/Verbum_rēgulāre.txt-l1-3 # laudāre
+task-ref Trainings/Verbum_rēgulāre.txt-l1-4 # narrāre
+task-ref Trainings/Verbum_rēgulāre.txt-l1-5 # portāre
+task-ref Trainings/Verbum_rēgulāre.txt-l1-6 # arāre
 
 # Addtional verbs: sum, dare, habēre
 
-task-ref Verbum_irrēgulāre.txt-1 # sum
-task-ref Verbum_rēgulāre.txt-l1-7 # dare
-task-ref Verbum_rēgulāre.txt-l1-8 # habēre
+task-ref Trainings/Verbum_irrēgulāre.txt-1 # sum
+task-ref Trainings/Verbum_rēgulāre.txt-l1-7 # dare
+task-ref Trainings/Verbum_rēgulāre.txt-l1-8 # habēre
 
 # Adjectives: pulchra, magna, parva, bona, mala, alba, rubra, laeta
 
-task-ref Nōmen_adiectīvum.txt-l1-1 # pulchra
-task-ref Nōmen_adiectīvum.txt-l1-2 # magna
-task-ref Nōmen_adiectīvum.txt-l1-3 # parva
-task-ref Nōmen_adiectīvum.txt-l1-4 # bona
-task-ref Nōmen_adiectīvum.txt-l1-5 # mala
-task-ref Nōmen_adiectīvum.txt-l1-6 # alba
-task-ref Nōmen_adiectīvum.txt-l1-7 # rubra
-task-ref Nōmen_adiectīvum.txt-l1-8 # laeta
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-1 # pulchra
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-2 # magna
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-3 # parva
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-4 # bona
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-5 # mala
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-6 # alba
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-7 # rubra
+task-ref Trainings/Nōmen_adiectīvum.txt-l1-8 # laeta
 
 # Conjunctions: et, sed, aut
 

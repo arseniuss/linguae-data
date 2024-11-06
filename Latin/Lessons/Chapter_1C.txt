@@ -1,13 +1,15 @@
 name "Chapter 1C: Basic Pronouns and Expanded Sentence Structures"
-description <<EOL
+description <EOL
 	Objective: Familiarize students with personal pronouns and practice basic sentence patterns.
+
 	Content:
+
 	 - First and Second Person Pronouns: Focus on ego (I) and tu (you) for singular subjects.
 	 - Third Person Pronouns (Intro): Use is (he), ea (she), id (it) in nominative only.
 	 - Sentence Building: Practice sentences using nouns, pronouns, and adjectives. Example: "Ego sum amica" (I am a friend).
 EOL
 
-chapter l3-ch1 <<EOL
+chapter l3-ch1 <EOL
 	1. Quid sunt Pronomina?
 
 	Pronomen est verbum quod pro nomine ponitur. In Anglica, utimur pronominibus sicut "ego," "tu," "is," "ea," et "id." Pronomina nos adiuvant ne nomina repetamus.
@@ -38,7 +40,7 @@ chapter l3-ch1 <<EOL
 	4. Exercitatio Pronominibus in Sententiis Utendis
 
 	Pronomina nobis plures optiones pro varietate sententiarum dant. Exercitatio cum simplicibus sententiis nos adiuvat ad ordinem verborum Latinorum et casus intellegendos.
-EOL <<EOL
+EOL <EOL
 	1. What are Pronouns?
 
 	A pronoun is a word used in place of a noun. In English, we use pronouns like "I," "you," "he," "she," and "it." Pronouns help us avoid repeating nouns.

@@ -1,13 +1,15 @@
 name "Chapter 1B: Second Declension Nouns and Basic Adjectives"
-description <<EOL
+description <EOL
         Objective: Expand vocabulary with second-declension nouns and introduce adjectives.
+
         Content:
+
          - Second Declension Nouns: Introduce a few masculine and neuter nouns, such as servus (slave), amicus (friend), and bellum (war).
          - Agreement with Adjectives: Introduce simple adjectives, such as bonus, bona, bonum (good) and magnus, magna, magnum (great/big).
          - Sentence Practice: Combine first- and second-declension nouns with adjectives to reinforce noun-adjective agreement. Example: "Amicus bonus est" (He is a good friend).
 EOL
 
-chapter l2-ch1 <<EOL
+chapter l2-ch1 <EOL
         1. Secunda Declinatio Nomina
 
         In hoc capitulo, discimus nomina in secunda declinatione. Haec nomina saepe in -us (masculinum) vel -um (neutrum) in casu nominativo finiunt.
@@ -44,7 +46,7 @@ chapter l2-ch1 <<EOL
         Amicus bonus servum videt
          - Amicus bonus (bonus amicus) est subiectum in casu nominativo.
          - Servum (servum) est obiectum in casu accusativo.
-EOL <<EOL
+EOL <EOL
         1. Second Declension Nouns
 
         In this chapter, we learn nouns in the second declension. These nouns usually end in -us (masculine) or -um (neuter) in the nominative case.

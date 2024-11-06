@@ -90,45 +90,9 @@ theory Theory/07_Nōmen_adiectīvum.txt
 theory Theory/08_Prōnōmen.txt
 theory Theory/09_Numerālia.txt
 
-Lesson Lēctiō_1.txt
-
-#
-# The second chapter
-# - 2nd decliation
-# - genetīvus possesivus, datīvus
-#
-# Nouns:
-# Verbs:
-#
-
-# Fīlia agricolae amīcae vaccam in aulā mōstrat.
-# Fīliae agricolārum amicīs vacās in aulīs mōnstrant.
-
-# in patriā
-# in terrā
-# ex silvā
-# dē agricolīs
-# cum aliīs peullīs
-# prō patriā
-# prō amīcā
-
-# in scholā esse
-# in scholam properāre
-
-Lesson Lēctiō_2.txt
-
-#
-# The third chapter
-# - cum as adverb and as conjunction
-# - 3rd person passive
-# - ablative three meanings
-# - in, ex, dē, cum, sine, prō + abl.
-#
-# Nouns:
-# Verbs:
-#
-
-Lesson Lēctiō_3.txt
+lesson Lessons/Chapter_1A.txt
+lesson Lessons/Chapter_1B.txt
+lesson Lessons/Chapter_1C.txt
 
 #
 # The fourth chapter
@@ -141,7 +105,7 @@ Lesson Lēctiō_3.txt
 # Verbs:
 #
 
-Lesson Lēctiō_4.txt
+
 
 #
 # The fifth chapter
@@ -154,8 +118,6 @@ Lesson Lēctiō_4.txt
 # Adjectives: parvus, magnus,
 # Verbs:
 #
-
-Lesson Lēctiō_5.txt
 
 #
 # The sixth chapter
@@ -226,12 +188,12 @@ Lesson Lēctiō_5.txt
 #Special case ANY
 Training Test.txt "Test" "Test"
 Training "" "Omnes exercitationēs" "All trainings"
-Training Nōmen_substantīvum.txt "Nōmen substantīvum" "Nouns"
-Training Prōnōmen.txt "Prōnomen" "Pronouns"
-Training Nōmen_adiectīvum.txt "Nōmen adiectīvum" "Adjectives"
-Training Verbum_rēgulāre.txt "Verbum rēgulāre" "Regular verbs"
-Training Verbum_irrēgulāre.txt "Verbum irrēgulāre" "Irregular verbs"
-Training Prōformae_adverbōrum.txt "Prōformae adverbōrum" "Latin correlatives"
+Training Trainings/Nōmen_substantīvum.txt "Nōmen substantīvum" "Nouns"
+Training Trainings/Prōnōmen.txt "Prōnomen" "Pronouns"
+Training Trainings/Nōmen_adiectīvum.txt "Nōmen adiectīvum" "Adjectives"
+Training Trainings/Verbum_rēgulāre.txt "Verbum rēgulāre" "Regular verbs"
+Training Trainings/Verbum_irrēgulāre.txt "Verbum irrēgulāre" "Irregular verbs"
+Training Trainings/Prōformae_adverbōrum.txt "Prōformae adverbōrum" "Latin correlatives"
 
 # Modī:
 # - indīcātīvus
