@@ -1,4 +1,4 @@
-name "Prīma lēctīo"
+name "Chapter 1A: Latin Nouns and Simple Sentences"
 description <<EOL
         Objective: Introduce basic noun structure and simple sentence construction using first-declension nouns.
         Content:
