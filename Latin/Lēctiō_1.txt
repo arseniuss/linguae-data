@@ -1,8 +1,66 @@
-Name "Prīma lēctīo"
-Description \
-        First declension singular nouns and adjectives<br>\
-        Present active indicative<br>\
-        Conjunctions: et, sed, aut
+name "Prīma lēctīo"
+description <<EOL
+        Introduce basic noun structure and simple sentence construction using first-declension nouns.
+        Content:
+         - Introduction to Cases: Focus on nominative (subject) and accusative (direct object).
+         - First Declension Nouns: Introduce a few key nouns, such as puella (girl), terra (land), and familia (family).
+         - Basic Sentence Structure: Simple Subject-Verb-Object sentences. Example: "Puella aquam portat" (The girl carries water).
+EOL
+
+chapter l1-ch1 <<EOL
+        1. Quid est Nomen?
+
+        Nomen est verbum pro persona, loco, re, vel idea, sicut "puella," "aqua," aut "terra." In Latine, nomina diversa suffixa habent ad suam partem in sententia monstrandam. Haec mutatio declinatio vocatur.
+        
+        2. Prima Declinatio Nomina
+
+        Multa nomina Latina quae in -a finiunt in prima declinatione sunt et saepe femina sunt. Hic sunt aliqua exempla:
+
+         - puella
+         - aqua
+         - terra
+
+        Haec nomina suffixa mutant secundum suam usum:
+         - Casus Nominativus: Usus est pro subiecto (qui agere facit). Exemplum: puella (puella).
+         - Casus Accusativus: Usus est pro obiecto (qui actionem accipit). Exemplum: puellam (puella).
+
+        3. Sententiae Simplices
+
+        Sententia Latina simplex habet subiectum (persona vel res quae actionem facit) et verbum. Exempli gratia:
+
+        Puella aquam portat
+         - Puella est subiectum in casu nominativo.
+         - Aquam est obiectum in casu accusativo.
+
+        In Latina, ordo verborum variari potest quia suffixa nobis sensum ostendunt. Hoc nos adiuvat ad intellectum suffixorum.
+EOF <<EOL
+        1. What is a Noun?
+
+        A noun is a word for a person, place, thing, or idea, like "girl," "water," or "land." In Latin, nouns have different endings to show their role in a sentence. This change is called declension.
+
+        2. First Declension Nouns
+
+        Many Latin nouns that end in -a are in the first declension and are usually feminine. Here are some examples:
+
+         - puella – girl
+         - aqua – water
+         - terra – land
+
+        These nouns change their endings depending on how they are used:
+
+         - Nominative case: Used for the subject (the one doing the action). Example: puella (the girl).
+         - Accusative case: Used for the object (the one receiving the action). Example: puellam (the girl).
+        
+        3. Simple Sentences
+
+        A basic Latin sentence has a subject (the person or thing doing the action) and a verb. For example:
+
+        Puella aquam portat – The girl carries water.
+                 - Puella (the girl) is the subject in nominative case.
+                 - Aquam (water) is the object in accusative case.
+                 - Portat means "carries."
+        In Latin, word order is flexible because the endings tell us the meaning. This lets us focus on understanding how endings work.
+EOL
 
 # Nouns: rosa, silva, magistra, schola, fīlia, aula, patria, agricola, puella
 # Nouns: incola, discipula, aqua, herba, avia, vacca, mēnsa, columba, rāna, Iūlia
