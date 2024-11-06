@@ -1,4 +1,14 @@
-Name "Tērtia lēctiō"
-Description 3
+name "Tērtia lēctiō"
+description <<EOL
+	Objective: Familiarize students with personal pronouns and practice basic sentence patterns.
+	Content:
+	 - First and Second Person Pronouns: Focus on ego (I) and tu (you) for singular subjects.
+	 - Third Person Pronouns (Intro): Use is (he), ea (she), id (it) in nominative only.
+	 - Sentence Building: Practice sentences using nouns, pronouns, and adjectives. Example: "Ego sum amica" (I am a friend).
+EOL
 
+chapter l3-ch1 <<EOL
 
+EOL <<EOL
+
+EOL
