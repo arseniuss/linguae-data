@@ -1,6 +1,6 @@
 name "Prīma lēctīo"
 description <<EOL
-        Introduce basic noun structure and simple sentence construction using first-declension nouns.
+        Objective: Introduce basic noun structure and simple sentence construction using first-declension nouns.
         Content:
          - Introduction to Cases: Focus on nominative (subject) and accusative (direct object).
          - First Declension Nouns: Introduce a few key nouns, such as puella (girl), terra (land), and familia (family).
