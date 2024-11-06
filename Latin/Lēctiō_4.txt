@@ -1,4 +1,4 @@
-Name "Quārta lēctiō"
-Description 4
+name "Chapter 2: Introduction to Verbs and Present Tense Conjugations"
+description <<EOL
 
-
+EOL
