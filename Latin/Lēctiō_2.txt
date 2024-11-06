@@ -1,4 +1,4 @@
-name "Secunda lēctiō"
+name "Chapter 1B: Second Declension Nouns and Basic Adjectives"
 description <<EOL
         Objective: Expand vocabulary with second-declension nouns and introduce adjectives.
         Content:
@@ -8,7 +8,80 @@ description <<EOL
 EOL
 
 chapter l2-ch1 <<EOL
+        1. Secunda Declinatio Nomina
 
+        In hoc capitulo, discimus nomina in secunda declinatione. Haec nomina saepe in -us (masculinum) vel -um (neutrum) in casu nominativo finiunt.
+
+        Exempla:
+
+         - servus – masculinum
+         - amicus – masculinum
+         - bellum – neutrum
+
+        Sicut prima declinatione, haec nomina suffixa mutant ad suam partem in sententia monstrandam:
+
+         - Casus Nominativus: Usus est pro subiecto. Exemplum: amicus (amicus).
+         - Casus Accusativus: Usus est pro obiecto. Exemplum: amicum (amicum).
+
+        2. Adiectiva et Concordantia
+
+        Adiectivum describit nomen, sicut "bonus," "magnus," aut "parvus." In Latina, adiectiva concordare debent cum nomine quod describunt in genere (masculinum, femininum, neutrum), numero (singulari aut plurali), et casu (nominativo, accusativo, etc.).
+
+        Hic sunt quaedam adiectiva:
+
+         - bonus, bona, bonum
+         - magnus, magna, magnum
+
+        Exempla concordantiae adiectivorum cum nominibus:
+
+         - amicus bonus – masculinum
+         - bellum magnum – neutrum
+
+        3. Sententiae Magis Compositae
+
+        Nunc, possumus sententias descriptiviores aedificare nomina et adiectiva coniungendo:
+
+        Amicus bonus servum videt
+         - Amicus bonus (bonus amicus) est subiectum in casu nominativo.
+         - Servum (servum) est obiectum in casu accusativo.
 EOL <<EOL
+        1. Second Declension Nouns
 
+        In this chapter, we learn nouns in the second declension. These nouns usually end in -us (masculine) or -um (neuter) in the nominative case.
+
+        Examples:
+
+         - servus – slave, servant (masculine)
+         - amicus – friend (masculine)
+         - bellum – war (neuter)
+
+        Like first declension nouns, these nouns change their endings to show their role in the sentence:
+
+         - Nominative case: Used for the subject. Example: amicus (the friend).
+         - Accusative case: Used for the object. Example: amicum (the friend).
+
+        2. Adjectives and Agreement
+
+        An adjective describes a noun, like "good," "big," or "small." In Latin, adjectives must agree with the noun they describe in gender (masculine, feminine, or neuter), number (singular or plural), and case (nominative, accusative, etc.).
+
+        Here are some basic adjectives:
+
+         - bonus, bona, bonum – good
+         - magnus, magna, magnum – big, great
+
+        Examples of adjective-noun agreement:
+
+         - amicus bonus – the good friend (masculine)
+         - bellum magnum – the great war (neuter)
+
+        3. Building More Complex Sentences
+
+        Now, we can build more descriptive sentences by combining nouns with adjectives:
+
+        Amicus bonus servum videt – The good friend sees the servant.
+                 - Amicus bonus (good friend) is the subject in nominative case.
+                 - Servum (servant) is the object in accusative case.
+                 - Videt means "sees."
 EOL
+
+
