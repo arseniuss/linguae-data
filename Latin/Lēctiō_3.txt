@@ -1,4 +1,4 @@
-name "Tērtia lēctiō"
+name "Chapter 1C: Basic Pronouns and Expanded Sentence Structures"
 description <<EOL
 	Objective: Familiarize students with personal pronouns and practice basic sentence patterns.
 	Content:
@@ -8,7 +8,73 @@ description <<EOL
 EOL
 
 chapter l3-ch1 <<EOL
+	1. Quid sunt Pronomina?
 
+	Pronomen est verbum quod pro nomine ponitur. In Anglica, utimur pronominibus sicut "ego," "tu," "is," "ea," et "id." Pronomina nos adiuvant ne nomina repetamus.
+
+	2. In Latina, pronomina etiam suffixa mutant secundum suam partem in sententia (subiectum, obiectum, etc.). Hic sunt pronomina personalia singularia:
+
+	 - ego – ego (nominativus, forma subiectiva)
+	 - mei – mei (genitivus, forma possessiva)
+	 - tu – tu (nominativus, forma subiectiva)
+	 - tui – tui (genitivus, forma possessiva)
+	 - is, ea, id – is, ea, id (nominativus, forma subiectiva)
+
+	Haec pronomina nobis permittunt ut simplices sententias sine specificis nominibus creemus.
+
+	3. Nominibus et Pronominibus in Sententiis Coniungendis
+
+	Cum pronominibus nunc cognitis, eas cum nominibus et verbis coniungere possumus ut varias sententias faciamus:
+
+    	Ego amicus sum – Ego amicus sum.
+	 - Ego (ego) est pronomen subiectivum in casu nominativo.
+	 - Amicus (amicus) describit subiectum.
+	 - Sum significat "ego sum."
+
+	Tu puellam amas – Tu puellam amas.
+	 - Tu (tu) est pronomen subiectivum in casu nominativo.
+	 - Puellam (puellam) est obiectum in casu accusativo.
+
+	4. Exercitatio Pronominibus in Sententiis Utendis
+
+	Pronomina nobis plures optiones pro varietate sententiarum dant. Exercitatio cum simplicibus sententiis nos adiuvat ad ordinem verborum Latinorum et casus intellegendos.
 EOL <<EOL
+	1. What are Pronouns?
 
+	A pronoun is a word used in place of a noun. In English, we use pronouns like "I," "you," "he," "she," and "it." Pronouns help us avoid repeating nouns.
+
+	2. Personal Pronouns in Latin
+
+	In Latin, pronouns also change their endings based on their role in the sentence (subject, object, etc.). Here are the basic singular pronouns:
+
+	 - ego – I (nominative, subject form)
+	 - mei – of me (genitive, possessive form)
+	 - tu – you (nominative, subject form)
+	 - tui – of you (genitive, possessive form)
+	 - is, ea, id – he, she, it (nominative, subject form)
+
+	These pronouns allow us to create simple sentences without using specific names.
+
+	3. Combining Nouns and Pronouns in Sentences
+
+	Now that we know some pronouns, we can combine them with nouns and verbs to make different types of sentences:
+
+    	Ego amicus sum – I am a friend.
+
+	 - Ego (I) is the subject pronoun in nominative case.
+	 - Amicus (friend) describes the subject.
+	 - Sum means "I am."
+
+	Tu puellam amas – You love the girl.
+
+	 - Tu (you) is the subject pronoun in nominative case.
+	 - Puellam (the girl) is the object in accusative case.
+	 - Amas means "you love."
+
+	4. Practice Using Pronouns in Sentences
+
+	Pronouns give us more options for sentence variety. Practicing with simple sentences helps us become comfortable with Latin word order and cases.
 EOL
+
+
+
