@@ -1,0 +1,87 @@
+name "Chapter 5: The Ablative Case (Expressing "By," "With," or "From")"
+description <EOL
+    **Objective:**
+
+    Learn to use the ablative case to describe means, separation, and accompaniment, as in "with a friend" or "from the house."
+
+    **Content:**
+
+    Ablative Case Purpose: Shows how, with what, or from where an action occurs.
+
+    **Ablative Endings:**
+
+     - First Declension: -ā (e.g., puellā – by/with/from the girl)
+     - Second Declension: -ō (e.g., amīcō – by/with/from the friend)
+
+    **Examples:** Sentences using the ablative case with and without prepositions, like “Cum amīcō ambulat” (He/she walks with a friend).
+EOL
+
+chapter l7-ch1 <EOL
+    # What is the Ablative Case?
+
+    The ablative case is used to show various relationships such as means, separation, or accompaniment. It answers questions like "By what means?" "With whom?" and "From where?"
+
+     - Example: “He fights with a sword” or "He comes from the house."
+
+    The ablative case often translates into English as "by," "with," or "from."
+
+    # Ablative Endings for the First and Second Declensions
+
+    Here are the ablative singular endings for the first and second declensions:
+
+     - First Declension: -ā (e.g., *puellā* – "by/with/from the girl")
+     - Second Declension: -ō (e.g., *amīcō* – "by/with/from the friend")
+
+    # Examples of the Ablative Case in Sentences
+
+    Here are some examples of how the ablative case is used in sentences:
+
+     - *Gladiō pugnat* – He/she fights with a sword.
+     - *E villā venit* – He/she comes from the house.
+     - *Cum amīcō ambulat* – He/she walks with a friend.
+
+    # Using Prepositions with the Ablative
+
+    Some Latin prepositions always take the ablative case. For example:
+
+     - *Cum* (with) – Cum amīcō (With a friend)
+     - *E* or *Ex* (from, out of) – E villā (From the house)
+
+    # Summary
+
+    In this chapter, you will learn to use the ablative case to show how an action is done, who it’s done with, and from where it originates. This case is very useful in describing the circumstances of actions.
+EOL <EOL
+    # Quid est Casus Ablativus?
+
+    Casus ablativus adhibetur ad varias relationes ostendendas, ut modum, separationem, vel comitantiam. Responsa praebet quaestionibus, "Quo modo?" "Cum quo?" vel "Unde?"
+
+     - Exemplum: "Pugnat gladiō" aut "Venit e villā."
+
+    Casus ablativus saepe Anglice vertitur in "ab," "cum," aut "ā."
+
+    # Fines Ablativi Primae et Secundae Declinationis
+
+    Hic sunt fines ablativi singularis primae et secundae declinationis:
+
+     - Prima Declinatione: -ā (ex. puellā – "ab/cum/ā puellā")
+     - Secunda Declinatione: -ō (ex. amīcō – "ab/cum/ā amīcō")
+
+    # Exempla Casus Ablativi in Sententiis
+
+    Hic sunt quaedam exempla de casu ablativo adhibito in sententiis:
+
+     - Gladiō pugnat
+     - E villā venit
+     - Cum amīcō ambulat
+
+    # Prepositiones cum Casu Ablativo
+
+    Quaedam praepositiones Latinas semper casum ablativum accipiunt. Exempli gratia:
+
+     - Cum (cum) – Cum amīcō (Cum amīcō)
+     - E vel Ex (ab, ex) – E villā (Ab villā)
+
+    # Summarium
+
+    In hoc capite, discēmus uti casu ablativo ad ostendendum quomodo actio fiat, cum quo fiat, et unde oriatur. Hic casus admodum utilis est in describendis circumstantiis actionum.
+EOL

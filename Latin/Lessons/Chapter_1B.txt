@@ -1,12 +1,12 @@
 name "Chapter 1B: Second Declension Nouns and Basic Adjectives"
 description <EOL
-        Objective: Expand vocabulary with second-declension nouns and introduce adjectives.
+        **Objective:** Expand vocabulary with second-declension nouns and introduce adjectives.
 
-        Content:
+        **Content:**
 
-         - Second Declension Nouns: Introduce a few masculine and neuter nouns, such as servus (slave), amicus (friend), and bellum (war).
-         - Agreement with Adjectives: Introduce simple adjectives, such as bonus, bona, bonum (good) and magnus, magna, magnum (great/big).
-         - Sentence Practice: Combine first- and second-declension nouns with adjectives to reinforce noun-adjective agreement. Example: "Amicus bonus est" (He is a good friend).
+         - **Second Declension Nouns:** Introduce a few masculine and neuter nouns, such as servus (slave), amicus (friend), and bellum (war).
+         - **Agreement with Adjectives:** Introduce simple adjectives, such as bonus, bona, bonum (good) and magnus, magna, magnum (great/big).
+         - **Sentence Practice:** Combine first- and second-declension nouns with adjectives to reinforce noun-adjective agreement. Example: "Amicus bonus est" (He is a good friend).
 EOL
 
 chapter l2-ch1 <EOL

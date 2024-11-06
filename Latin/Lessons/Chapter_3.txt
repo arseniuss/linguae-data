@@ -1,0 +1,79 @@
+name "Chapter 3: The Genitive Case (Possession)"
+description <EOL
+    **Objective:**
+
+        Learn to express possession in Latin using the genitive case, allowing students to indicate relationships of ownership, like "the girl’s book."
+
+    **Content:**
+
+        Genitive Case Purpose: Shows possession, similar to "’s" or "of" in English.
+
+        Genitive Endings:
+
+        - First Declension: -ae (e.g., puellae – of the girl)
+        - Second Declension: -i (e.g., amici – of the friend)
+EOL
+
+chapter l5-ch1 <EOL
+    # What is the Genitive Case?
+
+    The genitive case is used to show possession or a relationship of belonging between two nouns. It answers the question, "Whose?" in English and is similar to using "’s" or "of" to show ownership.
+
+    Example: "The farmer’s land" or "The land of the farmer."
+
+    In Latin, the noun that shows possession changes its ending to indicate the genitive case.
+
+    # Genitive Endings for the First and Second Declensions
+
+    To use the genitive case, we need to know the correct endings. Here are the genitive singular endings for the first and second declensions:
+
+     - First Declension: -ae (e.g., puellae – "of the girl" or "the girl’s")
+     - Second Declension: -i (e.g., amici – "of the friend" or "the friend’s")
+
+    # Examples of the Genitive Case in Sentences
+
+    Here are some examples of using the genitive case to show possession:
+
+     - Agricolae villa – the farmer’s house / the house of the farmer
+     - Equi pueri – the boy’s horse / the horse of the boy
+     - Puellae liber – the girl’s book / the book of the girl
+
+    In each example, the noun in the genitive case shows who owns or is associated with something else.
+
+    # Practice with the Genitive Case
+
+    To get used to using the genitive case, practice forming sentences like those above, showing who owns or is connected to various nouns.
+EOL <EOL
+    # Quid est Casus Genetivus?
+
+    Casus genetivus adhibetur ad possessionem vel relationem inter duos nomina ostendendam. Respondet quaestioni "Cuius?" et similis est usui "’s" vel "of" in Anglica lingua ad possessionem significandam.
+
+    Exemplum: "Terra agricolae" sive "The farmer’s land."
+
+    In lingua Latina, nomen quod possessionem ostendit suum finem mutat ut casum genetivum indicet.
+
+    # Fines Genetivi Primae et Secundae Declinationis
+
+    Ad casum genetivum recte adhibendum, fines scire debemus. Hic sunt fines genetivi singularis primae et secundae declinationis:
+
+     - Prima Declinatione: -ae (ex. puellae – "of the girl" sive "puellae")
+     - Secunda Declinatione: -i (ex. amici – "of the friend" sive "amici")
+
+    # Exempla Casus Genetivi in Sententiis
+
+    Hic sunt quaedam exempla ad casum genetivum adhibendum ad possessionem ostendendam:
+
+     - Agricolae villa
+     - Equi pueri
+     - Puellae liber
+
+    In singulis exemplis, nomen in casu genetivo ostendit cui res aliae sunt vel cum quo coniunguntur.
+
+    # Exercitatio cum Casu Genetivo
+
+    Ad casum genetivum melius intellegendum, exerceamus sententias formandas ut possessionem in lingua Latina ostendere discamus.
+EOL
+
+
+
+

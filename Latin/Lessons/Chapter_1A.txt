@@ -4,9 +4,9 @@ description <EOL
 
         **Content:**
 
-         - Introduction to Cases: Focus on nominative (subject) and accusative (direct object).
-         - First Declension Nouns: Introduce a few key nouns, such as puella (girl), terra (land), and familia (family).
-         - Basic Sentence Structure: Simple Subject-Verb-Object sentences. Example: "Puella aquam portat" (The girl carries water).
+         - **Introduction to Cases:** Focus on nominative (subject) and accusative (direct object).
+         - **First Declension Nouns:** Introduce a few key nouns, such as *puella* (girl), *terra* (land), and *familia* (family).
+         - **Basic Sentence Structure:** Simple Subject-Verb-Object sentences. Example: "Puella aquam portat" (The girl carries water).
 EOL
 
 chapter l1-ch1 <EOL
@@ -64,8 +64,7 @@ EOL <EOL
         In Latin, word order is flexible because the endings tell us the meaning. This lets us focus on understanding how endings work.
 EOL
 
-# Nouns: rosa, silva, magistra, schola, fīlia, aula, patria, agricola, puella
-# Nouns: incola, discipula, aqua, herba, avia, vacca, mēnsa, columba, rāna, Iūlia
+# Nouns: rosa, silva, magistra, schola, fīlia, aula, patria, agricola, puella, incola, discipula, aqua, herba, avia, vacca, mēnsa, columba, rāna, Iūlia
 
 task-ref Trainings/Nōmen_substantīvum.txt-1 # rosa
 task-ref Trainings/Nōmen_substantīvum.txt-3 # silva
@@ -87,7 +86,7 @@ task-ref Trainings/Nōmen_substantīvum.txt-33 # columba
 task-ref Trainings/Nōmen_substantīvum.txt-35 # rāna
 task-ref Trainings/Nōmen_substantīvum.txt-37 # Iūlia
 
-# Verbs: spectāre, amāre, laudāre, narrāre, portāre, arāre
+# Verbs: spectāre, amāre, laudāre, narrāre, portāre, arāre, currere, vidēre, laborare, habēre, vagīre
 
 task-ref Trainings/Verbum_rēgulāre.txt-l1-1 # spectāre
 task-ref Trainings/Verbum_rēgulāre.txt-l1-2 # amāre
@@ -102,7 +101,7 @@ task-ref Trainings/Verbum_irrēgulāre.txt-1 # sum
 task-ref Trainings/Verbum_rēgulāre.txt-l1-7 # dare
 task-ref Trainings/Verbum_rēgulāre.txt-l1-8 # habēre
 
-# Adjectives: pulchra, magna, parva, bona, mala, alba, rubra, laeta
+# Adjectives: pulchra, magna, parva, bona, mala, alba, rubra, laeta, longa, nova, alta, grata, clara
 
 task-ref Trainings/Nōmen_adiectīvum.txt-l1-1 # pulchra
 task-ref Trainings/Nōmen_adiectīvum.txt-l1-2 # magna
@@ -112,17 +111,6 @@ task-ref Trainings/Nōmen_adiectīvum.txt-l1-5 # mala
 task-ref Trainings/Nōmen_adiectīvum.txt-l1-6 # alba
 task-ref Trainings/Nōmen_adiectīvum.txt-l1-7 # rubra
 task-ref Trainings/Nōmen_adiectīvum.txt-l1-8 # laeta
-
-# Conjunctions: et, sed, aut
-
-# Nouns: rosa(4), silva(2), magistra(2), schola(2), fīlia(3), aula(1), patria(1), agricola(2), puella(6)
-# Nouns: incola(0), discipula(4), aqua(0), herba(2), avia(1), vacca(1), mēnsa(2), columba(3), rāna(2), Iūlia(2)
-
-# Adjectives: pulchra(3), magna(4), parva(1), bona(1), mala(0), alba(1), rubra(3), laeta(1)
-
-# Verbs: spectāre, amāre, laudāre, narrāre, portāre, arāre
-# Addtional verbs: sum, dare, habere
-
 
 # Translate (simple sentences)
 

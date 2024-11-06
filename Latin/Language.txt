@@ -94,6 +94,8 @@ lesson Lessons/Chapter_1A.txt
 lesson Lessons/Chapter_1B.txt
 lesson Lessons/Chapter_1C.txt
 
+lesson Lessons/Chapter_2.txt
+
 #
 # The fourth chapter
 # - the second conjugation (ind. praes. āct.)

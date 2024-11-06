@@ -1,0 +1,77 @@
+name "Chapter 4: The Dative Case (Indirect Object)"
+description <EOL
+    **Objective:**
+
+        Learn to use the dative case to indicate the indirect object, showing to whom or for whom an action is done.
+
+    **Content:**
+
+    **Dative Case Purpose:** Expresses the recipient of an action, often using “to” or “for.”
+
+    **Dative Endings:**
+
+    - First Declension: **-ae** (e.g., *puellae* – to/for the girl)
+    - Second Declension: **-o** (e.g., *amico* – to/for the friend)
+
+    **Examples:** Practice sentences with indirect objects, such as “Puellae donum dat” (He/she gives a gift to the girl).
+EOL
+
+chapter l6-ch1 <EOL
+    # What is the Dative Case?
+
+    The dative case is used to show the indirect object in a sentence, which is the person or thing receiving the action indirectly. It answers the question, "To whom?" or "For whom?"
+
+     - Example: “He gives a gift to the girl.”
+
+    In Latin, the indirect object changes its ending to show the dative case.
+
+    # Dative Endings for the First and Second Declensions
+
+    Here are the dative singular endings for the first and second declensions:
+
+     - First Declension: -ae (e.g., puellae – "to/for the girl")
+     - Second Declension: -o (e.g., amico – "to/for the friend")
+
+    # Examples of the Dative Case in Sentences
+
+    Here are some examples using the dative case as the indirect object:
+
+     - Puellae donum dat – He/she gives a gift to the girl.
+     - Servo cibum parat – He/she prepares food for the servant.
+     - Amico fabulam narrat – He/she tells a story to the friend.
+
+    In each example, the noun in the dative case indicates who is receiving the action indirectly.
+
+    # Practice with Direct and Indirect Objects
+
+Practice creating sentences that include both a direct object (in the accusative case) and an indirect object (in the dative case). This helps you build more complete sentences in Latin.
+EOL <EOL
+    # Quid est Casus Dativus?
+
+    Casus dativus adhibetur ad objectum indirectum ostendendum, id est, persona vel res quae actionem indirecte recipit. Respondet quaestionibus, “Cui?” vel “Pro quo?”
+
+     - Exemplum: “Donum puellae dat.”
+
+    In Latina, objectum indirectum finem mutat ut casum dativum indicet.
+
+    # Fines Dativi Primae et Secundae Declinationis
+
+    Hic sunt fines dativi singularis primae et secundae declinationis:
+
+     - Prima Declinatione: -ae (ex. puellae – "to/for the girl")
+     - Secunda Declinatione: -o (ex. amico – "to/for the friend")
+
+    # Exempla Casus Dativi in Sententiis
+
+    Hic sunt quaedam exempla ubi casus dativus ut objectum indirectum adhibetur:
+
+     - Puellae donum dat
+     - Servo cibum parat
+     - Amico fabulam narrat
+
+    In singulis exemplis, nomen in casu dativo indicat cui indirecte actio praestatur.
+
+    # Exercitatio cum Objectis Directis et Indirectis
+
+    Exerceamus sententias creandas quae et objectum directum (casus accusativus) et objectum indirectum (casus dativus) habeant. Hoc modo sententias plenas in lingua Latina formare discimus.
+EOL
