@@ -40,24 +40,6 @@ file shares all its references with other files.
 References do not replace a part of data but the whole part. For example, in a part `"a &word"` the
 `word` reference won't be replaced.
 
-### Language file
-
-The language file describes a language and data configuration. It contains primary information about
-language, references and pointers to lessons, trainings and theory.
-
-
-
-TODO: name keyword
-TODO: version keyword
-TODO: license keyword
-TODO: lesson keyword
-TODO: training keyword
-
-### Lessons
-
-Lessons are collections of tasks referring to a lesson. Each lesson is in one file. References to a
-lesson should be listed in the language file.
-
 ### Trainings
 
 Trainings are collections of tasks within specific category for example "Irregular verbs". Each
