@@ -66,7 +66,8 @@ EOL <EOL
                  - Puella (the girl) is the subject in nominative case.
                  - Aquam (water) is the object in accusative case.
                  - Portat means "carries."
-        In Latin, word order is flexible because the endings tell us the meaning. This lets us focus on understanding how endings work.
+
+In Latin, word order is flexible because the endings tell us the meaning. This lets us focus on understanding how endings work.
 EOL
 
 # Nouns: rosa, silva, magistra, schola, fīlia, aula, patria, agricola, puella, incola, discipula, aqua, herba, avia, vacca, mēnsa, columba, rāna, Iūlia
