@@ -6,6 +6,29 @@ Comments start with `#`.
 
 Name of a tag is case insensitive.
 
+*References*
+
+Each file may list references. Those are placeholders for parts which will repeat itself
+such as names of verb persons, names of conjugations etc. The format for references are:
+
+```
+ref <name> <text>
+```
+
+To use a reference just place its name in the place of data. For example:
+
+```
+ref conj "coniugātiō īrregularis"
+
+task 1 conjugate &conj &form "sum" "to be" &persons sum,es,est,sumus,estis,sunt
+```
+
+References should be first defined and then used and they apply only to that file. But the language
+file shares all its references with other files.
+
+References do not replace a part of data but the whole part. For example, in a part `"a &word"` the
+`word` reference won't be replaced.
+
 ## Definitions
 
 ### `<text>`

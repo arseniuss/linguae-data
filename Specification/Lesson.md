@@ -39,9 +39,9 @@ chapter <id> <display-content> <language-content>
 
 ### `task-ref` tag
 
-Tasks.md
+Task reference tag is described in Tasks.md file.
 
 ### `task` tag
 
-Tasks.md
+Task tag is described in Tasks.md file.
 
