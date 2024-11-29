@@ -10,31 +10,36 @@ description <EOL
 EOL
 
 chapter l1-ch1 <EOL
-        1. Quid est Nomen?
 
-        Nomen est verbum pro persona, loco, re, vel idea, sicut "puella," "aqua," aut "terra." In Latine, nomina diversa suffixa habent ad suam partem in sententia monstrandam. Haec mutatio declinatio vocatur.
+1. Quid est nōmen?
+
+Nōmen est verbum prō persōnā, locō, rē, vel ideā, sīcut "puella", "aqua" aut "terra". In linguā Latīnā nōmina diversa suffīxa habent ad suam partem in sententiā mōnstrandam. Haec mūtātiō dēclīnātiō vocātur.
         
-        2. Prima Declinatio Nomina
+2. Prīma dēclīnātiō nōmina
 
-        Multa nomina Latina quae in -a finiunt in prima declinatione sunt et saepe femina sunt. Hic sunt aliqua exempla:
+Multa nōmina Latīna quae in -a fīniunt, in prīmā dēclīnātiōne sunt et saepe fēminīna sunt. Hic sunt aliqua exempla:
 
-         - puella
-         - aqua
-         - terra
+ - puella
+ - aqua
+ - terra
 
-        Haec nomina suffixa mutant secundum suam usum:
-         - Casus Nominativus: Usus est pro subiecto (qui agere facit). Exemplum: puella (puella).
-         - Casus Accusativus: Usus est pro obiecto (qui actionem accipit). Exemplum: puellam (puella).
+Haec nōmina suffixa mūtant secundum suum ūsum:
 
-        3. Sententiae Simplices
+ - Cāsus nōminātīvus: Ūsus est prō subiectō (quod agere facit). Exemplum: puella.
+ - Cāsus accūsātīvus: Ūsus est prō obiectō (quod āctiōnem accipit). Exemplum: puellam.
 
-        Sententia Latina simplex habet subiectum (persona vel res quae actionem facit) et verbum. Exempli gratia:
+3. Sententiae simplicēs
 
-        Puella aquam portat
-         - Puella est subiectum in casu nominativo.
-         - Aquam est obiectum in casu accusativo.
+Sententia Latīna simplex habet subiectum (persōnam vel rem quae āctiōnem facit) et verbum. Exemplī grātiā:
 
-        In Latina, ordo verborum variari potest quia suffixa nobis sensum ostendunt. Hoc nos adiuvat ad intellectum suffixorum.
+Puella aquam portat. 
+
+ - Puella est subiectum in cāsū nōminātīvō.
+ - Aquam est obiectum in cāsū accūsātīvō.
+
+In linguā Latīnā ordo verbōrum variārī potest quia suffīxa nōbīs sēnsum ostendunt. Hoc nōs adiuvat ad intellectum suffīxōrum.
+
+
 EOL <EOL
         1. What is a Noun?
 
