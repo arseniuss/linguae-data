@@ -1,128 +1,146 @@
 name "Chapter 1A: Latin Nouns and Simple Sentences"
 description <EOL
-        **Objective:** Introduce basic noun structure and simple sentence construction using first-declension nouns.
+	**Objective:** Introduce basic noun structure and simple sentence
+	construction using first-declension nouns.
 
-        **Content:**
+	**Content:**
 
-         - **Introduction to Cases:** Focus on nominative (subject) and accusative (direct object).
-         - **First Declension Nouns:** Introduce a few key nouns, such as *puella* (girl), *terra* (land), and *familia* (family).
-         - **Basic Sentence Structure:** Simple Subject-Verb-Object sentences. Example: "Puella aquam portat" (The girl carries water).
+	 - **Introduction to Cases:** Focus on nominative (subject) and
+		accusative (direct object).
+	 - **First Declension Nouns:** Introduce a few key nouns, such as
+		_puella_ (girl), _terra_ (land), and _familia_ (family).
+	 - **Basic Sentence Structure:** Simple Subject-Verb-Object sentences.
+		Example: _Puella aquam portat_ (The girl carries water).
 EOL
 
 chapter l1-ch1 <EOL
+	## 1. What is a Noun?
 
-1. Quid est nōmen?
+	A noun is a word for a person, place, thing, or idea, like "girl",
+	"water" or "land." In Latin, nouns have different endings to show their
+	role in a sentence. This change is called declension.
 
-Nōmen est verbum prō persōnā, locō, rē, vel ideā, sīcut "puella", "aqua" aut "terra". In linguā Latīnā nōmina diversa suffīxa habent ad suam partem in sententiā mōnstrandam. Haec mūtātiō dēclīnātiō vocātur.
-        
-2. Prīma dēclīnātiō nōmina
+	## 2. First Declension Nouns
 
-Multa nōmina Latīna quae in -a fīniunt, in prīmā dēclīnātiōne sunt et saepe fēminīna sunt. Hic sunt aliqua exempla:
+	Many Latin nouns that end in -a are in the first declension and are
+	usually feminine. Here are some examples:
 
- - puella
- - aqua
- - terra
+	 - _puella_ – girl
+	 - _aqua_ – water
+	 - _terra_ – land
 
-Haec nōmina suffixa mūtant secundum suum ūsum:
+	These nouns change their endings depending on how they are used:
 
- - Cāsus nōminātīvus: Ūsus est prō subiectō (quod agere facit). Exemplum: puella.
- - Cāsus accūsātīvus: Ūsus est prō obiectō (quod āctiōnem accipit). Exemplum: puellam.
+	 - Nominative case: Used for the subject (the one doing the action).
+		Example: _puella_.
+	 - Accusative case: Used for the object (the one receiving the action).
+		Example: _puellam_.
+	
+	## 3. Simple Sentences
 
-3. Sententiae simplicēs
+	A basic Latin sentence has a subject (the person or thing doing the
+	action) and a verb. For example:
 
-Sententia Latīna simplex habet subiectum (persōnam vel rem quae āctiōnem facit) et verbum. Exemplī grātiā:
+	_Puella aquam portat._ – The girl carries water.
+	 - _Puella_ (the girl) is the subject in nominative case.
+	 - _Aquam_ (water) is the object in accusative case.
+	 - _Portat_ means "carries."
 
-Puella aquam portat. 
-
- - Puella est subiectum in cāsū nōminātīvō.
- - Aquam est obiectum in cāsū accūsātīvō.
-
-In linguā Latīnā ordo verbōrum variārī potest quia suffīxa nōbīs sēnsum ostendunt. Hoc nōs adiuvat ad intellectum suffīxōrum.
-
-
+	In Latin, word order is flexible because the endings tell us the
+	meaning. This lets us focus on understanding how endings work.
 EOL <EOL
-        1. What is a Noun?
 
-        A noun is a word for a person, place, thing, or idea, like "girl," "water," or "land." In Latin, nouns have different endings to show their role in a sentence. This change is called declension.
+	## 1. Quid est nōmen?
 
-        2. First Declension Nouns
+	Nōmen est verbum prō persōnā, locō, rē, vel ideā, sīcut "puella", "aqua"
+	aut "terra". In linguā Latīnā nōmina diversa suffīxa habent ad suam
+	partem in sententiā mōnstrandam. Haec mūtātiō dēclīnātiō vocātur.
+	
+	## 2. Prīma dēclīnātiō nōmina
 
-        Many Latin nouns that end in -a are in the first declension and are usually feminine. Here are some examples:
+	Multa nōmina Latīna quae in -a fīniunt, in prīmā dēclīnātiōne sunt et
+	saepe fēminīna sunt. Hic sunt aliqua exempla:
 
-         - puella – girl
-         - aqua – water
-         - terra – land
+	 - _puella_
+	 - _aqua_
+	 - _terra_
 
-        These nouns change their endings depending on how they are used:
+	Haec nōmina suffixa mūtant secundum suum ūsum:
 
-         - Nominative case: Used for the subject (the one doing the action). Example: puella (the girl).
-         - Accusative case: Used for the object (the one receiving the action). Example: puellam (the girl).
-        
-        3. Simple Sentences
+	 - Cāsus nōminātīvus: Ūsus est prō subiectō (quod agere facit).
+		Exemplum: _puella_.
+	 - Cāsus accūsātīvus: Ūsus est prō obiectō (quod āctiōnem accipit).
+		Exemplum: _puellam_.
 
-        A basic Latin sentence has a subject (the person or thing doing the action) and a verb. For example:
+	## 3. Sententiae simplicēs
 
-        Puella aquam portat – The girl carries water.
-                 - Puella (the girl) is the subject in nominative case.
-                 - Aquam (water) is the object in accusative case.
-                 - Portat means "carries."
+	Sententia Latīna simplex habet subiectum (persōnam vel rem quae
+	āctiōnem facit) et verbum. Exemplī grātiā:
 
-In Latin, word order is flexible because the endings tell us the meaning. This lets us focus on understanding how endings work.
+	_Puella aquam portat._
+	 - _Puella_ est subiectum in cāsū nōminātīvō.
+	 - _Aquam_ est obiectum in cāsū accūsātīvō.
+
+	In linguā Latīnā ordo verbōrum variārī potest quia suffīxa nōbīs
+	sēnsum ostendunt. Hoc nōs adiuvat ad intellectum suffīxōrum.
 EOL
 
-# Nouns: rosa, silva, magistra, schola, fīlia, aula, patria, agricola, puella, incola, discipula, aqua, herba, avia, vacca, mēnsa, columba, rāna, Iūlia
+# Nouns
 
-task-ref Trainings/Nōmen_substantīvum.txt-1 # rosa
-task-ref Trainings/Nōmen_substantīvum.txt-3 # silva
-task-ref Trainings/Nōmen_substantīvum.txt-5 # magistra
-task-ref Trainings/Nōmen_substantīvum.txt-7 # schola
-task-ref Trainings/Nōmen_substantīvum.txt-9 # fīlia
-task-ref Trainings/Nōmen_substantīvum.txt-11 # aula
-task-ref Trainings/Nōmen_substantīvum.txt-13 # patria
-task-ref Trainings/Nōmen_substantīvum.txt-15 # agricola
-task-ref Trainings/Nōmen_substantīvum.txt-17 # puella
-task-ref Trainings/Nōmen_substantīvum.txt-19 # incola
-task-ref Trainings/Nōmen_substantīvum.txt-21 # discipula
-task-ref Trainings/Nōmen_substantīvum.txt-23 # aqua
-task-ref Trainings/Nōmen_substantīvum.txt-25 # herba
-task-ref Trainings/Nōmen_substantīvum.txt-27 # avia
-task-ref Trainings/Nōmen_substantīvum.txt-29 # vacca
-task-ref Trainings/Nōmen_substantīvum.txt-31 # mēnsa
-task-ref Trainings/Nōmen_substantīvum.txt-33 # columba
-task-ref Trainings/Nōmen_substantīvum.txt-35 # rāna
-task-ref Trainings/Nōmen_substantīvum.txt-37 # Iūlia
+task-ref Trainings/Vocābula.txt-l1-t1-la
+task-ref Trainings/Vocābula.txt-l1-t2-la
+task-ref Trainings/Vocābula.txt-l1-t3-la
+task-ref Trainings/Vocābula.txt-l1-t4-la
+task-ref Trainings/Vocābula.txt-l1-t5-la
+task-ref Trainings/Vocābula.txt-l1-t6-la
+task-ref Trainings/Vocābula.txt-l1-t7-la
+task-ref Trainings/Vocābula.txt-l1-t8-la
+task-ref Trainings/Vocābula.txt-l1-t9-la
+task-ref Trainings/Vocābula.txt-l1-t10-la
+task-ref Trainings/Vocābula.txt-l1-t11-la
+task-ref Trainings/Vocābula.txt-l1-t12-la
+task-ref Trainings/Vocābula.txt-l1-t13-la
+task-ref Trainings/Vocābula.txt-l1-t14-la
+task-ref Trainings/Vocābula.txt-l1-t15-la
+task-ref Trainings/Vocābula.txt-l1-t16-la
+task-ref Trainings/Vocābula.txt-l1-t17-la
+task-ref Trainings/Vocābula.txt-l1-t18-la
+task-ref Trainings/Vocābula.txt-l1-t19-la
+task-ref Trainings/Vocābula.txt-l1-t20-la
 
-# Verbs: spectāre, amāre, laudāre, narrāre, portāre, arāre, currere, vidēre, laborare, habēre, vagīre
+# TODO: 2 choose tasks for each noun: English -> Latin and Latin -> English
+#	TODO: put these tasks in noun file
+# TODO: a choose task for each noun: Latin -> choose from images
 
-task-ref Trainings/Verbum_rēgulāre.txt-l1-1 # spectāre
-task-ref Trainings/Verbum_rēgulāre.txt-l1-2 # amāre
-task-ref Trainings/Verbum_rēgulāre.txt-l1-3 # laudāre
-task-ref Trainings/Verbum_rēgulāre.txt-l1-4 # narrāre
-task-ref Trainings/Verbum_rēgulāre.txt-l1-5 # portāre
-task-ref Trainings/Verbum_rēgulāre.txt-l1-6 # arāre
+# Verbs:
 
-# Addtional verbs: sum, dare, habēre
+ref verbs spectāre,amāre,laudāre,narrāre,portāre,arāre,currere,vidēre,laborare,\
+	habēre,vagīre
 
-task-ref Trainings/Verbum_irrēgulāre.txt-1 # sum
-task-ref Trainings/Verbum_rēgulāre.txt-l1-7 # dare
-task-ref Trainings/Verbum_rēgulāre.txt-l1-8 # habēre
+# TODO: 2 choose tasks for each noun: English -> Latin and Latin -> English
 
-# Adjectives: pulchra, magna, parva, bona, mala, alba, rubra, laeta, longa, nova, alta, grata, clara
+# Addtional verbs:
+ref verbs2 sum,dare,habēre
 
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-1 # pulchra
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-2 # magna
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-3 # parva
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-4 # bona
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-5 # mala
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-6 # alba
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-7 # rubra
-task-ref Trainings/Nōmen_adiectīvum.txt-l1-8 # laeta
+# TODO: 2 choose tasks for each noun: English -> Latin and Latin -> English
+
+# Adjectives:
+
+ref adjectives pulchra,magna,parva,bona,mala,alba,rubra,laeta,longa,nova,alta,\
+	grata,clara
+
+# TODO: 2 choose tasks for each noun: English -> Latin and Latin -> English
 
 # Translate (simple sentences)
 
-ref additionals "I,you,we,the,a,an,in,of,rose,roses,dove,doves,grandmother,school,story,frog,frogs,forest,beautiful,small,great,red,love,loves,tell,tells"
+ref additionals "I,you,we,the,a,an,in,of,rose,roses,dove,doves,grandmother,\
+	school,story,frog,frogs,forest,beautiful,small,great,red,love,loves,\
+	tell,tells"
 
-task t1 translate "Rōsa rubrum est" "The rose is red" &additionals
+# TODO: 25 translation tasks of simple senetnces
+#	put these sentences in file "Simple sentences"
+
+task t1 translate "Rōsa rubra est" "The rose is red" &additionals
 task t2 translate "Rosae pulchrae sunt" "Roses are beautiful" &additionals
 task t3 translate "Columba rānam spectat" "The dove looks at the frog" &additionals
 task t4 translate "Puella rosam rubram amat" "The girl loves the red rose" &additionals

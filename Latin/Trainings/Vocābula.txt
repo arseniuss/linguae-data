@@ -1,0 +1,52 @@
+#
+# Vocabulary
+#
+
+# Nouns from the fist lesson
+
+# Latin -> English
+
+task l1-t1-la choose &choose-meaning rosa "a rose" &nouns-l1-en
+task l1-t2-la choose &choose-meaning silva "a forest" &nouns-l1-en
+task l1-t3-la choose &choose-meaning magistra "a woman teacher" &nouns-l1-en
+task l1-t4-la choose &choose-meaning schola "a school" &nouns-l1-en
+task l1-t5-la choose &choose-meaning fīlia "a daughter" &nouns-l1-en
+task l1-t6-la choose &choose-meaning aula "a court" &nouns-l1-en
+task l1-t7-la choose &choose-meaning patria "a homeland" &nouns-l1-en
+task l1-t8-la choose &choose-meaning agricola "a farmer" &nouns-l1-en
+task l1-t9-la choose &choose-meaning puella "a girl" &nouns-l1-en
+task l1-t10-la choose &choose-meaning incola "an inhabitant" &nouns-l1-en
+task l1-t11-la choose &choose-meaning discipula "a woman student" &nouns-l1-en
+task l1-t12-la choose &choose-meaning aqua "a water" &nouns-l1-en
+task l1-t13-la choose &choose-meaning herba "a herb" &nouns-l1-en
+task l1-t14-la choose &choose-meaning avia "a grandmother" &nouns-l1-en
+task l1-t15-la choose &choose-meaning vacca "a cow" &nouns-l1-en
+task l1-t16-la choose &choose-meaning mēnsa "a table" &nouns-l1-en
+task l1-t17-la choose &choose-meaning columba "a dove" &nouns-l1-en
+task l1-t18-la choose &choose-meaning rāna "a frog" &nouns-l1-en
+task l1-t19-la choose &choose-meaning Iūlia Julia &nouns-l1-en
+task l1-t20-la choose &choose-meaning aquila "an eagle" &nouns-l1-en
+
+# English -> Latin
+
+task l1-t1-en choose &choose-meaning "a rose" rosa &nouns-l1-la
+task l1-t2-en choose &choose-meaning "a forest" silva &nouns-l1-la
+task l1-t3-en choose &choose-meaning "a woman teacher" magistra &nouns-l1-la
+task l1-t4-en choose &choose-meaning "a school" schola &nouns-l1-la
+task l1-t5-en choose &choose-meaning "a daughter" fīlia &nouns-l1-la
+task l1-t6-en choose &choose-meaning "a court" aula &nouns-l1-la
+task l1-t7-en choose &choose-meaning "a homeland" patria &nouns-l1-la
+task l1-t8-en choose &choose-meaning "a farmer" agricola &nouns-l1-la
+task l1-t9-en choose &choose-meaning "a girl" puella &nouns-l1-la
+task l1-t10-en choose &choose-meaning "an inhabitant" incola &nouns-l1-la
+task l1-t11-en choose &choose-meaning "a woman student" discipula &nouns-l1-la
+task l1-t12-en choose &choose-meaning "a water" aqua &nouns-l1-la
+task l1-t13-en choose &choose-meaning "a herb" herba &nouns-l1-la
+task l1-t14-en choose &choose-meaning "a grandmother" avia &nouns-l1-la
+task l1-t15-en choose &choose-meaning "a cow" vacca &nouns-l1-la
+task l1-t16-en choose &choose-meaning "a table" mēnsa &nouns-l1-la
+task l1-t17-en choose &choose-meaning "a dove" columba &nouns-l1-la
+task l1-t18-en choose &choose-meaning "a frog" rāna &nouns-l1-la
+task l1-t19-en choose &choose-meaning Julia Iūlia &nouns-l1-la
+task l1-t20-en choose &choose-meaning "an eagle" aquila &nouns-l1-la
+

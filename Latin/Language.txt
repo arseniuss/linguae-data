@@ -16,6 +16,7 @@ EOL
 
 setting ignore-macrons "Do not use macrons" boolean false
 
+ref choose-meaning "Choose correct meaning of the word"
 
 # Nouns
 
@@ -90,7 +91,15 @@ theory Theory/07_Nōmen_adiectīvum.txt
 theory Theory/08_Prōnōmen.txt
 theory Theory/09_Numerālia.txt
 
+ref nouns-l1-la rosa,silva,magistra,schola,fīlia,aula,patria,agricola,puella,\
+	incola,discipula,aqua,herba,avia,vacca,mēnsa,columba,rāna,Iūlia,aquila
+ref nouns-l1-en "a rose,a forest,a woman teacher,a school,a daughter,a court,\
+	a homeland,a girl,an inhabitant,a woman student,a water,a herb,\
+	a grandmother,a cow,a table,a dove,a frog,Julia,an eagle"
+
 lesson Lessons/Chapter_1A.txt
+
+
 lesson Lessons/Chapter_1B.txt
 lesson Lessons/Chapter_1C.txt
 
@@ -196,6 +205,7 @@ Training Trainings/Nōmen_adiectīvum.txt "Nōmen adiectīvum" "Adjectives"
 Training Trainings/Verbum_rēgulāre.txt "Verbum rēgulāre" "Regular verbs"
 Training Trainings/Verbum_irrēgulāre.txt "Verbum irrēgulāre" "Irregular verbs"
 Training Trainings/Prōformae_adverbōrum.txt "Prōformae adverbōrum" "Latin correlatives"
+Training Trainings/Vocābula.txt "Vocābula" "Vocabulary"
 
 # Modī:
 # - indīcātīvus
