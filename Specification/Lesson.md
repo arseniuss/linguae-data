@@ -34,10 +34,23 @@ Definition:
 ```
 chapter <id> <display-content> <language-content>
 ```
+where
+ - `id `: unique chapter identifier in that file,
+ - `display-content`: markdown-enabled content of theory (in display language, English),
+ - `language-content`: markdown-enabled content of theory (in target language).
 
-// TODO
+This tag defines theory explaining the lesson.
 
 ### `task-ref` tag
+
+Definition:
+```
+task-ref <id> <additionals>
+```
+where
+ - `id`: pointer to task full identifier including,
+ - `additionals`: additional information for the task. For example: in
+    choosing task it will be other options.
 
 Task reference tag is described in Tasks.md file.
 

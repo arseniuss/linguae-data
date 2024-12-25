@@ -47,7 +47,15 @@ Choose task is a task where the user have to select correct answer.
 
  - Points: 1
 
-// TODO
+Task format:
+```
+task <id> choose <description> <word> <answer> <additionals>
+```
+where
+ - `description`: title of choose task (what to do) in display language,
+ - `word`: word which is being checked,
+ - `answer`: correct answer,
+ - `additionals`: other possible answers (incorrect ones).
 
 ## `conjugate` task
 
