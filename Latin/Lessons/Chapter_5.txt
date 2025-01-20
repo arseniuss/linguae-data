@@ -1,87 +1,92 @@
-name "Chapter 5: The Ablative Case (Expressing "By," "With," or "From")"
+name "Chapter 5: The Ablative Case (Expressing 'by', 'with' or 'from')"
 description <EOL
-    **Objective:**
+	**Objective:** Learn to use the ablative case to describe means,
+	separation, and accompaniment, as in "with a friend" or "from the house."
 
-    Learn to use the ablative case to describe means, separation, and accompaniment, as in "with a friend" or "from the house."
-
-    **Content:**
-
-    Ablative Case Purpose: Shows how, with what, or from where an action occurs.
-
-    **Ablative Endings:**
-
-     - First Declension: -ā (e.g., puellā – by/with/from the girl)
-     - Second Declension: -ō (e.g., amīcō – by/with/from the friend)
-
-    **Examples:** Sentences using the ablative case with and without prepositions, like “Cum amīcō ambulat” (He/she walks with a friend).
+	**Content:**
+	 - **Ablative Case Purpose:** Shows how, with what, or from where an action
+		occurs.
+	 - **Ablative Endings:** First Declension: _-ā_ (e.g., _puellā_ –
+		by/with/from the girl)
+	 - **Ablative Endings:** Second Declension: _-ō_ (e.g., _amīcō_ –
+		by/with/from the friend)
+	 - **Examples:** Sentences using the ablative case with and without
+		prepositions, like _Cum amīcō ambulat_ (He/she walks with a friend).
 EOL
 
 chapter l7-ch1 <EOL
-    # What is the Ablative Case?
+	## 1. What is the Ablative Case?
 
-    The ablative case is used to show various relationships such as means, separation, or accompaniment. It answers questions like "By what means?" "With whom?" and "From where?"
+	The ablative case is used to show various relationships such as means,
+	separation, or accompaniment. It answers questions like "By what means?"
+	"With whom?" and "From where?"
 
-     - Example: “He fights with a sword” or "He comes from the house."
+	Example: “He fights with a sword” or "He comes from the house."
 
-    The ablative case often translates into English as "by," "with," or "from."
+	The ablative case often translates into English as "by," "with," or "from."
 
-    # Ablative Endings for the First and Second Declensions
+	## 2. Ablative Endings for the First and Second Declensions
 
     Here are the ablative singular endings for the first and second declensions:
 
-     - First Declension: -ā (e.g., *puellā* – "by/with/from the girl")
-     - Second Declension: -ō (e.g., *amīcō* – "by/with/from the friend")
+	 - First Declension: _-ā_ (e.g., _puellā_ – "by/with/from the girl")
+	 - Second Declension: _-ō_ (e.g., _amīcō_ – "by/with/from the friend")
 
-    # Examples of the Ablative Case in Sentences
+	## 3. Examples of the Ablative Case in Sentences
 
-    Here are some examples of how the ablative case is used in sentences:
+	Here are some examples of how the ablative case is used in sentences:
 
-     - *Gladiō pugnat* – He/she fights with a sword.
-     - *E villā venit* – He/she comes from the house.
-     - *Cum amīcō ambulat* – He/she walks with a friend.
+	 - *Gladiō pugnat* – He/she fights with a sword.
+	 - *E villā venit* – He/she comes from the house.
+	 - *Cum amīcō ambulat* – He/she walks with a friend.
 
-    # Using Prepositions with the Ablative
+	## 4. Using Prepositions with the Ablative
 
-    Some Latin prepositions always take the ablative case. For example:
+	Some Latin prepositions always take the ablative case. For example:
 
-     - *Cum* (with) – Cum amīcō (With a friend)
-     - *E* or *Ex* (from, out of) – E villā (From the house)
+	 - _Cum_ (with) – _Cum amīcō_ (With a friend)
+	 - _E_ or _Ex_ (from, out of) – _E villā_ (From the house)
 
-    # Summary
+    ## 5. Summary
 
-    In this chapter, you will learn to use the ablative case to show how an action is done, who it’s done with, and from where it originates. This case is very useful in describing the circumstances of actions.
+    In this chapter, you will learn to use the ablative case to show how an
+	action is done, who it’s done with, and from where it originates. This case
+	is very useful in describing the circumstances of actions.
 EOL <EOL
-    # Quid est Casus Ablativus?
+	## 1. Quid est cāsus ablātīvus?
 
-    Casus ablativus adhibetur ad varias relationes ostendendas, ut modum, separationem, vel comitantiam. Responsa praebet quaestionibus, "Quo modo?" "Cum quo?" vel "Unde?"
+	Cāsus ablātīvus adhibētur ad variās relātiōnēs ostendendās, ut modum,
+	sēparātiōnem, vel comitātiam. Respōnsa praebet quaestiōnibus, "Quō modō?"
+	"Cum quō?" vel "Unde?"
 
-     - Exemplum: "Pugnat gladiō" aut "Venit e villā."
+	Exemplum: "Pugnat gladiō" aut "Venit ē vīllā."
 
-    Casus ablativus saepe Anglice vertitur in "ab," "cum," aut "ā."
+	## 2. Fīnēs ablātīvī prīmae et secundae dēclīnātiōnis
 
-    # Fines Ablativi Primae et Secundae Declinationis
+	Hic sunt fīnēs ablātīvī singulāris prīmae et secundae dēclīnātiōnis:
 
-    Hic sunt fines ablativi singularis primae et secundae declinationis:
+     - Prīma Dēclīnātiō: _-ā_ (ex. puellā)
+     - Secunda Dēclīnātiō: _-ō_ (ex. amīcō)
 
-     - Prima Declinatione: -ā (ex. puellā – "ab/cum/ā puellā")
-     - Secunda Declinatione: -ō (ex. amīcō – "ab/cum/ā amīcō")
+	## 3. Exempla cāsūs ablātīvī in sententiīs
 
-    # Exempla Casus Ablativi in Sententiis
-
-    Hic sunt quaedam exempla de casu ablativo adhibito in sententiis:
+	Hic sunt quaedam exempla dē cāsū ablātīvō adhibitō in sententiīs:
 
      - Gladiō pugnat
-     - E villā venit
+     - Ē vīllā venit
      - Cum amīcō ambulat
 
-    # Prepositiones cum Casu Ablativo
+	## 4. Praepositiōnēs cum cāsū ablātīvō
 
-    Quaedam praepositiones Latinas semper casum ablativum accipiunt. Exempli gratia:
+	Quaedam praepositiōnēs Latīnae semper cāsum ablātīvum accipiunt. Exemplī
+	grātiā:
 
-     - Cum (cum) – Cum amīcō (Cum amīcō)
-     - E vel Ex (ab, ex) – E villā (Ab villā)
+     - Cum – Cum amīcō
+     - Ē vel Ex – Ē vīllā
 
-    # Summarium
+	## 5. Summārium
 
-    In hoc capite, discēmus uti casu ablativo ad ostendendum quomodo actio fiat, cum quo fiat, et unde oriatur. Hic casus admodum utilis est in describendis circumstantiis actionum.
+	In hōc capitulō, discēmus ūtī cāsū ablātīvō ad ostendendum quōmodo āctiō
+	fiat, cum quō fiat, et unde oriātur. Hic cāsus admodum ūtilis est in
+	dēscrībendīs circumstantiīs āctiōnum.
 EOL
