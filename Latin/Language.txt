@@ -98,102 +98,13 @@ ref nouns-l1-en "a rose,a forest,a woman teacher,a school,a daughter,a court,\
 	a grandmother,a cow,a table,a dove,a frog,Julia,an eagle"
 
 lesson Lessons/Chapter_1A.txt
-
-
 lesson Lessons/Chapter_1B.txt
 lesson Lessons/Chapter_1C.txt
-
 lesson Lessons/Chapter_2.txt
-
-#
-# The fourth chapter
-# - the second conjugation (ind. praes. āct.)
-# - the fifth conjugation (rēs)
-# - ego, tū ..
-# - imperative praes. āct.
-#
-# Nouns:
-# Verbs:
-#
-
-
-
-#
-# The fifth chapter
-# - esse
-# - imperative
-# - quid
-# - adjective
-#
-# Nouns:
-# Adjectives: parvus, magnus,
-# Verbs:
-#
-
-#
-# The sixth chapter
-# - 2nd declination -r, liber, puer,ager etc.
-# - ego, meus, quis
-# - haber + acc.
-# - negation nēmo, nihil, numquam
-#
-# Nouns:
-# Verbs:
-#
-
-#
-# The seventh chapter
-# - the third conjugation
-#  - 3rd declination
-# - commūnis generis
-#
-#
-
-#
-# The eight chapter
-# - 4th conjugation
-# - nolī + inf.
-# - interragatīvus
-# - mēcum, tēcum
-#
-#
-#
-
-#
-# The ninth chapter
-# - fūtūrum I (esse)
-# - adesse, abesse, prōdesse, posse (praes, fut).
-# - numbers: ordinals, cardinals
-# - Nōnne, nisi, num
-#
-
-#
-# The 10th chapter
-# - fūtīrum I (1 coni, 2. coni)
-# - ordinals, quotus
-# - singulāre tantum, plūrālum tantum
-#
-
-#
-# The 11th chapter
-# - fūtūrum I (3, 4)
-# - diēs
-# - domum without praepos.
-# - how to tell time?
-#
-
-#
-# The 12th chapter
-# - adjectivo pronominala
-# - nemo, nihil
-# - reflextive prōnomen
-# - passive ind.
-#
-
-#
-# The 13th chapter
-# - coni. praes. āct.
-#
+lesson Lessons/Chapter_3.txt
+lesson Lessons/Chapter_4.txt
+lesson Lessons/Chapter_5.txt
+lesson Lessons/Chapter_6.txt
 
 
 #Special case ANY
