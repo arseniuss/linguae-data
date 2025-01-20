@@ -1,119 +1,151 @@
 name "Chapter 2: Introduction to Verbs and Present Tense Conjugations"
 description <EOL
-	**Objective:**
-
-		The goal of this chapter is for students to learn basic Latin verbs and understand how to conjugate them in the present tense for different subjects (I, you, he/she/it, we, you all, they). This will allow students to create simple sentences describing actions happening now.
+	**Objective:** The goal of this chapter is for students to learn basic
+	Latin verbs and understand how to conjugate them in the present tense for
+	different subjects (I, you, he/she/it, we, you all, they). This will allow
+	students to create simple sentences describing actions happening now.
 
 	**Content:**
 
-	 - **Introduction to Verbs:** Verbs describe actions or states, like "love" or "carry."
-	 - **Conjugation Basics:** Latin verbs change their endings based on the subject, a process called conjugation.
+	 - **Introduction to Verbs:** Verbs describe actions or states, like "love"
+		or "carry."
+	 - **Conjugation Basics:** Latin verbs change their endings based on the
+		subject, a process called conjugation.
 	 - **Present Tense Conjugation of First Conjugation Verbs:**
-		 - First conjugation verbs end in -are (e.g., amare, to love).
-		 - The chapter covers the present tense endings for first conjugation verbs: -o, -as, -at, -amus, -atis, -ant.
-	 - Practice with Sentences: Students will use these verbs in simple sentences, reinforcing conjugation and Latin word order.
+		First conjugation verbs end in -are (e.g., _amare_ - to love).
+		The chapter covers the present tense endings for first conjugation
+			verbs: _-o_, _-as_, _-at_, _-amus_, _-atis_, _-ant_.
+	 - **Practice with Sentences:** Students will use these verbs in simple
+		sentences, reinforcing conjugation and Latin word order.
 EOL
 
 chapter l4-ch1 <EOL
-	# Quid est Verbum?
+	## 1. What is a Verb?
 
-	Verbum est verbum quod actionem vel statum describit, sicut "amare," "portare," aut "videre." Verba sunt necessaria in sententiis Latinis quia dicunt quid fit et quis id facit.
+	A verb is a word that describes an action or state of being, like "to love",
+	"to carry", or "to see". Verbs are essential in Latin sentences because
+	they tell us what is happening and who is doing it.
 
-	# Coniugatio in Lingua Latina
+	## 2. Conjugation in Latin
 
-	Verba Latina mutantur secundum subiectum (persona vel res quae actionem agit). Haec mutatio verbi finis dicitur coniugatio. Quaeque persona (ego, tu, is/ea/id, nos, vos, ei) suum finem habet in tempore praesenti.
+	Latin verbs change their endings depending on the subject (the person or
+	thing doing the action). This change in endings is called conjugation. Each
+	subject (I, you, he/she/it, we, you all, they) has its own ending in the
+	present tense, which we’ll learn here.
 
-	# Tempus Praesens
+	## 3. The Present Tense
 
-	 - Tempus praesens describit actiones quae nunc fiunt.
-	 - Incipiemus cum verbis in prima coniugatione. Prima coniugatio habet verba quae in -are in infinitivo finiunt, sicut amare (amare) et portare (portare).
+	Present tense describes actions happening now.
 
-	# Coniugatio Verborum Primae Coniugationis in Tempore Praesenti
+	We’ll start with verbs in the first conjugation. First conjugation verbs
+	have infinitives that end in _-āre_, like _amāre_ (to love) and _portāre_
+	(to carry).
 
-	Hic sunt fines primae coniugationis verborum in tempore praesenti. Quaeque finis alia persona apta est:
-	Persona	Finis Latinus	Exemplum cum amare (amare)
-	Ego	-o	amo – amo
-	Tu	-as	amas – amas
-	Is/Ea/Id	-at	amat – amat
-	Nos	-amus	amamus – amamus
-	Vos	-atis	amatis – amatis
-	Ei/Eae/Ea	-ant	amant – amant
+	## 4. Conjugating First Conjugation Verbs in the Present Tense
 
-	Exemplum cum portare (portare):
-	 - porto
-	 - portas
-	 - portat
-	 - portamus
-	 - portatis
-	 - portant
+	Here are the endings for first conjugation verbs in the present tense.
+	Each ending matches a different subject:
 
-	# Exercitatio Cum Sententiis
-
-	Nunc, cum scimus verba coniugare, ea in sententiis simplicibus uti possumus.
-
-	 - Ego amo.
-	 - Tu portas aquam.
-	 - Puellam amat.
-	 - Nos laboramus.
-
-	In Latina, pronomen subiectivum (sicut ego aut tu) saepe non necessarium est quia finis verbi iam demonstrat subiectum. Ita "amo" significare potest "ego amo" sine "ego."
-
-	# Summarium
-
-	 - Verba actiones describunt et fines mutantur secundum subiectum.
-	 - Tempus praesens est pro actionibus quae nunc fiunt.
-	 - Verba primae coniugationis in -are finiunt et certos fines habent pro persona (o, as, at, amamus, atis, ant).
-	 - Exercitatio cum sententiis adiuvat ad has fines intellegendos.
-EOL <EOL
-	# What is a Verb?
-
-	A verb is a word that describes an action or state of being, like "love," "carry," or "see." Verbs are essential in Latin sentences because they tell us what is happening and who is doing it.
-
-	# Conjugation in Latin
-
-	Latin verbs change their endings depending on the subject (the person or thing doing the action). This change in endings is called conjugation. Each subject (I, you, he/she/it, we, you all, they) has its own ending in the present tense, which we’ll learn here.
-
-	# The Present Tense
-
- 	- Present tense describes actions happening now.
-
- 	- We’ll start with verbs in the first conjugation. First conjugation verbs have infinitives that end in -are, like amare (to love) and portare (to carry).
-
-	# Conjugating First Conjugation Verbs in the Present Tense
-
-	Here are the endings for first conjugation verbs in the present tense. Each ending matches a different subject:
-	Subject	Latin Ending	Example with amare (to love)
-	I	-o	amo – I love
-	You (singular)	-as	amas – you love
-	He/She/It	-at	amat – he/she/it loves
-	We	-amus	amamus – we love
-	You (plural)	-atis	amatis – you all love
-	They	-ant	amant – they love
+	| Subject        | Ending  | Latin    | English         |
+	| -------------- | ------- | -------- | --------------- |
+	| I              | _-ō_    | _amō_    | I love          |
+	| You (singular) | _-ās_   | _amās_   | you love        |
+	| He/She/It      | _-at_   | _amat_   | he/she/it loves |
+	| We             | _-āmus_ | _amāmus_ | we love         |
+	| You (plural)   | _-ātis_ | _amātis_ | you all love    |
+	| They           | _-ant_  | _amant_  | they love       |
 
 	Example with portare (to carry):
 
-	 - porto – I carry
-	 - portas – you carry
-	 - portat – he/she/it carries
-	 - portamus – we carry
-	 - portatis – you all carry
-	 - portant – they carry
+	 - _portō_ – I carry
+	 - _portās_ – you carry
+	 - _portat_ – he/she/it carries
+	 - _portāmus_ – we carry
+	 - _portātis_ – you all carry
+	 - _portant_ – they carry
 
-	# Practice Sentences with Verbs
+	## 5. Practice Sentences with Verbs
 
-	Now that we know how to conjugate verbs, we can use them in simple sentences.
+	Now that we know how to conjugate verbs, we can use them in simple
+	sentences.
 
-	 - Ego amo – I love.
-	 - Tu portas aquam – You carry the water.
-	 - Puellam amat – He/she loves the girl.
-	 - Nos laboramus – We work.
+	 - _Egō amō_ – I love.
+	 - _Tū portās aquam_ – You carry the water.
+	 - _Puellam amat_ – He/she loves the girl.
+	 - _Nōs laborāmus_ – We work.
 
-	In Latin, the subject pronoun (like ego or tu) is often optional because the verb ending already tells us the subject. So, "amo" can mean "I love" without needing "ego."
+	In Latin, the subject pronoun (like _egō_ or _tū_) is often optional
+	because the verb ending already tells us the subject. So, _amō_ can mean
+	"I love" without needing _egō_.
 
-  	# Summary
+	## 6. Summary
 
 	 - Verbs describe actions and change endings based on the subject.
 	 - The present tense is used for actions happening now.
-	 - First conjugation verbs end in -are and have specific endings for each subject (o, as, at, amamus, atis, ant).
+	 - First conjugation verbs end in _-āre_ and have specific endings for
+		each subject (_-ō_, _-ās_, _-at_, _-āmus_, _-ātis_, _-ant_).
 	 - Practice using verbs in sentences to get comfortable with these endings.
+EOL <EOL
+	## 1. Quid est verbum?
+
+	Verbum est verbum quod āctiōnem vel statum dēscrībit, sīcut "amāre",
+	"portāre" aut "vidēre". Verba sunt necessāria in sententiīs Latīnīs quia
+	dīcunt quid fit et quis id facit.
+
+	## 2. Coniugātiō in linguā latīnā
+
+	Verba Latīna mutantur secundum subiectum (persōna vel rēs quae āctiōnem
+	agit). Haec mūtātiō verbī fīnis dīcitur coniugātiō. Quaeque persōna (egō,
+	tū, is/ea/id, nōs, vōs, eī) suum fīnem habet in tempore praesentī.
+
+	## 3. Tempus praesēns
+
+	Tempus praesēns dēscrībit āctiōnēs quae nunc fiunt.
+
+	Incipiēmus cum verbīs in prīmā coniugātiōne. Prima coniugātiō habet verba
+	quae in -āre in īnfīnītīvō finiunt, sīcut amāre et portāre.
+
+	## 4. Coniugātiō verbōrum prīmae coniugātiōnis in tempore praesentī
+
+	Hic sunt fīnēs prīmae coniugātiōnis verbōrum in tempore praesentī. Quaeque
+	fīnis aliā persōnā apta est:
+
+	| Persōna   | Fīnis latīnus | Exemplum |
+	| --------- | ------------- | -------- |
+	| Egō       | -ō            | amō      |
+	| Tū        | -ās           | amās     |
+	| Is/Ea/Id  | -at           | amat     |
+	| Nōs       | -āmus         | amāmus   |
+	| Vōs       | -ātis         | amātis   |
+	| Eī/Eae/Ea | -ant          | amant    |
+
+	Exemplum cum portāre
+
+     - portō
+     - portās
+     - portat
+     - portāmus
+     - portātis
+     - portant
+
+	## 5. Exercitātiō cum sententiīs
+
+	Nunc, cum scīmus verba coniugāre, ea in sententiīs simplicibus ūtī possumus.
+
+     -Egō amō.
+     - Tū portās aquam.
+     - Puellam amat.
+     - Nōs labōrāmus.
+
+	In Latīnā, prōnōmen subiectīvum (sīcut egō aut tū) saepe nōn necessārium
+	est quia fīnis verbī iam dēmonstrat subiectum. Itaque "amō" significāre
+	potest "egō amō" sine "egō."
+
+	## 6. Summārium
+
+	 - Verba āctiōnēs dēscrībunt et fīnēs mutantur secundum subiectum.
+     - Tempus praesēns est prō āctiōnibus quae nunc fiunt.
+     - Verba prīmae coniugātiōnis in -āre finiunt et certōs fīnēs habent prō
+		persōnā (-ō, -ās, -at, -āmus, -ātis, -ant).
+     - Exercitātiō cum sententiīs adiuvat ad hās fīnēs intellegendās.
 EOL
