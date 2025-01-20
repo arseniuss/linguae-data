@@ -1,83 +1,101 @@
 name "Chapter 6: The Vocative Case (Addressing Someone)"
 description <EOL
-    **Objective:**
+	**Objective:** Learn to use the vocative case to directly address someone
+	or something in Latin.
 
-    Learn to use the vocative case to directly address someone or something in Latin.
-
-    **Content:**
-
-    Vocative Case Purpose: Used for direct address, like calling someone’s name.
-
-    **Vocative Endings:**
-
-     - Second Declension Masculine: *-us* changes to *-e* (e.g., *Marcus* → *Marce*).
-     - Other declensions don’t change.
+	**Content:**
+	 - **Vocative Case Purpose:** Used for direct address, like calling
+		someone’s name.
+	 - **Vocative Endings:** Second Declension Masculine: _-us_ changes to _-e_
+		(e.g., _Marcus_ → _Marce_).
+	 - **Vocative Endings:** Other declensions don’t change.
 EOL
 
 chapter l8-ch1 <EOL
-    # What is the Vocative Case?
+	## 1. What is the Vocative Case?
 
-    The vocative case is used to directly address someone or something. It is the case of direct address in Latin, meaning it is used when you call or speak to someone directly.
+	The vocative case is used to directly address someone or something. It is
+	the case of direct address in Latin, meaning it is used when you call or
+	speak to someone directly.
 
-     - Example: “Marcus, come here!” or “Friend, listen!”
+	Example: “Marcus, come here!” or “Friend, listen!”
 
-    In Latin, the vocative is used when a person or thing is being spoken to. It can be a name, a title, or a descriptive term.
+	In Latin, the vocative is used when a person or thing is being spoken to.
+	It can be a name, a title, or a descriptive term.
 
-    # Vocative Endings
+	## 2. Vocative Endings
 
-    The vocative case usually has the same form as the nominative, but there are a few important rules to note:
+	The vocative case usually has the same form as the nominative, but there
+	are a few important rules to note:
 
-     - Second Declension Masculine: For most second-declension masculine nouns ending in -us, the vocative case changes the -us ending to -e.
-         - Example: Marcus (nominative) → Marce (vocative)
-     - Other Declensions: In most other declensions (first, third, etc.), the vocative case is the same as the nominative.
+	 - Second Declension Masculine: For most second-declension masculine nouns
+		ending in _-us_, the vocative case changes the _-us_ ending to _-e_.
+	
+	Example: _Marcus_ (nominative) → _Marce_ (vocative)
 
-    # Examples of the Vocative Case in Sentences
+	 - Other Declensions: In most other declensions (first, third, etc.), the
+	vocative case is the same as the nominative.
 
-    Here are some examples using the vocative case:
+	## 3. Examples of the Vocative Case in Sentences
 
-     - *Marce, veni!* – Marcus, come!
-     - *Puella, audi!* – Girl, listen!
-     - *Amīce, salve!* – Friend, hello!
+	Here are some examples using the vocative case:
 
-    # Using the Vocative with Imperatives
+	 - _Marce, venī!_ – Marcus, come!
+	 - _Puella, audī!_ – Girl, listen!
+	 - _Amīce, salvē!_ – Friend, hello!
 
-    The vocative case is often used with imperative verbs, which are commands or requests. For example:
+	## 4. Using the Vocative with Imperatives
 
-     - *Marce, veni!* – Marcus, come!
-     - *Amīce, audi!* – Friend, listen!
+	The vocative case is often used with imperative verbs, which are commands
+	or requests. For example:
 
-    In both cases, the vocative indicates the person being addressed, while the imperative is the action being requested.
+	 - _Marce, venī!_ – Marcus, come!
+	 - _Amīce, audī!_ – Friend, listen!
+
+	In both cases, the vocative indicates the person being addressed, while the
+	imperative is the action being requested.
 EOL <EOL
-    # Quid est Casus Vocativus?
+	## 1. Quid est cāsus vocātīvus?
 
-    Casus vocativus adhibetur ad directam adlocutionem alicuius aut alicuius rei. Est casus directae adlocutionis in Latina, id est, adhibetur cum aliquem directe vocas aut alloqueris.
+	Cāsus vocātīvus adhibētur ad directam adlocūtiōnem alicuius aut alicuius
+	reī. Est cāsus directae adlocūtiōnis in Latīnā, id est, adhibētur cum
+	aliquem dīrecte vocās aut alloqueris.
 
-     - Exemplum: “Marce, veni huc!” vel “Amīce, audi!”
+	Exemplum: “Marce, venī hūc!” vel “Amīce, audī!”
 
-    In Latina, vocativus adhibetur cum persona aut res loquitur. Potest esse nomen, titulus, vel descriptio.
+	In Latīnā, vocātīvus adhibētur cum persōna aut rēs loquitur. Potest esse
+	nōmen, titulus, vel dēscrīptiō.
 
-    # Fines Vocativi
+	## 2. Fīnēs vocātīvī
 
-    Casus vocativus plerumque simile est cum nominativo, sed sunt nonnullae regulæ notandae:
+	Cāsus vocātīvus plērumque similis est cum nōminātīvō, sed sunt nōnnullae
+	rēgulae notandae:
 
-     - Secunda Declinatione Masculina: Pro plerisque substantivis masculinis secundae declinationis quae in -us finiunt, vocativus -us ad -e mutatur.
-         - Exemplum: Marcus (nominativus) → Marce (vocativus)
-     - Aliae Declinationes: In pluribus aliis declinationibus (prima, tertia, etc.), vocativus idem est ac nominativus.
+	 - Secunda dēclīnātiō māsculīna: Pro plērisque substandīvīs māsculīnīs
+		secundae dēclīnātiōnis quae in _-us_ fīniunt, vocātīvus _-us_ ad _-e_
+		mūtātur.
 
-    # Exempla Casus Vocativi in Sententiis
+	Exemplum: Marcus (nōminātīvus) → Marce (vocātīvus)
 
-    Hic sunt quaedam exempla casus vocativi:
+	 - Aliae Dēclīnātiōnēs: In plūribus aliīs dēclīnātiōnibus (prīma, tertia,
+	etc.), vocātīvus idem est ac nōminātīvus.
 
-     - Marce, veni!
-     - Puella, audi!
-     - Amīce, salve!
+	## 3. Exempla cāsūs vocātīvī in sententiīs
 
-    # Usus Vocativi cum Imperativis
+	Hic sunt quaedam exempla cāsūs vocātīvī:
 
-    Casus vocativus saepe adhibetur cum verbis imperativi, quae sunt imperium aut petitio. Exempli gratia:
+	 - Marce, venī!
+	 - Puella, audī!
+	 - Amīce, salvē!
 
-     - Marce, veni!
-     - Amīce, audi!
+	## 4. Ūsus vocātīvī cum imperātīvīs
 
-    In utrisque casibus, vocativus indicat personam adlocutam, dum imperativus est actio quae petit.
+	Cāsus vocātīvus saepe adhibētur cum verbīs imperātīvīs, quae sunt imperium
+	aut petītiō. Exemplī grātiā:
+
+	 - Marce, venī!
+	 - Amīce, audī!
+
+	In utrīsque cāsibus, vocātīvus indicat persōnam adlocūtam, dum imperātīvus
+	est āctiō quae petitur.
 EOL
