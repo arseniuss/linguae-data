@@ -1,5 +1,11 @@
 name "Chapter 14: The Relative Pronoun (Quī, Quae, Quod)"
 
+# Introduce the relative pronoun (qui, quae, quod) and its use in relative
+# clauses to add more information about a noun.
+
+# Example: Puer, qui librum legit, est amicus meus – The boy, who is reading a
+# book, is my friend.
+
 #
 # Chapter 14: Relative clauses and conjunctions: quod (because, that), cuius
 # (whose), quae (which, who).

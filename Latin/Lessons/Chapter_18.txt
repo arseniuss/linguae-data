@@ -1,5 +1,8 @@
 name "Chapter 18: Participles: Present and Perfect Active"
 
+# Introduce participles as verbal adjectives, with practice in forming and
+# using present and perfect active participles.
+
 # Conjunctions of Action and Sequence:
 #
 #    postquam (after)

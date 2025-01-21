@@ -1,3 +1,6 @@
 name "Chapter 19: Deponent Verbs"
 
+# Explore the special category of deponent verbs, which are passive in form but
+# active in meaning (sequor, loquor).
+
 # No new conjunctions: 

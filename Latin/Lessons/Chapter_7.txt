@@ -1,5 +1,10 @@
 name "Chapter 7: The Accusative of Purpose (Ad and In)"
 
+# Learn how to use the accusative case to indicate purpose or intention (e.g.,
+# ad + accusative, in + accusative).
+
+# Example: Veni ad urbem – I came to the city.
+
 #
 # Chapter 7: Conjunctions of result like itaque (and so, therefore), tam (so,
 # so much), sic (thus).

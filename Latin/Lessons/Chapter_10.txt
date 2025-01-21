@@ -1,3 +1,8 @@
 name "Chapter 10: The Future Tense (Third and Fourth Conjugations)"
 
+# Continue with the future tense, this time focusing on third and fourth
+# conjugation verbs.
+
+# Example: audiam – I will hear.
+
 # Chapter 10: No new conjunctions here. 

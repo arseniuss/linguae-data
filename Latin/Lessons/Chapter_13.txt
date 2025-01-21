@@ -1,5 +1,10 @@
 name "Chapter 13: The Pluperfect Tense (Third and Fourth Conjugations)"
 
+# Continue with the pluperfect tense, focusing on third and fourth conjugation
+# verbs.
+
+# Example: audiveram – I had heard.
+
 #
 # Chapter 13: Conjunctions of concession: quamquam (although), etsi (even if).
 #

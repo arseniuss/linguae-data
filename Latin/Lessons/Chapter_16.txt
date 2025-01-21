@@ -1,5 +1,8 @@
 name "Chapter 16: The Imperative Mood"
 
+# Teach how to form commands in Latin for both singular and plural, along with
+# common phrases like veni! and audīte!.
+
 #
 # Conjunctions for Commands:
 #

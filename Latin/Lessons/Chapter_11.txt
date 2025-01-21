@@ -1,5 +1,9 @@
 name "Chapter 11: The Accusative of Duration of Time"
 
+# Learn how the accusative case can express the duration of an action in time.
+
+# Example: duas horas laboravi – I worked for two hours.
+
 #
 # Chapter 11: Conjunctions of condition: si (if), nisi (unless).
 #

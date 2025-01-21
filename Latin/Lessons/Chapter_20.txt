@@ -1,5 +1,8 @@
 name "Chapter 20: Expressions of Place (Locative Case)"
 
+# Teach the locative case for specific locations and review other expressions
+# of place (e.g., Rōmae, domī).
+
 #
 # Conjunctions of Place and Direction:
 #

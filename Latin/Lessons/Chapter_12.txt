@@ -1,5 +1,10 @@
 name "Chapter 12: The Pluperfect Tense (First and Second Conjugations)"
 
+# Introduce the pluperfect tense for first and second conjugation verbs to
+# express past actions completed before another past action.
+
+# Example: amaveram – I had loved.
+
 #
 # Chapter 12: Conjunctions of contrast: autem (however), tamen (nevertheless).
 #

@@ -1,5 +1,8 @@
 name "Chapter 17: The Ablative of Cause and Time"
 
+# Focus on using the ablative to indicate reasons and expressions of time
+# (e.g., timōre fugimus, diē tertiō venit).
+
 #
 # Time and Cause Conjunctions:
 #

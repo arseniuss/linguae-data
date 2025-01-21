@@ -1,5 +1,8 @@
 name "Chapter 21: Subordinate Clauses: Temporal and Causal"
 
+# Dive into more complex sentence structures using temporal (ubi, postquam) and
+# causal conjunctions (quia, quod).
+
 #
 # Advanced Subordinate Conjunctions:
 #
