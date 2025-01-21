@@ -99,3 +99,10 @@ EOL <EOL
 	In utrīsque cāsibus, vocātīvus indicat persōnam adlocūtam, dum imperātīvus
 	est āctiō quae petitur.
 EOL
+
+#
+# Chapter 6: Conjunctions for commands: ut (that), ne (that not), and quod
+# (because, as). These could be used to express indirect commands or reasons.
+#
+# Example: Iubeo ut discas – I order that you learn.
+#

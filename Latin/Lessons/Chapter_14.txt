@@ -1,0 +1,9 @@
+name "Chapter 14: The Relative Pronoun (Quī, Quae, Quod)"
+
+#
+# Chapter 14: Relative clauses and conjunctions: quod (because, that), cuius
+# (whose), quae (which, who).
+#
+# Example: Homines quae bene laborant, fiunt felices – People who work well
+# become happy.
+#

@@ -1,0 +1,9 @@
+name "Chapter 16: The Imperative Mood"
+
+#
+# Conjunctions for Commands:
+#
+#    ut (to, so that, in order to)
+#    ne (lest, not to)
+#    These are useful in constructing commands or expressing purpose.
+#

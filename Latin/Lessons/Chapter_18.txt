@@ -1,0 +1,9 @@
+name "Chapter 18: Participles: Present and Perfect Active"
+
+# Conjunctions of Action and Sequence:
+#
+#    postquam (after)
+#    antequam (before)
+#    quoniam (since)
+#    These align well with the use of participles in describing actions and sequences.
+#

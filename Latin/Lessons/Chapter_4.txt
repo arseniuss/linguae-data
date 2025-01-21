@@ -83,3 +83,10 @@ EOL <EOL
 	accūsātīvus) et obiectum indirectum (cāsus datīvus) habeant. Hōc modō
 	sententias plēnās in linguā Latīnā formāre discimus.
 EOL
+
+#
+# Chapter 4: Conjunctions of purpose like ut (that, so that), ne (lest, so that
+# not). These are useful for more complex sentence constructions.
+#
+# Example: Venit ut librum legat – He comes so that he reads the book.
+#

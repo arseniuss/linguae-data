@@ -90,3 +90,5 @@ EOL <EOL
 	fiat, cum quō fiat, et unde oriātur. Hic cāsus admodum ūtilis est in
 	dēscrībendīs circumstantiīs āctiōnum.
 EOL
+
+# Chapter 5: No new conjunctions needed. 

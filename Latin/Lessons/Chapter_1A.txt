@@ -85,6 +85,8 @@ EOL <EOL
 	sēnsum ostendunt. Hoc nōs adiuvat ad intellectum suffīxōrum.
 EOL
 
+# Chapter 1A: No conjunctions. 
+
 # Nouns
 
 task-ref Trainings/Vocābula.txt-l1-t1-la

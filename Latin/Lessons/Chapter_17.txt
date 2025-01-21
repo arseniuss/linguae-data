@@ -1,0 +1,10 @@
+name "Chapter 17: The Ablative of Cause and Time"
+
+#
+# Time and Cause Conjunctions:
+#
+#    quia (because)
+#    quod (because, that)
+#    dum (while)
+#    These conjunctions emphasize cause and temporal relationships.
+#

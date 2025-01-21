@@ -1,0 +1,8 @@
+name "Chapter 13: The Pluperfect Tense (Third and Fourth Conjugations)"
+
+#
+# Chapter 13: Conjunctions of concession: quamquam (although), etsi (even if).
+#
+# Example: Quamquam laboramus, non sumus fatigati – Although we work, we are
+# not tired.
+#

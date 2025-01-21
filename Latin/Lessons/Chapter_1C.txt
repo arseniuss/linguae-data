@@ -98,5 +98,7 @@ EOL <EOL
 	Latīnōrum et cāsūs intellegendōs.
 EOL 
 
+# Chapter 1C: No conjunctions. 
+
 
 

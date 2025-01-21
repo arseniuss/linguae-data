@@ -149,3 +149,11 @@ EOL <EOL
 		persōnā (-ō, -ās, -at, -āmus, -ātis, -ant).
      - Exercitātiō cum sententiīs adiuvat ad hās fīnēs intellegendās.
 EOL
+
+#
+# Chapter 2: Basic conjunctions like et (and), sed (but), aut (or). These
+# conjunctions are very basic and can be used to join simple sentences.
+
+# Example: Puella amat librum et discipulus amat librum – The girl loves the
+# book and the student loves the book.
+#

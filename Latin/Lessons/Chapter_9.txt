@@ -1,0 +1,8 @@
+name "Chapter 9: The Future Tense (First and Second Conjugations)"
+
+#
+# Chapter 9: Conjunctions of time: ubi (where), antequam (before), postquam
+# (after).
+#
+# Example: Postquam discimus, ludimus – After we learn, we play.
+#

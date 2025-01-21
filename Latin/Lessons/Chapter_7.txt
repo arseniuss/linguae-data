@@ -1,0 +1,9 @@
+name "Chapter 7: The Accusative of Purpose (Ad and In)"
+
+#
+# Chapter 7: Conjunctions of result like itaque (and so, therefore), tam (so,
+# so much), sic (thus).
+#
+# Example: Discipula laborat itaque docta est – The student works and so she is
+# learned.
+#

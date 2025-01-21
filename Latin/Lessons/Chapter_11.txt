@@ -1,0 +1,7 @@
+name "Chapter 11: The Accusative of Duration of Time"
+
+#
+# Chapter 11: Conjunctions of condition: si (if), nisi (unless).
+#
+# Example: Si puer venit, ludimus – If the boy comes, we play.
+#

@@ -1,0 +1,8 @@
+name "Chapter 12: The Pluperfect Tense (First and Second Conjugations)"
+
+#
+# Chapter 12: Conjunctions of contrast: autem (however), tamen (nevertheless).
+#
+# Example: Puella pulchra est; autem non gaudet – The girl is beautiful;
+# however she is not happy.
+#

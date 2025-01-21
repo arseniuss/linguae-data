@@ -1,0 +1,4 @@
+name "Chapter 15: The Fifth Declension Nouns"
+
+# No new conjunctions: This chapter focuses on understanding the fifth
+# declension without introducing new complexities.

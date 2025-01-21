@@ -1,0 +1,10 @@
+name "Chapter 20: Expressions of Place (Locative Case)"
+
+#
+# Conjunctions of Place and Direction:
+#
+#    ubi (where)
+#    quo (to where)
+#    unde (from where)
+#    These fit perfectly with locative expressions.
+#

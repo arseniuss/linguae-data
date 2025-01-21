@@ -87,6 +87,12 @@ EOL <EOL
 	possessiōnem in linguā Latīnā ostendere discāmus.
 EOL
 
-
+#
+# Chapter 3: Additional conjunctions like quia (because), si (if). These can be
+# used with the simple present tense and start expanding sentence complexity.
+#
+# Example: Magistra laborat quia schola est – The teacher works because the
+# school is.
+#
 
 
