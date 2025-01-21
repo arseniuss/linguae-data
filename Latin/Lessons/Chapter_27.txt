@@ -1,0 +1,12 @@
+name "Chapter 27: Expressions of Time"
+
+# Cover temporal phrases: ablative of time when ("tertia hōrā" - at the third
+# hour) and accusative of duration ("multōs annōs" - for many years).
+# Use conjunctions like dum, postquam, antequam in time clauses.
+
+# Dum (while) – Used for actions happening at the same time (e.g., "Dum venis,
+# ego laboro" – While you come, I work).
+# Antequam (before) – Used to introduce a time clause (e.g., "Antequam veniat"
+# – Before he comes).
+# Postquam (after) – Used to introduce a time clause (e.g., "Postquam venit" –
+# After he comes).

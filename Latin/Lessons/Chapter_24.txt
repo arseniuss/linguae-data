@@ -1,0 +1,11 @@
+name "Chapter 24: Indirect Statements"
+
+# Introduce accusative + infinitive constructions in indirect speech (e.g.,
+# "Dīxit puerum venīre" - He said that the boy was coming).
+# Practice verbs of saying, thinking, perceiving (e.g., "dīcō," "putō,"
+# "videō").
+
+# Quod (that) – Introduces indirect statements (e.g., "Dīxit puerum venīre" –
+# He said that the boy was coming).
+# Ne (that not) – Used in negative indirect statements (e.g., "Nōlunt ut
+# veniant" – They don't want that they come).
