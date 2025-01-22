@@ -1,4 +1,111 @@
 name "Chapter 7: The Accusative of Purpose (Ad and In)"
+description <EOL
+	**Objective:** Learn to use the accusative case with the prepositions _ad_
+	and _in_ to express purpose or motion toward something.
+
+	**Content:**
+	 - **Accusative of Purpose:** Indicates the goal or purpose of an action.
+	 - **_Ad_ + Accusative:** Used for motion or purpose toward a place. Example:
+		_Puella ad scholam it_ (The girl goes to school).
+	 - **_In_ + Accusative:** Expresses motion into or onto something. Example:
+		_Intrant in hortum_ (They enter into the garden).
+EOL
+
+chapter l9-ch1 <EOL
+	## 1. What is the Accusative of Purpose?
+
+	The Accusative of Purpose is used in Latin with the prepositions _ad_ and
+	_in_ to indicate motion toward a goal or the purpose of an action. These
+	constructions are particularly common with verbs of movement or intent.
+
+	Examples:
+	 - _Puella ad scholam it._ – The girl goes to school.
+	 - _Intrant in hortum._ – They enter into the garden.
+
+	## 2. The Role of Prepositions (_ad_ and _in_)
+
+	_Ad_ + Accusative: Expresses purpose or motion toward a place or goal.
+
+	Example:
+	 - _Ad templum currunt._ – They run to the temple.
+	 - _Ad bellum parāmus._ – We prepare for war.
+
+	_In_ + Accusative: Indicates motion into or onto something.
+
+	Example:
+	 - _Intrat in vīllam._ – He/she enters into the house.
+	 - _In silvam ambulāmus._ – We walk into the forest.
+
+	## 3. Accusative Endings
+
+	The accusative endings depend on the declension of the noun being used.
+	Here is a brief overview:
+
+	| Declension               | Singular | Plural |
+	| ------------------------ | -------- | ------ |
+	| 1st Declension           | _-am_    | _-ās_  |
+	| 2nd Declension           | _-um_    | _-ōs_  |
+	| 3rd Declension           | _-em_    | _-ēs_  |
+	| Neuter (all declensions) | _-um_    | _-a_   |
+
+	## 4. Examples of the Accusative of Purpose
+
+	Here are more examples of how the accusative case is used with _ad_ and
+	_in_:
+
+	 - _Mīlitēs ad urbem festīnant._ – The soldiers hurry to the city.
+	 - _Puer in hortum currit._ – The boy runs into the garden.
+	 - _Magister ad scholam venit._ – The teacher comes to the school.
+	 - _Agricolae in agrōs eunt._ – The farmers go into the fields.
+
+EOL <EOL
+	## 1. Quid est accūsātīvus rationis?
+
+	Accūsātīvus rationis in lātiōne cum prēpositionibus _ad_ et _in_ adhibētur
+	ad mōtiōnem ad aliquod fīnem aut ad causam actiōnis significandam. Hae
+	constructionēs praesertim cum verbīs mōtiōnis aut intentiōnis
+	frequentissimae sunt.
+
+	Exempla:
+	 - Puella ad scholam it.
+	 - Intrant in hortum.
+
+	## 2. Rōle prēpositionum (_ad_ et _in_)
+
+	_Ad_ + accūsātīvus: Rationem aut mōtiōnem ad locum aut finem exprimit.
+
+	Exemplum:
+	 - Ad templum currunt.
+	 - Ad bellum parāmus.
+
+	_In_ + Accūsātīvus: Mōtiōnem in aut super aliquid significat.
+
+	Exemplum:
+	 - Intrat in vīllam.
+	 - In silvam ambulāmus.
+
+	## 3. Desinentiae accūsātīvi
+
+	Desinentiae accūsātīvi secundum declensionem nōminis adhibiti variantur.
+	Hic est index brevissimus:
+
+	| Declēnsiō                    | Sīngulāris | Plūrālis |
+	| ---------------------------- | ---------- | -------- |
+	| Prima declēnsiō              | _-am_      | _-ās_    |
+	| Secunda declēnsiō            | _-um_      | _-ōs_    |
+	| Tertia declēnsiō             | _-em_      | _-ēs_    |
+	| Neutrum (omnia declēnsiōnēs) | _-um_      | _-a_     |
+
+	## 4. Exempla accūsātīvi rationis
+
+	Hic sunt plūra exempla de modo accūsātīvo cum _ad_ et _in_:
+
+	 - Mīlitēs ad urbem festīnant.
+	 - Puer in hortum currit.
+	 - Magister ad scholam venit.
+	 - Agricolae in agrōs eunt.
+
+EOL
 
 # Learn how to use the accusative case to indicate purpose or intention (e.g.,
 # ad + accusative, in + accusative).
