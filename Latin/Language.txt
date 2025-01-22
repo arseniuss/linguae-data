@@ -106,6 +106,28 @@ lesson Lessons/Chapter_3.txt
 lesson Lessons/Chapter_4.txt
 lesson Lessons/Chapter_5.txt
 lesson Lessons/Chapter_6.txt
+lesson Lessons/Chapter_7.txt
+lesson Lessons/Chapter_8.txt
+lesson Lessons/Chapter_9.txt
+lesson Lessons/Chapter_10.txt
+lesson Lessons/Chapter_11.txt
+lesson Lessons/Chapter_12.txt
+lesson Lessons/Chapter_13.txt
+lesson Lessons/Chapter_14.txt
+lesson Lessons/Chapter_15.txt
+lesson Lessons/Chapter_16.txt
+lesson Lessons/Chapter_17.txt
+lesson Lessons/Chapter_18.txt
+lesson Lessons/Chapter_19.txt
+lesson Lessons/Chapter_20.txt
+lesson Lessons/Chapter_21.txt
+lesson Lessons/Chapter_22.txt
+lesson Lessons/Chapter_23.txt
+lesson Lessons/Chapter_24.txt
+lesson Lessons/Chapter_25.txt
+lesson Lessons/Chapter_26.txt
+lesson Lessons/Chapter_27.txt
+lesson Lessons/Chapter_28.txt
 
 
 #Special case ANY
