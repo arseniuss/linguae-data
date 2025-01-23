@@ -1,6 +1,7 @@
-#
-# Vocabulary
-#
+name "Vocabulary"
+description <EOL
+TODO
+EOL
 
 # Nouns from the fist lesson
 

@@ -1,0 +1,14 @@
+name "Fist conjugation verbs"
+description <EOL
+TODO
+EOL
+
+category conjugate &conj1 &praes_act_ind
+
+task l1-1 conjugate &conj1 &praes_act_ind "spectāre" "to watch, observe, look at, consider" &persons @gen:spectāre
+task l1-2 conjugate &conj1 &praes_act_ind amāre "to love" &persons @gen:amāre
+task l1-3 conjugate &conj1 &praes_act_ind laudāre "to praise, laud, extol" &persons @gen:laudāre
+task l1-4 conjugate &conj1 &praes_act_ind narrāre "to tell, say, relate" &persons @gen:narrāre
+task l1-5 conjugate &conj1 &praes_act_ind portāre "to carry, bear" &persons @gen:portāre
+task l1-6 conjugate &conj1 &praes_act_ind arāre "to plough, till" &persons @gen:arāre
+task l1-7 conjugate &conj1 &praes_act_ind dare "to give" &persons dō,dās,dat,damus,datis,dant/danunt

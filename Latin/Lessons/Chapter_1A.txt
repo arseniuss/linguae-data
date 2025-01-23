@@ -89,26 +89,26 @@ EOL
 
 # Nouns
 
-task-ref Trainings/Vocābula.txt-l1-t1-la
-task-ref Trainings/Vocābula.txt-l1-t2-la
-task-ref Trainings/Vocābula.txt-l1-t3-la
-task-ref Trainings/Vocābula.txt-l1-t4-la
-task-ref Trainings/Vocābula.txt-l1-t5-la
-task-ref Trainings/Vocābula.txt-l1-t6-la
-task-ref Trainings/Vocābula.txt-l1-t7-la
-task-ref Trainings/Vocābula.txt-l1-t8-la
-task-ref Trainings/Vocābula.txt-l1-t9-la
-task-ref Trainings/Vocābula.txt-l1-t10-la
-task-ref Trainings/Vocābula.txt-l1-t11-la
-task-ref Trainings/Vocābula.txt-l1-t12-la
-task-ref Trainings/Vocābula.txt-l1-t13-la
-task-ref Trainings/Vocābula.txt-l1-t14-la
-task-ref Trainings/Vocābula.txt-l1-t15-la
-task-ref Trainings/Vocābula.txt-l1-t16-la
-task-ref Trainings/Vocābula.txt-l1-t17-la
-task-ref Trainings/Vocābula.txt-l1-t18-la
-task-ref Trainings/Vocābula.txt-l1-t19-la
-task-ref Trainings/Vocābula.txt-l1-t20-la
+task-ref Trainings/Vocabulary.txt-l1-t1-la
+task-ref Trainings/Vocabulary.txt-l1-t2-la
+task-ref Trainings/Vocabulary.txt-l1-t3-la
+task-ref Trainings/Vocabulary.txt-l1-t4-la
+task-ref Trainings/Vocabulary.txt-l1-t5-la
+task-ref Trainings/Vocabulary.txt-l1-t6-la
+task-ref Trainings/Vocabulary.txt-l1-t7-la
+task-ref Trainings/Vocabulary.txt-l1-t8-la
+task-ref Trainings/Vocabulary.txt-l1-t9-la
+task-ref Trainings/Vocabulary.txt-l1-t10-la
+task-ref Trainings/Vocabulary.txt-l1-t11-la
+task-ref Trainings/Vocabulary.txt-l1-t12-la
+task-ref Trainings/Vocabulary.txt-l1-t13-la
+task-ref Trainings/Vocabulary.txt-l1-t14-la
+task-ref Trainings/Vocabulary.txt-l1-t15-la
+task-ref Trainings/Vocabulary.txt-l1-t16-la
+task-ref Trainings/Vocabulary.txt-l1-t17-la
+task-ref Trainings/Vocabulary.txt-l1-t18-la
+task-ref Trainings/Vocabulary.txt-l1-t19-la
+task-ref Trainings/Vocabulary.txt-l1-t20-la
 
 # TODO: 2 choose tasks for each noun: English -> Latin and Latin -> English
 #	TODO: put these tasks in noun file

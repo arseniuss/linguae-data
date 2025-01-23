@@ -129,17 +129,31 @@ lesson Lessons/Chapter_26.txt
 lesson Lessons/Chapter_27.txt
 lesson Lessons/Chapter_28.txt
 
+#
+# Trainings
+#
+
+training Trainings/Nouns_I.txt
+training Trainings/Nouns_II.txt
+training Trainings/Nouns_III.txt
+training Trainings/Nouns_IV.txt
+training Trainings/Nouns_V.txt
+
+training Trainings/Adjectives.txt
+
+training Trainings/Verbs_I_pres_ind.txt
+training Trainings/Verbs_II_pres_ind.txt
+training Trainings/Verbs_III_pres_ind.txt
+training Trainings/Verbs_IV_pres_ind.txt
+training Trainings/Verbs_V_pres_ind.txt
+
+training Trainings/Vocabulary.txt
+
 
 #Special case ANY
-Training Test.txt "Test" "Test"
-Training "" "Omnes exercitationēs" "All trainings"
-Training Trainings/Nōmen_substantīvum.txt "Nōmen substantīvum" "Nouns"
-Training Trainings/Prōnōmen.txt "Prōnomen" "Pronouns"
-Training Trainings/Nōmen_adiectīvum.txt "Nōmen adiectīvum" "Adjectives"
-Training Trainings/Verbum_rēgulāre.txt "Verbum rēgulāre" "Regular verbs"
-Training Trainings/Verbum_irrēgulāre.txt "Verbum irrēgulāre" "Irregular verbs"
-Training Trainings/Prōformae_adverbōrum.txt "Prōformae adverbōrum" "Latin correlatives"
-Training Trainings/Vocābula.txt "Vocābula" "Vocabulary"
+#Training Test.txt "Test" "Test"
+#Training "" "Omnes exercitationēs" "All trainings"
+#Training Trainings/Verbum_irrēgulāre.txt "Verbum irrēgulāre" "Irregular verbs"
 
 # Modī:
 # - indīcātīvus

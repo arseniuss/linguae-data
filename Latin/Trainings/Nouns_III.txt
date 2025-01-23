@@ -1,0 +1,4 @@
+name "Third declension"
+description <EOL
+TODO
+EOL

@@ -1,6 +1,7 @@
-#
-# Nouns
-#
+name "First declension nouns"
+description <EOL
+TODO
+EOL
 
 category decline &decl1 &sg_f
 category decline &decl1 &pl_f

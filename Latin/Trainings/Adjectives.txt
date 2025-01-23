@@ -1,6 +1,7 @@
-#
-# Adjectives
-#
+name "Adjectives"
+description <EOL
+TODO
+EOL
 
 category decline &decl1 &sg_f
 

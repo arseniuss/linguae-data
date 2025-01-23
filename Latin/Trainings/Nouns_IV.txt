@@ -1,0 +1,4 @@
+name "Forth declension nouns"
+description <EOL
+TODO
+EOL
