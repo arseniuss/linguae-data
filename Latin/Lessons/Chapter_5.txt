@@ -2,16 +2,6 @@ name "Chapter 5: The Ablative Case (Expressing 'by', 'with' or 'from')"
 description <EOL
 	**Objective:** Learn to use the ablative case to describe means,
 	separation, and accompaniment, as in "with a friend" or "from the house."
-
-	**Content:**
-	 - **Ablative Case Purpose:** Shows how, with what, or from where an action
-		occurs.
-	 - **Ablative Endings:** First Declension: _-ā_ (e.g., _puellā_ –
-		by/with/from the girl)
-	 - **Ablative Endings:** Second Declension: _-ō_ (e.g., _amīcō_ –
-		by/with/from the friend)
-	 - **Examples:** Sentences using the ablative case with and without
-		prepositions, like _Cum amīcō ambulat_ (He/she walks with a friend).
 EOL
 
 chapter l7-ch1 <EOL

@@ -1,22 +1,8 @@
 name "Chapter 2: Introduction to Verbs and Present Tense Conjugations"
 description <EOL
-	**Objective:** The goal of this chapter is for students to learn basic
-	Latin verbs and understand how to conjugate them in the present tense for
-	different subjects (I, you, he/she/it, we, you all, they). This will allow
-	students to create simple sentences describing actions happening now.
-
-	**Content:**
-
-	 - **Introduction to Verbs:** Verbs describe actions or states, like "love"
-		or "carry."
-	 - **Conjugation Basics:** Latin verbs change their endings based on the
-		subject, a process called conjugation.
-	 - **Present Tense Conjugation of First Conjugation Verbs:**
-		First conjugation verbs end in -are (e.g., _amare_ - to love).
-		The chapter covers the present tense endings for first conjugation
-			verbs: _-o_, _-as_, _-at_, _-amus_, _-atis_, _-ant_.
-	 - **Practice with Sentences:** Students will use these verbs in simple
-		sentences, reinforcing conjugation and Latin word order.
+	**Objective:** Learn basic Latin verbs and understand how to conjugate them
+	in the present tense for different subjects (I, you, he/she/it, we, you
+	all, they). Create simple sentences describing actions happening now.
 EOL
 
 chapter l4-ch1 <EOL

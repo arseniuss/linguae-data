@@ -2,16 +2,6 @@ name "Chapter 4: The Dative Case (Indirect Object)"
 description <EOL
 	**Objective:** Learn to use the dative case to indicate the indirect
 	object, showing to whom or for whom an action is done.
-
-	**Content:**
-	 - **Dative Case Purpose:** Expresses the recipient of an action, often
-		using “to” or “for.”
-	 - **Dative Endings:** First Declension: _-ae_ (e.g., _puellae_ – to/for
-		the girl)
-	 - **Dative Endings:** Second Declension: _-ō_ (e.g., *amīcō* – to/for the
-		friend)
-	 - **Examples:** Practice sentences with indirect objects, such as
-		_Puellae donum dat_ (He/she gives a gift to the girl).
 EOL
 
 chapter l6-ch1 <EOL

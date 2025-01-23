@@ -3,14 +3,6 @@ description <EOL
 	**Objective:** Learn to express possession in Latin using the genitive
 	case, allowing students to indicate relationships of ownership, like
 	"the girl’s book."
-
-	**Content:**
-	 - **Genitive Case Purpose:** Shows possession, similar to "’s" or "of" in
-		English.
-	 - **Genitive Endings:** First Declension: _-ae_ (e.g., _puellae_ – of the
-		girl)
-	 - **Genitive Endings:** Second Declension: _-ī_ (e.g., _amīcī_ – of the
-		friend)
 EOL
 
 chapter l5-ch1 <EOL

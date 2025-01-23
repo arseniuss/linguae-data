@@ -2,15 +2,6 @@ name "Chapter 1A: Latin Nouns and Simple Sentences"
 description <EOL
 	**Objective:** Introduce basic noun structure and simple sentence
 	construction using first-declension nouns.
-
-	**Content:**
-
-	 - **Introduction to Cases:** Focus on nominative (subject) and
-		accusative (direct object).
-	 - **First Declension Nouns:** Introduce a few key nouns, such as
-		_puella_ (girl), _terra_ (land), and _familia_ (family).
-	 - **Basic Sentence Structure:** Simple Subject-Verb-Object sentences.
-		Example: _Puella aquam portat_ (The girl carries water).
 EOL
 
 chapter l1-ch1 <EOL

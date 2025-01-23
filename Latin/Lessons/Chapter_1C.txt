@@ -1,16 +1,7 @@
 name "Chapter 1C: Basic Pronouns and Expanded Sentence Structures"
 description <EOL
-	**Objective:** Familiarize students with personal pronouns and practice
+	**Objective:** Familiarize with personal pronouns and practice
 	basic sentence patterns.
-
-	**Content:**
-
-	 - **First and Second Person Pronouns:** Focus on _ego_ (I) and _tu_ (you)
-		for singular subjects.
-	 - **Third Person Pronouns (Intro):** Use _is_ (he), _ea_ (she), _id_ (it)
-		in nominative only.
-	 - **Sentence Building:** Practice sentences using nouns, pronouns, and
-		adjectives. Example: _Ego sum amīca_ (I am a friend).
 EOL
 
 chapter l3-ch1 <EOL

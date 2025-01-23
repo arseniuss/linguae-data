@@ -2,13 +2,6 @@ name "Chapter 6: The Vocative Case (Addressing Someone)"
 description <EOL
 	**Objective:** Learn to use the vocative case to directly address someone
 	or something in Latin.
-
-	**Content:**
-	 - **Vocative Case Purpose:** Used for direct address, like calling
-		someone’s name.
-	 - **Vocative Endings:** Second Declension Masculine: _-us_ changes to _-e_
-		(e.g., _Marcus_ → _Marce_).
-	 - **Vocative Endings:** Other declensions don’t change.
 EOL
 
 chapter l8-ch1 <EOL

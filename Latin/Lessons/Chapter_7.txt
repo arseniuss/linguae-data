@@ -2,13 +2,6 @@ name "Chapter 7: The Accusative of Purpose (Ad and In)"
 description <EOL
 	**Objective:** Learn to use the accusative case with the prepositions _ad_
 	and _in_ to express purpose or motion toward something.
-
-	**Content:**
-	 - **Accusative of Purpose:** Indicates the goal or purpose of an action.
-	 - **_Ad_ + Accusative:** Used for motion or purpose toward a place. Example:
-		_Puella ad scholam it_ (The girl goes to school).
-	 - **_In_ + Accusative:** Expresses motion into or onto something. Example:
-		_Intrant in hortum_ (They enter into the garden).
 EOL
 
 chapter l9-ch1 <EOL
