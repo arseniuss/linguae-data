@@ -3,9 +3,10 @@ description <EOL
 TODO
 EOL
 
-# Nouns from the fist lesson
 
-# Latin -> English
+# TODO: move to different file through "include Vocabulary-l1.txt"
+
+# Nouns from the fist lesson
 
 task l1-t1-la choose &choose-meaning rosa "a rose" &nouns-l1-en
 task l1-t2-la choose &choose-meaning silva "a forest" &nouns-l1-en
@@ -28,8 +29,6 @@ task l1-t18-la choose &choose-meaning rāna "a frog" &nouns-l1-en
 task l1-t19-la choose &choose-meaning Iūlia Julia &nouns-l1-en
 task l1-t20-la choose &choose-meaning aquila "an eagle" &nouns-l1-en
 
-# English -> Latin
-
 task l1-t1-en choose &choose-meaning "a rose" rosa &nouns-l1-la
 task l1-t2-en choose &choose-meaning "a forest" silva &nouns-l1-la
 task l1-t3-en choose &choose-meaning "a woman teacher" magistra &nouns-l1-la
@@ -50,4 +49,52 @@ task l1-t17-en choose &choose-meaning "a dove" columba &nouns-l1-la
 task l1-t18-en choose &choose-meaning "a frog" rāna &nouns-l1-la
 task l1-t19-en choose &choose-meaning Julia Iūlia &nouns-l1-la
 task l1-t20-en choose &choose-meaning "an eagle" aquila &nouns-l1-la
+
+# Verbs from first lesson
+
+task l1-t21-la choose &choose-meaning amāre "to love" &verbs-l1-en
+task l1-t22-la choose &choose-meaning vidēre "to see" &verbs-l1-en
+task l1-t23-la choose &choose-meaning habēre "to have" &verbs-l1-en
+task l1-t24-la choose &choose-meaning esse "to be" &verbs-l1-en
+task l1-t25-la choose &choose-meaning laudāre "to praise" &verbs-l1-en
+task l1-t26-la choose &choose-meaning ambulāre "to walk" &verbs-l1-en
+task l1-t27-la choose &choose-meaning portāre "to carry" &verbs-l1-en
+task l1-t28-la choose &choose-meaning audīre "to hear" &verbs-l1-en
+task l1-t29-la choose &choose-meaning cantāre "to sing" &verbs-l1-en
+task l1-t30-la choose &choose-meaning laborāre "to work" &verbs-l1-en
+
+task l1-t21-en choose &choose-meaning "to love" amāre &verbs-l1-la
+task l1-t22-en choose &choose-meaning "to see" vidēre &verbs-l1-la
+task l1-t23-en choose &choose-meaning "to have" habēre &verbs-l1-la
+task l1-t24-en choose &choose-meaning "to be" esse &verbs-l1-la
+task l1-t25-en choose &choose-meaning "to praise" laudāre &verbs-l1-la
+task l1-t26-en choose &choose-meaning "to walk" ambulāre &verbs-l1-la
+task l1-t27-en choose &choose-meaning "to carry" portāre &verbs-l1-la
+task l1-t28-en choose &choose-meaning "to hear" audīre &verbs-l1-la
+task l1-t29-en choose &choose-meaning "to sing" cantāre &verbs-l1-la
+task l1-t30-en choose &choose-meaning "to work" laborāre &verbs-l1-la
+
+# Adjectives from first lesson 
+
+task l1-t31-la choose &choose-meaning bonus good &adjec-l1-en
+task l1-t32-la choose &choose-meaning māgnus great &adjec-l1-en
+task l1-t33-la choose &choose-meaning parvus small &adjec-l1-en
+task l1-t34-la choose &choose-meaning pulcher beautiful &adjec-l1-en
+task l1-t35-la choose &choose-meaning novus new &adjec-l1-en
+task l1-t36-la choose &choose-meaning longus long &adjec-l1-en
+task l1-t37-la choose &choose-meaning clārus clear &adjec-l1-en
+task l1-t38-la choose &choose-meaning grātus grateful &adjec-l1-en
+task l1-t39-la choose &choose-meaning vīvus alive &adjec-l1-en
+task l1-t40-la choose &choose-meaning fīdus loyal &adjec-l1-en
+
+task l1-t31-en choose &choose-meaning good bonus &adjec-l1-la
+task l1-t32-en choose &choose-meaning great māgnus &adjec-l1-la
+task l1-t33-en choose &choose-meaning small parvus &adjec-l1-la
+task l1-t34-en choose &choose-meaning beautiful pulcher &adjec-l1-la
+task l1-t35-en choose &choose-meaning new novus &adjec-l1-la
+task l1-t36-en choose &choose-meaning long longus &adjec-l1-la
+task l1-t37-en choose &choose-meaning clear clārus &adjec-l1-la
+task l1-t38-en choose &choose-meaning grateful grātus &adjec-l1-la
+task l1-t39-en choose &choose-meaning alive vīvus &adjec-l1-la
+task l1-t40-en choose &choose-meaning loyal fīdus &adjec-l1-la
 

@@ -82,6 +82,10 @@ ref fut_act_imp "futūrum prīmum āctīvum imperatīvum"
 gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
 gen conjugate &conj4 &praes_act_ind -ī-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+unt
 
+# Adjectives
+
+
+
 theory Theory/01_Nōmen_substantīvum.txt
 theory Theory/02_Nōmen_substantīvum_1.txt
 theory Theory/03_Nōmen_substantīvum_2.txt
@@ -97,6 +101,15 @@ ref nouns-l1-la rosa,silva,magistra,schola,fīlia,aula,patria,agricola,puella,\
 ref nouns-l1-en "a rose,a forest,a woman teacher,a school,a daughter,a court,\
 	a homeland,a girl,an inhabitant,a woman student,a water,a herb,\
 	a grandmother,a cow,a table,a dove,a frog,Julia,an eagle"
+
+ref verbs-l1-la amāre,vidēre,habēre,esse,laudāre,ambulāre,portāre,audīre,\
+	cantāre,laborāre
+ref verbs-l1-en "to love,to see,to have,to be,to praise,to walk,to carry,\
+	to hear,to sing,to work"
+
+ref adjec-l1-la bonus,māgnus,parvus,pulcher,novus,longus,clārus,grātus,vīvus,\
+	fīdus
+ref adjec-l1-en good,great,small,beautiful,new,long,clear,grateful,alive,loyal
 
 lesson Lessons/Chapter_1A.txt
 lesson Lessons/Chapter_1B.txt
