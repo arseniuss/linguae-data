@@ -20,25 +20,27 @@ task 1 ...
 ```
 will be identified as `Lesson.txt-1`.
 
-## `casing` task
+## `select` task
 
-Casing task is a task where the user have to select name of correct case. For example in "rosa puellae" the noun "puella" is in genitive.
+Select task is a task where the user have to select name of correct case. For
+example in "rosa puellae" the noun "puella" is in genitive.
 
  - Points: 1 per case
 
 Task format:
 ```
-task <id> casing <meaning> <sentence> <answer> <options>
+task <id> select <meaning> <sentence> <answer> <options>
 ```
 where
- - `meaning`: TODO,
- - `sentence`: sentence to which casing should be given,
- - `answer`: case answers to words or skipped if that word do not need to be tested,
+ - `meaning`: translation of sentence;
+ - `sentence`: sentence to which select should be given, tested words should be
+        places in '<>' quotes;
+ - `answer`: correct answer for each tagged word;
  - `options`: list of options.
 
 For example:
 ```
-task 1 casing "I have a red rose." "Rosam rūbrum habeō" Acc.,Acc., Nom.,Gen.,Dat.,Acc.,Abl.,Voc.
+task 1 select "I have a red rose." "<Rosam> <rūbrum> habeō" Acc.,Acc. Nom.,Gen.,Dat.,Acc.,Abl.,Voc.
 ```
 
 ## `choose` task

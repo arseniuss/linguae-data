@@ -172,7 +172,7 @@ task-ref Trainings/Vocabulary.txt-l1-t38-en
 task-ref Trainings/Vocabulary.txt-l1-t39-en
 task-ref Trainings/Vocabulary.txt-l1-t40-en
 
-# TODO: for each adjctive: casing task where user have to choose the right form of adjective
+# TODO: for each adjctive: select task where user have to choose the right form of adjective
 
 # Translate (simple sentences)
 

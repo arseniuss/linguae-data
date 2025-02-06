@@ -52,7 +52,7 @@ chapter l9-ch1 <EOL
 	 - _Agricolae in agrōs eunt._ – The farmers go into the fields.
 
 EOL <EOL
-	## 1. Quid est accūsātīvus rationis?
+	## 1. Quid est accūsātīvus ratiōnis?
 
 	Accūsātīvus rationis in lātiōne cum prēpositionibus _ad_ et _in_ adhibētur
 	ad mōtiōnem ad aliquod fīnem aut ad causam actiōnis significandam. Hae
