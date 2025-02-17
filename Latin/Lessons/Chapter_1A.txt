@@ -40,7 +40,6 @@ chapter l1-ch1 <EOL
 	In Latin, word order is flexible because the endings tell us the
 	meaning. This lets us focus on understanding how endings work.
 EOL <EOL
-
 	## 1. Quid est nōmen?
 
 	Nōmen est verbum prō persōnā, locō, rē, vel ideā, sīcut "puella", "aqua"

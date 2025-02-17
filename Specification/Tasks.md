@@ -115,26 +115,6 @@ symbol ('/').
 Note: The declination and description part is used to configure a custom
 training session. These parts should be in the same format.
 
-## `macron` task
-
-Macron task is a task where the user have to put macrons.
-
- - Points: 1 per word
-
-Task format:
-```
-```
-
-## `number` task
-
-Number task is a task where the user have to write out number given.
-
- - Points: 1 per word
-
-Task format:
-```
-```
-
 ## `translate` task
 
 Translate task is a task where the user have to write translation of a sentence.
@@ -146,5 +126,10 @@ Task format:
 task <id> translate <sentence> <translation> <additionals>
 ```
 where
+ - `sentence`: sentence to translate;
+ - `translation`: whitespace separated translation;
+ - `additionals`: additional options for task.
 
-// TODO
+# Changes
+
+06.02.2025. - Initial version

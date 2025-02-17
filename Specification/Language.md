@@ -80,7 +80,7 @@ Definition:
 lesson <file-path>
 ```
 
-This tag indicates location of one of lesson segments shown in "Lessons"
+This tag indicates location of one of lesson chapters shown in "Lessons"
 section in application. Lesson file is described in Lesson.md file.
 
 ### `training` tag
@@ -90,4 +90,9 @@ Definition:
 training <file-path>
 ```
 
+This tag indicates location of one of training chapters shown in "Trainings"
+section in application. Training file is described in Training.md file.
 
+# Changes
+
+11.02.2025. - Initial version

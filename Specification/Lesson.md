@@ -36,7 +36,8 @@ chapter <id> <display-content> <language-content>
 ```
 where
  - `id `: unique chapter identifier in that file,
- - `display-content`: markdown-enabled content of theory (in display language, English),
+ - `display-content`: markdown-enabled content of theory (in display language,
+        English),
  - `language-content`: markdown-enabled content of theory (in target language).
 
 This tag defines theory explaining the lesson.
@@ -58,3 +59,6 @@ Task reference tag is described in Tasks.md file.
 
 Task tag is described in Tasks.md file.
 
+# Changes
+
+11.02.2025. - Initial version
