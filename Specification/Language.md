@@ -30,6 +30,15 @@ This tag indicates version of current edition. It is used in update process to
 check if newer version is available. Version text of being compared as text.
 There can only be one version tag in language file.
 
+### `author` tag
+
+Definition:
+```
+author <text>
+```
+
+This tag indicates author of language content.
+
 ### `license` tag
 
 Definition:
