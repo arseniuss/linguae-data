@@ -182,26 +182,26 @@ ref additionals "I,you,we,the,a,an,in,of,rose,roses,dove,doves,grandmother,\
 # TODO: 25 translation tasks of simple senetnces
 #	put these sentences in file "Simple sentences"
 
-task t1 translate "Rōsa rubra est" "The rose is red" &additionals
-task t2 translate "Rosae pulchrae sunt" "Roses are beautiful" &additionals
-task t3 translate "Columba rānam spectat" "The dove looks at the frog" &additionals
-task t4 translate "Puella rosam rubram amat" "The girl loves the red rose" &additionals
-task t5 translate "Puellae magnam mēnsam habent" "The girls have a big table" &additionals
-task t6 translate "Iūlia rosās et herbās portat" "Juliet carries roses and herbs" &additionals
-task t7 translate "Et puellās, et agricolās rosae delēctant" "Both girls and farmers delight in roses" &additionals
-task t8 translate "Fīlia herbās portat" "Daughter carries herbs" &additionals
-task t9 translate "Fīlia vaccam habet" "The daughter has a cow" &additionals
-task t10 translate "Puella et fīlia scholae discipulae sunt" "The girl and the daughter are students of the school." &additionals
-task t11 translate "Columba silvam pulchram amat" "The dove loves the beautiful forest" &additionals
-task t12 translate "Avia fabulam narrat" "The grandmother tells a story" &additionals
-task t13 translate "Iūlia columbam rubram amat" "Julia loves the red dove" &additionals
-task t14 translate "Mēnsa est magna" "The table is large" &additionals
-task t15 translate "Discipula silvam spectat" "The student looks at the forest" &additionals
-task t16 translate "Patria magna est" "The homeland is great" &additionals
-task t17 translate "Puellam laetam amis" "You love the happy girl" &additionals
-task t18 translate "Agricolam bonam habeō" "I have a good farmer" &additionals
-task t19 translate "Aulās magnās habimus" "We have large halls" &additionals
-task t20 translate "Rānam albam dant" "They give the white frog" &additionals
-task t21 translate "Parvam scholam habēmus" "We have a small school" &additionals
-task t22 translate "Vaccās magnās datis" "Y'all give large cows" &additionals
+task t1 translate "Rōsa rubra est" "The rose/A rose,is,red" &add-en,&additionals
+task t2 translate "Rosae pulchrae sunt" "Roses,are,beautiful" &additionals
+task t3 translate "Columba rānam spectat" "The dove/A dove,looks at,the frog/a frog" &additionals
+task t4 translate "Puella rosam rubram amat" "The girl/A girl,loves,the/a,red,rose" &additionals
+task t5 translate "Puellae magnam mēnsam habent" "Girls,have,a/the,big,table" &additionals
+task t6 translate "Iūlia rosās et herbās portat" "Juliet,carries,roses,and,herbs" &additionals
+task t7 translate "Et puellās, et agricolās rosae delēctant" "Both,girls/the girls,and,farmers/the farmers,delight in,roses" &additionals
+task t8 translate "Fīlia herbās portat" "A daughter/The daughter,carries,herbs" &additionals
+task t9 translate "Fīlia vaccam habet" "A daughter/The daughter,has,a cow/the cow" &additionals
+task t10 translate "Puella et fīlia scholae discipulae sunt" "A girl/The girl,and,a daughter/the daughter,are,students,of,the school" &additionals
+task t11 translate "Columba silvam pulchram amat" "Dove,loves,the/a,beautiful,forest" &additionals
+task t12 translate "Avia fabulam narrat" "A grandmother/the grandmother,tells,a/the,story" &additionals
+task t13 translate "Iūlia columbam rubram amat" "Julia,loves,a/the,red,dove" &additionals
+task t14 translate "Mēnsa est magna" "The table/A table,is,large" &additionals
+task t15 translate "Discipula silvam spectat" "The student/A student,looks at,a forest/the forest" &additionals
+task t16 translate "Patria magna est" "The homeland/A homeland,is,great" &additionals
+task t17 translate "Puellam laetam amis" "You,love,a/the,happy,girl" &additionals
+task t18 translate "Agricolam bonam habeō" "I,have,a/the,good,farmer" &additionals
+task t19 translate "Aulās magnās habimus" "We,have,large,halls" &additionals
+task t20 translate "Rānam albam dant" "They,give,a/the,white,frog" &additionals
+task t21 translate "Parvam scholam habēmus" "We,have,a/the,small,school" &additionals
+task t22 translate "Vaccās magnās datis" "Y'all,give,large,cows" &additionals
 

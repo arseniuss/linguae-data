@@ -98,6 +98,8 @@ theory Theory/07_Nōmen_adiectīvum.txt
 theory Theory/08_Prōnōmen.txt
 theory Theory/09_Numerālia.txt
 
+ref add-en "a,the"
+
 ref nouns-l1-la rosa,silva,magistra,schola,fīlia,aula,patria,agricola,puella,\
 	incola,discipula,aqua,herba,avia,vacca,mēnsa,columba,rāna,Iūlia,aquila
 ref nouns-l1-en "a rose,a forest,a woman teacher,a school,a daughter,a court,\

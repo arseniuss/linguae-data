@@ -9,4 +9,4 @@ task choose choose &choose-meaning rosa "a rose" &nouns-l1-en
 task conjugate conjugate &conj1 &praes_act_ind "spectāre" "to watch, observe, look at, consider" &persons @gen:spectāre
 task decline decline &decl1 &sg_f "pulchra" "beautiful" &cases @gen:pulchra
 task select select "This is a sentence." "Hīc <sententiae> est, <amīce> mei! Et quid es id? Numquam testus?" nōminātīvus,vocātīvus &cases
-task translate translate "This is a sentence" "Hīc est sententiae." &nouns-l1-la
+task translate translate "Hīc sententiae est." "This/this,is,a sentence/the sentence" &nouns-l1-en

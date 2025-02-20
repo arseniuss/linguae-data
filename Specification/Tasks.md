@@ -127,8 +127,9 @@ task <id> translate <sentence> <translation> <additionals>
 ```
 where
  - `sentence`: sentence to translate;
- - `translation`: whitespace separated translation;
- - `additionals`: additional options for task.
+ - `translation`: translate where words are comma separated. Alternatives are
+       listes with slash symbol (`/`).
+ - `additionals`: additional words (comma-separated);
 
 # Changes
 
