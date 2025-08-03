@@ -23,8 +23,6 @@ include Terms.txt
 
 ###
 # 1. Foundation
-#	Basic building blocks: alphabet, pronunciation, core grammar
-#	Latin alphabet and classical pronunciation
 #	Noun cases 1 & 2 (First and Second Declension)
 #	Basic verbs: Present tense, 1st and 2nd conjugations
 #	Basic sentence structure (simple sentences)
@@ -33,6 +31,7 @@ include Terms.txt
 #
 
 lesson 01_Foundation/Lesson01.txt
+lesson 01_Foundation/Lesson02.txt
 
 ###
 # 2. Grammar Core
@@ -45,7 +44,7 @@ lesson 01_Foundation/Lesson01.txt
 #	Simple prepositions and their cases
 #	Introduction to participles
 
-lesson 02_Grammar/Lesson01.txt
+#lesson 02_Grammar/Lesson01.txt
 
 ###
 # 3. Syntax and Sentence Complexity
@@ -58,7 +57,7 @@ lesson 02_Grammar/Lesson01.txt
 #	Ablative absolute
 #	Passive voice in present and past tenses
 
-lesson 03_Syntax/Lesson01.txt
+#lesson 03_Syntax/Lesson01.txt
 
 ###
 # 4. Advanced Verb Forms and Constructions
@@ -70,7 +69,7 @@ lesson 03_Syntax/Lesson01.txt
 #	Infinitives and indirect discourse
 #	Historical infinitive and narrative techniques
 
-lesson 04_Advanced/Lesson01.txt
+#lesson 04_Advanced/Lesson01.txt
 
 ###
 # 5. Stylistic and Literary Latin
@@ -81,7 +80,7 @@ lesson 04_Advanced/Lesson01.txt
 #	Reading and analysis of classical texts (Cicero, Virgil, Ovid)
 #	Translation practice and composition
 
-lesson 05_Literary/Lesson01.txt
+#lesson 05_Literary/Lesson01.txt
 
 ###
 # 6. Composition and Application
@@ -92,7 +91,7 @@ lesson 05_Literary/Lesson01.txt
 #	Etymology and word formation
 #	Latin in modern languages and culture
 
-lesson 06_Application/Lesson01.txt
+#lesson 06_Application/Lesson01.txt
 
 ###
 # 7. Specialized Topics and Review
@@ -103,5 +102,5 @@ lesson 06_Application/Lesson01.txt
 #	Dialects and historical changes
 #	Final comprehensive review
 
-lesson 07_Specialized/Lesson01.txt
+#lesson 07_Specialized/Lesson01.txt
 

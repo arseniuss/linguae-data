@@ -1,37 +1,37 @@
 #
 # Required:
 #		ref cases
-#
+#		gen
 #
 
-task d01-la decline &decl1 &masc agricola	farmer				&cases @gen
-task d02-la decline &decl1 &fem aqua		water				&cases @gen
-task d03-la decline &decl1 &fem aquila		eagle				&cases @gen
-task d04-la decline &decl1 &fem aula		court				&cases @gen
-task d05-la decline &decl1 &fem avia		grandmother			&cases @gen
-task d06-la decline &decl1 &fem casa		cottage				&cases @gen
-task d07-la decline &decl1 &fem columba		dove				&cases @gen
-task d08-la decline &decl1 &fem discipula	"(female) student"	&cases @gen
-task d09-la decline &decl1 &fem fēmina		woman				&cases @gen
-task d10-la decline &decl1 &fem herba		herb				&cases @gen
-task d11-la decline &decl1 &fem incola		inhabitant			&cases @gen
-task d12-la decline &decl1 &fem īnsula		island				&cases @gen
-task d13-la decline &decl1 &fem Iūlia		Julia				&cases @gen
-task d14-la decline &decl1 &fem magistra	"(female) teacher"	&cases @gen
-task d15-la decline &decl1 &fem mēnsa		table				&cases @gen
-task d16-la decline &decl1 &masc nauta		sailor				&cases @gen
-task d17-la decline &decl1 &fem patria		country				&cases @gen
-task d18-la decline &decl1 &fem pecūnia		money				&cases @gen
-task d19-la decline &decl1 &masc pīrāta		pirate				&cases @gen
-task d20-la decline &decl1 &masc poēta		poet				&cases @gen
-task d21-la decline &decl1 &fem porta		gate				&cases @gen
-task d22-la decline &decl1 &fem puella		girl				&cases @gen
-task d23-la decline &decl1 &fem rāna		frog				&cases @gen
-task d24-la decline &decl1 &fem rosa		rose				&cases @gen
-task d25-la decline &decl1 &fem schōla		school				&cases @gen
-task d26-la decline &decl1 &fem silva		forest				&cases @gen
-task d27-la decline &decl1 &fem stēlla		star				&cases @gen
-task d28-la decline &decl1 &fem terra		land				&cases @gen
-task d29-la decline &decl1 &fem umbra		shadow				&cases @gen
-task d30-la decline &decl1 &fem vacca		cow					&cases @gen
-task d31-la decline &decl1 &fem via			road				&cases @gen
+task d01-la decline &decl1 &masc [agricola](wikt:agricola)	farmer				&cases @gen
+task d02-la decline &decl1 &fem [aqua](wikt:aqua)			water				&cases @gen
+task d03-la decline &decl1 &fem [aquila](wikt:aquila)		eagle				&cases @gen
+task d04-la decline &decl1 &fem [aula](wikt:aula)			court				&cases @gen
+task d05-la decline &decl1 &fem [avia](wikt:avia)			grandmother			&cases @gen
+task d06-la decline &decl1 &fem [casa](wikt:casa)			cottage				&cases @gen
+task d07-la decline &decl1 &fem [columba](wikt:columba)		dove				&cases @gen
+task d08-la decline &decl1 &fem [discipula](wikt:discipula)	"(female) student"	&cases @gen
+task d09-la decline &decl1 &fem [fēmina](wikt:femina)		woman				&cases @gen
+task d10-la decline &decl1 &fem [herba](wikt:herba)			herb				&cases @gen
+task d11-la decline &decl1 &fem [incola](wikt:incola)		inhabitant			&cases @gen
+task d12-la decline &decl1 &fem [īnsula](wikt:insula)		island				&cases @gen
+task d13-la decline &decl1 &fem [Iūlia](wikt:Iulia)			Julia				&cases @gen
+task d14-la decline &decl1 &fem [magistra](wikt:magistra)	"(female) teacher"	&cases @gen
+task d15-la decline &decl1 &fem [mēnsa](wikt:mensa)			table				&cases @gen
+task d16-la decline &decl1 &masc [nauta](wikt:nauta)		sailor				&cases @gen
+task d17-la decline &decl1 &fem [patria](wikt:patria)		country				&cases @gen
+task d18-la decline &decl1 &fem [pecūnia](wikt:pecunia)		money				&cases @gen
+task d19-la decline &decl1 &masc [pīrāta](wikt:pirata)		pirate				&cases @gen
+task d20-la decline &decl1 &masc [poēta](wikt:poeta)		poet				&cases @gen
+task d21-la decline &decl1 &fem [porta](wikt:porta)			gate				&cases @gen
+task d22-la decline &decl1 &fem [puella](wikt:puella)		girl				&cases @gen
+task d23-la decline &decl1 &fem [rāna](wikt:rana)			frog				&cases @gen
+task d24-la decline &decl1 &fem [rosa](wikt:rosa)			rose				&cases @gen
+task d25-la decline &decl1 &fem [schōla](wikt:schola)		school				&cases @gen
+task d26-la decline &decl1 &fem [silva](wikt:silva)			forest				&cases @gen
+task d27-la decline &decl1 &fem [stēlla](wikt:stella)		star				&cases @gen
+task d28-la decline &decl1 &fem [terra](wikt:terra)			land				&cases @gen
+task d29-la decline &decl1 &fem [umbra](wikt:umbra)			shadow				&cases @gen
+task d30-la decline &decl1 &fem [vacca](wikt:vacca)			cow					&cases @gen
+task d31-la decline &decl1 &fem [via](wikt:via)				road				&cases @gen

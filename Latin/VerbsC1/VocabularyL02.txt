@@ -1,0 +1,66 @@
+#
+# Required:
+#		ref verbs-en
+#
+
+task v01-la choose &choose-meaning amāre		"to love"					&verbs-en
+task v02-la choose &choose-meaning vocāre		"to call"					&verbs-en
+task v03-la choose &choose-meaning portāre		"to carry"					&verbs-en
+task v04-la choose &choose-meaning spectāre		"to watch"					&verbs-en
+task v05-la choose &choose-meaning parāre		"to prepare"				&verbs-en
+task v06-la choose &choose-meaning intrāre		"to enter"					&verbs-en
+task v07-la choose &choose-meaning salūtāre		"to greet"					&verbs-en
+task v08-la choose &choose-meaning lavāre		"to wash"					&verbs-en
+task v09-la choose &choose-meaning cantāre		"to sing"					&verbs-en
+task v10-la choose &choose-meaning nārrāre		"to tell (a story)"			&verbs-en
+task v11-la choose &choose-meaning cūrāre		"to care for"				&verbs-en
+task v12-la choose &choose-meaning laborāre		"to work"					&verbs-en
+task v13-la choose &choose-meaning vexāre		"to annoy"					&verbs-en
+task v14-la choose &choose-meaning ambulāre		"to walk"					&verbs-en
+task v15-la choose &choose-meaning juvāre		"to help"					&verbs-en
+task v16-la choose &choose-meaning laudāre		"to praise"					&verbs-en
+task v17-la choose &choose-meaning nāvigāre		"to sail"					&verbs-en
+task v18-la choose &choose-meaning servāre		"to save, guard"			&verbs-en
+task v19-la choose &choose-meaning rogāre		"to ask"					&verbs-en
+task v20-la choose &choose-meaning exspectāre	"to wait for"				&verbs-en
+task v21-la choose &choose-meaning clamāre		"to shout"					&verbs-en
+task v22-la choose &choose-meaning habitāre		"to live, dwell"			&verbs-en
+task v23-la choose &choose-meaning errāre		"to wander, err"			&verbs-en
+task v24-la choose &choose-meaning optāre		"to wish, desire"			&verbs-en
+task v25-la choose &choose-meaning dēsīderāre	"to long for, miss"			&verbs-en
+task v26-la choose &choose-meaning numerāre		"to count"					&verbs-en
+task v27-la choose &choose-meaning temptāre		"to try, attempt"			&verbs-en
+task v28-la choose &choose-meaning cessāre		"to be idle, do nothing"	&verbs-en
+task v29-la choose &choose-meaning vulnerāre	"to wound"					&verbs-en
+task v30-la choose &choose-meaning adorāre		"to worship"				&verbs-en
+
+task v01-en choose &choose-meaning "to love"				amāre		&verbs-la
+task v02-en choose &choose-meaning "to call"				vocāre		&verbs-la
+task v03-en choose &choose-meaning "to carry"				portāre		&verbs-la
+task v04-en choose &choose-meaning "to watch"				spectāre	&verbs-la
+task v05-en choose &choose-meaning "to prepare"				parāre		&verbs-la
+task v06-en choose &choose-meaning "to enter"				intrāre		&verbs-la
+task v07-en choose &choose-meaning "to greet"				salūtāre	&verbs-la
+task v08-en choose &choose-meaning "to wash"				lavāre		&verbs-la
+task v09-en choose &choose-meaning "to sing"				cantāre		&verbs-la
+task v10-en choose &choose-meaning "to tell (a story)"		nārrāre		&verbs-la
+task v11-en choose &choose-meaning "to care for"			cūrāre		&verbs-la
+task v12-en choose &choose-meaning "to work"				laborāre	&verbs-la
+task v13-en choose &choose-meaning "to annoy"				vexāre		&verbs-la
+task v14-en choose &choose-meaning "to walk"				ambulāre	&verbs-la
+task v15-en choose &choose-meaning "to help"				juvāre		&verbs-la
+task v16-en choose &choose-meaning "to praise"				laudāre		&verbs-la
+task v17-en choose &choose-meaning "to sail"				nāvigāre	&verbs-la
+task v18-en choose &choose-meaning "to save, guard"			servāre		&verbs-la
+task v19-en choose &choose-meaning "to ask"					rogāre		&verbs-la
+task v20-en choose &choose-meaning "to wait for"			exspectāre	&verbs-la
+task v21-en choose &choose-meaning "to shout"				clamāre		&verbs-la
+task v22-en choose &choose-meaning "to live, dwell"			habitāre	&verbs-la
+task v23-en choose &choose-meaning "to wander, err"			errāre		&verbs-la
+task v24-en choose &choose-meaning "to wish, desire"		optāre		&verbs-la
+task v25-en choose &choose-meaning "to long for, miss"		dēsīderāre	&verbs-la
+task v26-en choose &choose-meaning "to count"				numerāre	&verbs-la
+task v27-en choose &choose-meaning "to try, attempt"		temptāre	&verbs-la
+task v28-en choose &choose-meaning "to be idle, do nothing"	cessāre		&verbs-la
+task v29-en choose &choose-meaning "to wound"				vulnerāre	&verbs-la
+task v30-en choose &choose-meaning "to worship"				adorāre		&verbs-la

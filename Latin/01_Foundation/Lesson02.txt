@@ -1,0 +1,58 @@
+section	"Foundation"
+name	"Lesson 2: Present Tense Active (-āre verbs) singular"
+
+description <EOL
+	Introduces first conjugation verbs in the present tense active, focusing on
+	basic subject–verb agreement and sentence formation.
+EOL
+
+chapter 1 <EOL
+	## Lesson 2: Present Tense Active (-āre Verbs, Singular)
+
+	In Latin, the **present tense** expresses actions that are happening
+	**now**, actions that happen **habitually**, or **general truths**. First
+	conjugation verbs have infinitives ending in **-āre**, and they follow a
+	regular pattern when conjugated. The **present active singular forms** are
+	created by removing **-āre** from the infinitive and adding personal endings.
+
+	---
+
+	### Present Tense Endings (Singular – First Conjugation)
+
+	| Person        | Ending | Example (amāre – "to love") | Translation        |
+	|---------------|--------|-----------------------------|--------------------|
+	| 1st person    | -ō     | amō                         | I love             |
+	| 2nd person    | -ās    | amās                        | You love (sing.)   |
+	| 3rd person    | -at    | amat                        | He/She/It loves    |
+
+	> **Note:** The stem is formed by dropping **-re** from the infinitive
+	(e.g. *amāre* → *amā-*), and then the endings are added.
+EOL
+
+#
+#
+#
+
+ref verbs-la "amāre, vocāre, portāre, spectāre, parāre,\
+		intrāre, salūtāre, lavāre, cantāre, nārrāre,\
+		cūrāre, laborāre, vexāre, ambulāre, juvāre,\
+		laudāre, nāvigāre, servāre, rogāre, exspectāre,\
+		clamāre, habitāre, errāre, optāre, dēsīderāre,\
+		numerāre, temptāre, cessāre, vulnerāre, adorāre"
+
+ref verbs-en "to love,to call,to carry,to watch,to prepare,\
+		to enter,to greet,to wash,to sing,to tell,to care for,\
+		to work,to annoy,to walk,to help,to praise,to sail,to save,\
+		to ask,to wait for,to shout,to live,to wander,to wish,to long for,\
+		to count,to try,to be idle,to wound,to worship"
+
+include VerbsC1/VocabularyL02.txt
+
+#
+# Conjugate verbs
+#
+
+ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg."
+gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t
+
+include VerbsC1/ConjugationL02.txt
