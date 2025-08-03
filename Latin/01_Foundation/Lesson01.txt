@@ -18,7 +18,7 @@ chapter 1 <EOL
 	## First Declension Endings
 
 	| Case         | Singular      | Plural       |
-	|--------------|---------- ----|--------------|
+	|--------------|---------------|--------------|
 	| Nominative   | puella        | puellae      |
 	| Accusative   | puellam       | puellās      |
 
@@ -38,6 +38,33 @@ chapter 1 <EOL
 	| nauta      | sailor        | Greek origin |
 	| incola     | inhabitant    | Latin        |
 	| pīrāta     | pirate        | Greek origin |
+EOL
+
+chapter 2 <EOL
+	## Latin Coordinating Conjunctions
+
+	In this lesson, we introduce six common Latin coordinating conjunctions.
+	These words link nouns, verbs, or whole clauses, and are essential for
+	forming longer, more expressive sentences.
+
+	| Latin           | Meaning               | Usage Example                      | English Translation              |
+	|-----------------|------------------------|------------------------------------|----------------------------------|
+	| **et**          | and                    | *puella et fēmina*                 | the girl and the woman           |
+	| **aut**         | or                     | *aqua aut vinum*                   | water or wine                    |
+	| **et...et**     | both...and             | *et rosa et herba*                 | both the rose and the grass      |
+	| **aut...aut**   | either...or            | *aut discipula aut magistra*       | either the student or the teacher|
+	| **nec**         | and not / nor          | *nec poēta cantat*                 | the poet does not sing either    |
+	| **neque...neque** | neither...nor        | *neque puella neque nauta*         | neither the girl nor the sailor  |
+
+	### Notes:
+
+	- **et** is the most common conjunction and connects elements **positively**.
+	- **aut** shows a choice between **alternatives**.
+	- **et...et** emphasizes that **both elements** are included.
+	- **aut...aut** emphasizes that **only one** of the alternatives is true.
+	- **nec** and **neque** are used to **negate and connect** words or clauses.
+	- **nec** = and not / nor
+	- **neque...neque** = neither...nor
 EOL
 
 #
