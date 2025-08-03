@@ -32,6 +32,7 @@ include Terms.txt
 
 lesson 01_Foundation/Lesson01.txt
 lesson 01_Foundation/Lesson02.txt
+lesson 01_Foundation/Lesson03.txt
 
 ###
 # 2. Grammar Core
