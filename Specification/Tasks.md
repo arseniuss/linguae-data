@@ -59,6 +59,10 @@ where
  - `answer`: correct answer,
  - `additionals`: other possible answers (incorrect ones).
 
+Note: if `id` ends with the same code as language which is being learned
+(e.g. `-la` for Latin) then this the `word` will show in vocabulary section of
+lesson.
+
 ## `conjugate` task
 
 Conjugate task is a task where user have to conjugate a verb in specific form
@@ -88,6 +92,10 @@ symbol ('/').
 Note: The conjugation and description part is used to configure a custom
 training session. These parts should be in the same format.
 
+Note: if `id` ends with the same code as language which is being learned
+(e.g. `-la` for Latin) then this the `verb` will show in vocabulary section of
+lesson.
+
 ## `decline` task
 
 Decline task is a task where the user have to decline a noun.
@@ -114,6 +122,10 @@ symbol ('/').
 
 Note: The declination and description part is used to configure a custom
 training session. These parts should be in the same format.
+
+Note: if `id` ends with the same code as language which is being learned
+(e.g. `-la` for Latin) then this the `noun` will show in vocabulary section of
+lesson.
 
 ## `translate` task
 

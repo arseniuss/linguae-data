@@ -19,6 +19,15 @@ name <text>
 
 This tag indicates the title of a lesson.
 
+### `section` tag
+
+Definition:
+```
+section <text>
+```
+
+This tag indicates section of a lesson.
+
 ### `description` tag
 
 Definition:
