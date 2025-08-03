@@ -1,2 +1,0 @@
-title "Prōnōmen"
-description "Pronouns"

@@ -1,7 +1,0 @@
-name "Chapter 15: The Fifth Declension Nouns"
-
-# Introduce the relatively small group of fifth-declension nouns and their
-# uses, focusing on common words like rēs and diēs.
-
-# No new conjunctions: This chapter focuses on understanding the fifth
-# declension without introducing new complexities.

@@ -1,4 +1,0 @@
-name "Third declension nouns"
-description <EOL
-TODO
-EOL

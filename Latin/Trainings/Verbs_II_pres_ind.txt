@@ -1,8 +1,0 @@
-name "Second conjugation verbs"
-description <EOL
-TODO
-EOL
-
-task l1-8 conjugate &conj2 &praes_act_ind habēre "to have, hold" &persons habeō,habēs,habet,habēmus,habētis,habent
-
-

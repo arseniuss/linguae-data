@@ -1,9 +1,0 @@
-name "Chapter 26: Irregular Verbs and Compound Verbs"
-
-# Learn important irregular verbs, like ferō, volō, nōlō, mālō.
-# Practice compound verbs (e.g., adferre, conferre) and their meanings.
-
-# Aut (or) – Used for alternatives (e.g., "Aut veni, aut discede" – Either come
-# or leave).
-# Et (and) – Used to connect clauses or actions (e.g., "Et veni et loquere" –
-# Come and speak).

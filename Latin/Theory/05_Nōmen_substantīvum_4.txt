@@ -1,2 +1,0 @@
-title "Quārtae declīnātiōnis nōmina"
-description "Fourth declension nouns"

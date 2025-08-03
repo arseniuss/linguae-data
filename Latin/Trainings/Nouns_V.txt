@@ -1,4 +1,0 @@
-name "Fifth declension nouns"
-description <EOL
-TODO
-EOL

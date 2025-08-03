@@ -1,9 +1,0 @@
-name "Chapter 8: The Ablative of Manner and Means"
-
-# Focus on using the ablative case to express the manner in which something is
-# done or the means by which an action is performed.
-
-# Example: gladio pugnat – He fights with a sword.
-
-# Chapter 8: No new conjunctions here, focus on the ablative of manner and
-# means.

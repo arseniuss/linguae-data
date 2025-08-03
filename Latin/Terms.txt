@@ -1,0 +1,70 @@
+#
+#
+#
+
+ref cases "nōminātīvus,genetīvus,datīvus,accūsātīvus,ablatīvus,vocātīvus"
+
+ref decl1 "prīma declīnātiō"
+ref decl2 "secunda declīnātiō"
+ref decl2er "secunda declīnātiō, -er fīnum"
+ref decl2r "secunda declīnātiō, -r fīnum"
+ref decl3 "tērtia declīnātiō"
+ref decl3i "tērtia declīnātiō, i-stem pūrum"
+ref decl3x "tērtia declīnātiō, i-stem"
+ref decl4 "quārtā declīnātiō"
+ref decl5 "quīnta declīnātiō"
+
+ref fem "fēminīnum"
+ref masc "masculīnum"
+
+ref sg_f "singulāris, fēminīnum"
+ref pl_f "plūrālis, fēminīnum"
+ref sg_m "singulāris, masculīnum"
+ref pl_m "plūrālis, masculīnum"
+ref sg_n "singulāris, neutrum"
+ref pl_n "plūrālis, neutrum"
+
+
+ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg.,I. pers. pl.,II. pers. pl.,III. pers. pl."
+
+ref conj1 "prīma coniugātiō"
+ref conj2 "secunda coniugātiō"
+ref conj3 "tērtia coniugātiō"
+ref conj3io "tertia coniugātiō variantis -iō"
+ref conj4 "quārtā coniugātiō"
+ref iconj "coniugātiō īrregulāris"
+
+ref praes_act_ind "praesēns āctīvum indicātīvum"
+ref imperf_act_ind "imperfectum āctīvum indicātīvum"
+ref fut_act_ind "futūrum prīmum āctīvum indicātīvum"
+ref perf_act_ind "perfectum āctīvum indicātīvum"
+ref plus_act_ind "plūsquamperfectum āctīvum indicātīvum"
+ref futp_act_ind "fūtūrum perfectum āctīvum indicātīvum"
+
+ref praes_pas_ind "praesēns passīvum indicātīvum"
+ref imperf_pas_ind "imperfectum passīvum indicātīvum"
+ref fut_pas_ind "futūrum prīmum passīvum indicātīvum"
+ref perf_pas_ind "perfectum passīvum indicātīvum"
+ref plus_pas_ind "plūsquamperfectum passīvum indicātīvum"
+ref futp_pas_ind "fūtūrum perfectum passīvum indicātīvum"
+
+ref praes_act_con "praesēns āctīvum coniūnctīvum"
+ref imperf_act_con "imperfectum āctīvum coniūnctīvum"
+ref perf_act_con "perfectum āctīvum coniūnctīvum"
+ref plus_act_con "plūsquamperfectum āctīvum coniūnctīvum"
+
+ref praes_pas_con "praesēns passīvum coniūnctīvum"
+ref imperf_pas_con "imperfectum passīvum coniūnctīvum"
+ref perf_pas_con "perfectum passīvum coniūnctīvum"
+ref plus_pas_con "plūsquamperfectum passīvum coniūnctīvum"
+
+ref praes_act_imp "praesēns āctīvum imperatīvum"
+ref fut_act_imp "futūrum prīmum āctīvum imperatīvum"
+
+# regular verb generation
+gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
+gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
+gen conjugate &conj3 &praes_act_ind -ere &persons 1+ō,1+is,1+it,1+imus,1+itis,1+unt
+gen conjugate &conj3io &praes_act_ind -ere &persons 1+i+ō,1+i+s,1+i+t,1+i+mus,1+i+tis,1+i+unt
+gen conjugate &conj4 &praes_act_ind -ī-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+unt
+

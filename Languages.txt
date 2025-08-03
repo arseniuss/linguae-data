@@ -4,7 +4,9 @@
 
 name "Arseniuss's language repository"
 # <a href="https://www.flaticon.com/free-icons/spqr" title="spqr icons">Spqr icons created by Freepik - Flaticon</a>
+# https://www.flaticon.com/packs/european-rounded-square-flags
 
-language Latin Latin Latin/eagle.png
-#language Latin1 Latin Latin/eagle.png
-#language Latin2 Latin Latin/eagle.png
+# language <name> <code> <directory> <image>
+language "lingua latīna"		la	    Latin      	Latin/eagle.png
+language "latviešu valoda"		lv		Latvian     Latvian/flag.png
+language "lietuvių kalba"		lt		Lithuanian  Lithuanian/flag.png
