@@ -139,7 +139,7 @@ task <id> translate <sentence> <translation> <additionals>
 ```
 where
  - `sentence`: sentence to translate;
- - `translation`: translate where words are comma separated. Alternatives are
+ - `translation`: translation. Alternatives are
        listes with slash symbol (`/`).
  - `additionals`: additional words (comma-separated);
 
