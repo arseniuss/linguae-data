@@ -56,3 +56,54 @@ ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg."
 gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t
 
 include VerbsC1/ConjugationL02.txt
+
+#
+# Translate simple sentences
+#
+
+ref verbs1-la "amō, vocō, portō, spectō, parō,\
+		intrō, salūtō, lavō, cantō, nārrō,\
+		cūrō, laborō, vexō, ambulō, juvō,\
+		laudō, nāvigō, servō, rogō, exspectō,\
+		clamō, habitō, errō, optō, dēsīderō,\
+		numerō, temptō, cessō, vulnerō, adorō"
+ref verbs2-la "amās, vocās, portās, spectās, parās,\
+		intrās, salūtās, lavās, cantās, nārrās,\
+		cūrās, laborās, vexās, ambulās, juvās,\
+		laudās, nāvigās, servās, rogās, exspectās,\
+		clamās, habitās, errās, optās, dēsīderās,\
+		numerās, temptās, cessās, vulnerās, adorās"
+ref verbs-la "amat, vocat, portat, spectat, parat,\
+		intrat, salūtat, lavat, cantat, nārrat,\
+		cūrat, laborat, vexat, ambulat, juvat,\
+		laudat, nāvigat, servat, rogat, exspectat,\
+		clamat, habitat, errat, optat, dēsīderat,\
+		numerat, temptat, cessat, vulnerat, adorat"
+
+ref translate-la &verbs-la,&verbs1-la,&verbs2-la
+
+task t01-la translate "The girl sings and dances." "Puella cantat et saltat." &translate-la
+task t02-la translate "The farmer carries water." "Agricola aquam portat." &translate-la
+task t03-la translate "The teacher praises the student." "Magistra discipulam laudat." &translate-la
+task t04-la translate "The girl watches the roses." "Puella rosas spectat." &translate-la
+task t05-la translate "The dove and the eagle fly." "Columba et aquila volat." &translate-la
+task t06-la translate "Grandmother prepares and carries the table." "Avia mēnsam parat et portat." &translate-la
+task t07-la translate "The woman enters the school." "Fēmina schōlam intrat." &translate-la
+task t08-la translate "The teacher calls the poet." "Magistra poētam vocat." &translate-la
+task t09-la translate "The student greets the woman and the teacher." "Discipula fēminam et magistram salūtat." &translate-la
+task t10-la translate "The inhabitant desires the island." "Incola īnsulam optat." &translate-la
+task t11-la translate "The poet hopes and sings." "Poēta optat et cantat." &translate-la
+task t12-la translate "Neither the woman enters nor the cow walks." "Nec fēmina intrat neque vacca ambulat." &translate-la
+task t13-la translate "The dove loves and watches the water." "Columba aquam amat et spectat." &translate-la
+task t14-la translate "Neither the woman sings nor the poet shouts." "Nec fēmina cantat neque poēta clāmat." &translate-la
+task t15-la translate "Either the teacher calls or the student greets." "Aut magistra vocat aut discipula salūtat." &translate-la
+task t16-la translate "The student enters the school." "Discipula scholam intrat." &translate-la
+task t17-la translate "The woman prepares the table." "Fēmina mēnsam parat." &translate-la
+task t18-la translate "The farmer annoys the frog." "Agricola rānam vexat." &translate-la
+task t19-la translate "The sailor looks at the island." "Nauta īnsulam spectat." &translate-la
+task t20-la translate "Julia watches the eagle." "Iūlia aquilam spectat." &translate-la
+task t21-la translate "Either the girl sings or the student tells a story." "Aut puella cantat aut discipula nārrat." &translate-la
+task t22-la translate "The pirate desires and carries the money." "Pīrāta pecūniam optat et portat." &translate-la
+task t23-la translate "The teacher protects the school." "Magistra schōlam servat." &translate-la
+task t24-la translate "Neither the inhabitant walks nor the farmer calls." "Nec incola ambulat neque agricola vocat." &translate-la
+task t25-la translate "The girl carries the water." "Puella aquam portat." &translate-la
