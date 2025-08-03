@@ -30,7 +30,7 @@ chapter 1 <EOL
 EOL
 
 #
-#
+# Vocabulary
 #
 
 ref verbs-la "amāre, vocāre, portāre, spectāre, parāre,\
@@ -73,14 +73,14 @@ ref verbs2-la "amās, vocās, portās, spectās, parās,\
 		laudās, nāvigās, servās, rogās, exspectās,\
 		clamās, habitās, errās, optās, dēsīderās,\
 		numerās, temptās, cessās, vulnerās, adorās"
-ref verbs-la "amat, vocat, portat, spectat, parat,\
+ref verbs3-la "amat, vocat, portat, spectat, parat,\
 		intrat, salūtat, lavat, cantat, nārrat,\
 		cūrat, laborat, vexat, ambulat, juvat,\
 		laudat, nāvigat, servat, rogat, exspectat,\
 		clamat, habitat, errat, optat, dēsīderat,\
 		numerat, temptat, cessat, vulnerat, adorat"
 
-ref translate-la &verbs-la,&verbs1-la,&verbs2-la
+ref translate-la &verbs1-la,&verbs2-la,&verbs3-la
 
 task t01-la translate "The girl sings and dances." "Puella cantat et saltat." &translate-la
 task t02-la translate "The farmer carries water." "Agricola aquam portat." &translate-la
