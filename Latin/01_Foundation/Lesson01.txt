@@ -17,10 +17,10 @@ chapter 1 <EOL
 
 	## First Declension Endings
 
-	| Case         | Singular      | Plural       |
-	|--------------|---------------|--------------|
-	| Nominative   | puella        | puellae      |
-	| Accusative   | puellam       | puellās      |
+	| Case         | Singular  | Plural   |
+	|--------------|-----------|----------|
+	| Nominative   | -a        | -ae      |
+	| Accusative   | -am       | -ās      |
 
 	---
 
@@ -54,7 +54,7 @@ chapter 2 <EOL
 	| **et...et**     | both...and             | *et rosa et herba*                 | both the rose and the grass      |
 	| **aut...aut**   | either...or            | *aut discipula aut magistra*       | either the student or the teacher|
 	| **nec**         | and not / nor          | *nec poēta cantat*                 | the poet does not sing either    |
-	| **neque...neque** | neither...nor        | *neque puella neque nauta*         | neither the girl nor the sailor  |
+	| **nec...nec**   | neither...nor          | *nec puella nec nauta*             | neither the girl nor the sailor  |
 
 	### Notes:
 
@@ -62,22 +62,27 @@ chapter 2 <EOL
 	- **aut** shows a choice between **alternatives**.
 	- **et...et** emphasizes that **both elements** are included.
 	- **aut...aut** emphasizes that **only one** of the alternatives is true.
-	- **nec** and **neque** are used to **negate and connect** words or clauses.
+	- **nec** and **nec** are used to **negate and connect** words or clauses.
 	- **nec** = and not / nor
-	- **neque...neque** = neither...nor
 EOL
 
 #
 # Choose correct meaning
 #
 
-ref nouns-la agricola,aqua,aquila,aula,avia,casa,columba,discipula,\
-    fēmina,herba,incola,īnsula,Iūlia,magistra,mēnsa,nauta,patria,pecūnia,\
-    pīrāta,poēta,porta,puella,rāna,rosa,schōla,silva,stēlla,terra,umbra,vacca,via
+ref nouns-la <EOL
+	agricola, amīca, aqua, aquila, aurīga, bestia, casa, cēna,
+	columba, discipula, fābula, familia, fēmina, fīlia, herba, īnsula, lūna,
+	magistra, mēnsa, nauta, patria, pecūnia, pīrāta, poēta, porta, puella,
+	rāna, rosa, schōla, silva, stēlla, terra, vacca, via
+EOL
 
-ref nouns-en "farmer,water,eagle,court,grandmother,cottage,dove,(female) student,\
-    woman,herb,inhabitant,island,Julia,(female) teacher,table,sailor,country,money,\
-    pirate,poet,gate,girl,frog,rose,school,forest,star,land,shadow,cow,road"
+ref nouns-en <EOL
+	farmer, (female) friend, water, eagle, charioteer, beast, cottage, dinner,
+	dove, (female) student, story, family, woman, daughter, herb, island, moon,
+	(female) teacher, table, sailor, country, money, pirate, poet, gate, girl,
+	frog, rose, school, forest, star, land, cow, read
+EOL
 
 include NounsD1/VocabularyL01.txt
 
@@ -94,32 +99,7 @@ include NounsD1/DeclensionL01.txt
 # Translate simple sentences <noun> et <noun>, <noun> aut <noun>
 #
 
-ref conj-la	et,aut,nec,neque
+ref conj-la	et,aut,nec
 ref translate-la &nouns-la,&conj-la
 
-task t01-la translate "the girl and the teacher" "puella et magistra" &translate-la
-task t02-la translate "the rose and the herb (as direct objects)" "rosam et herbam" &translate-la
-task t03-la translate "either the sailor or the pirate" "aut nauta aut pīrāta" &translate-la
-task t04-la translate "the eagle and the dove" "aquila et columba" &translate-la
-task t05-la translate "he island or the homeland (as direct objects)" "īnsulam aut patriam" &translate-la
-task t06-la translate "both the student and the poet (females)" "et discipula et poēta" &translate-la
-task t07-la translate "neither the star nor the shadow" "nec stēlla neque umbra" &translate-la
-task t08-la translate "the gate and the road" "porta et via" &translate-la
-task t09-la translate "the grandmother or the woman (as direct objects)" "aviam aut fēminam" &translate-la
-task t10-la translate "both the land and the forest" "et terra et silva" &translate-la
-task t11-la translate "the cottage and the hall" "casa et aula" &translate-la
-task t12-la translate "either the cow or the frog" "aut vacca aut rāna" &translate-la
-task t13-la translate "the girls and the students (as direct objects)" "puellās et discipulās" &translate-la
-task t14-la translate "the money or the table (as direct objects)" "pecūniam aut mēnsam" &translate-la
-task t15-la translate "neither the roses nor the herbs" "nec rosae neque herbae" &translate-la
-task t16-la translate "both the islands and the homelands" "et īnsulae et patriae" &translate-la
-task t17-la translate "the teacher and the school (as direct objects)" "magistram et schōlam" &translate-la
-task t18-la translate "the waters and the shadows (as direct objects)" "aquās et umbrās" &translate-la
-task t19-la translate "both the dove and the eagle" "et columba et aquila" &translate-la 
-task t20-la translate "either the rose or the woman" "aut rosa aut fēmina" &translate-la
-task t21-la translate "the inhabitants and the farmers" "incolae et agricolae" &translate-la
-task t22-la translate "both Julia and the girl (as direct objects)" "et Iūliam et puellam" &translate-la
-task t23-la translate "the sailors or the pirates (as direct objects)" "nautās aut pīrātās" &translate-la
-task t24-la translate "the forest and the land (as direct objects)" "silvam et terram" &translate-la
-task t25-la translate "neither the students nor the teachers" "nec discipulae neque magistrae" &translate-la
-
+include Sentences/Lesson01.txt

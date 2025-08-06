@@ -1,0 +1,35 @@
+#
+# Required:
+#		ref translate-la
+#
+
+#
+#	Key rule: If the question includes a verb that takes a direct object, then the answer must be in the accusative.
+#
+
+
+task t01-la translate "[Who is in the class?]<br>A: the girl and the teacher." "puella et magistra" &translate-la
+task t02-la translate "[What do you have?]<br>A: a rose and a herb" "rosam et herbam" &translate-la
+task t03-la translate "[Who is in the sea?]<br>A: either the sailor or the pirate" "aut nauta aut pīrāta" &translate-la
+task t04-la translate "[Which birds fly?]<br>A: an eagle and a dove" "aquila et columba" &translate-la
+task t05-la translate "[What do you see?]<br>A: an island or a land" "īnsulam aut patriam" &translate-la
+task t06-la translate "[Who is singing?]<br>A: both the student and the poet" "et discipula et poēta" &translate-la
+task t07-la translate "[What are there?]<br>A: the gate and the road" "porta et via" &translate-la
+task t08-la translate "[What can be found there?]<br>A: both the land and the forest" "et terra et silva" &translate-la
+task t09-la translate "[Who made that noise?]<br>A: either the cow or the frog" "aut vacca aut rāna" &translate-la
+task t10-la translate "[What do you see?]<br>A: the girls and the students" "puellās et discipulās" &translate-la
+task t11-la translate "[What did you get?]A: the money or the table" "pecūniam aut mēnsam" &translate-la
+task t12-la translate "[What is in there?]<br>A: neither the roses nor the herbs" "nec rosae nec herbae" &translate-la
+task t13-la translate "[What were their destinations?]<br>A: both the islands and the homelands" "et īnsulae et patriae" &translate-la
+task t14-la translate "[Who do you see?]<br>A: the teacher and the school" "magistram et schōlam" &translate-la
+task t15-la translate "[Which birds are there?]<br>A: both the dove and the eagle" "et columba et aquila" &translate-la 
+task t16-la translate "[Who is more beautiful?]<br>A: either the rose or the woman" "aut rosa aut fēmina" &translate-la
+task t17-la translate "[Whom do they accompany?]<br>A: the sailors or the pirates" "nautās aut pīrātās" &translate-la
+task t18-la translate "[What do you see?]<br>A: the forest and the land" "silvam et terram" &translate-la
+task t19-la translate "[Who is in the class?]<br>A: neither the students nor the teachers" "nec discipulae nec magistrae" &translate-la
+task t20-la translate "[What will be absent tonight?]<br>A: neither dinners nor stories" "nec cēnae nec fābulae" &translate-la
+task t21-la translate "[What are they building]<br>A: either the school or the road" "aut schōlam aut viam" &translate-la
+task t22-la translate "[What did you see?]<br>A: neither the stars nor the moon" "nec stēllās nec lūnam" &translate-la
+task t23-la translate "[What did you hear?]<br>A: neither the cows nor the frogs" "nec vaccās nec rānās" &translate-la
+task t24-la translate "[What is there?]<br>A: both the lands and the forests" "et terrae et silvae." &translate-la
+task t25-la translate "[Who is there?]<br>A: neither the charioteer nor the farmer" "nec aurīga nec agricola." &translate-la
