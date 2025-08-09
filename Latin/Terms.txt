@@ -17,6 +17,9 @@ ref decl5 "quīnta declīnātiō"
 ref fem "fēminīnum"
 ref masc "masculīnum"
 
+ref sg "singulāris"
+ref pl "plūrālis"
+
 ref sg_f "singulāris, fēminīnum"
 ref pl_f "plūrālis, fēminīnum"
 ref sg_m "singulāris, masculīnum"
@@ -24,6 +27,15 @@ ref pl_m "plūrālis, masculīnum"
 ref sg_n "singulāris, neutrum"
 ref pl_n "plūrālis, neutrum"
 
+gen decline &decl1 &sg_f -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
+gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
+
+gen decline &decl1 &pl_f -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
+gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
+
+#
+#
+#
 
 ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg.,I. pers. pl.,II. pers. pl.,III. pers. pl."
 

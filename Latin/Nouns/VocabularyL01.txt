@@ -1,0 +1,107 @@
+#
+# Required:
+#       ref nouns-la
+#       ref nouns-en
+#
+
+task n01-la choose &decl1 &masc &choose-meaning [agricola](wikt:agricola)	farmer				&nouns-en
+task n01-en choose &decl1 &masc &choose-meaning farmer						agricola			&nouns-la
+
+task n02-la choose &decl1 &fem &choose-meaning [amīca](wikt:amica)			"(female) friend"	&nouns-en
+task n02-en choose &decl1 &fem &choose-meaning "(female) friend"			amīca				&nouns-la
+
+task n03-la choose &decl1 &fem &choose-meaning [aqua](wikt:aqua)			water				&nouns-en
+task n03-en choose &decl1 &fem &choose-meaning water						aqua				&nouns-la
+
+task n04-la choose &decl1 &fem &choose-meaning [aquila](wikt:aquila)		eagle				&nouns-en
+task n04-en choose &decl1 &fem &choose-meaning eagle						aquila				&nouns-la
+
+task n05-la choose &decl1 &masc &choose-meaning [aurīga](wikt:auriga)		charioteer			&nouns-en
+task n05-en choose &decl1 &masc &choose-meaning charioteer					aurīga				&nouns-la
+
+task n06-la choose &decl1 &fem &choose-meaning [bestia](wikt:bestia)		beast 				&nouns-en
+task n06-en choose &decl1 &fem &choose-meaning beast 						bestia				&nouns-la
+
+task n07-la choose &decl1 &fem &choose-meaning [casa](wikt:casa)			cottage				&nouns-en
+task n07-en choose &decl1 &fem &choose-meaning cottage 						casa				&nouns-la
+
+task n08-la choose &decl1 &fem &choose-meaning [cēna](wikt:cena)			dinner				&nouns-en
+task n08-en choose &decl1 &fem &choose-meaning dinner 						cēna				&nouns-la
+
+task n09-la choose &decl1 &fem &choose-meaning [columba](wikt:columba)		dove				&nouns-en
+task n09-en choose &decl1 &fem &choose-meaning dove 						columba				&nouns-la
+
+task n10-la choose &decl1 &fem &choose-meaning [discipula](wikt:discipula)	"(female) student"	&nouns-en
+task n10-en choose &decl1 &fem &choose-meaning "(female) student" 			discipula			&nouns-la
+
+task n11-la choose &decl1 &fem &choose-meaning [fābula](wikt:fabula)		story				&nouns-en
+task n11-en choose &decl1 &fem &choose-meaning story 						fābula				&nouns-la
+
+task n12-la choose &decl1 &fem &choose-meaning [familia](wikt:familia)		family				&nouns-en
+task n12-en choose &decl1 &fem &choose-meaning family 						familia				&nouns-la
+
+task n13-la choose &decl1 &fem &choose-meaning [fēmina](wikt:femina)		woman				&nouns-en
+task n13-en choose &decl1 &fem &choose-meaning woman 						fēmina				&nouns-la
+
+task n14-la choose &decl1 &fem &choose-meaning [fīlia](wikt:filia)			daughter			&nouns-en
+task n14-en choose &decl1 &fem &choose-meaning daughter 					fīlia				&nouns-la
+
+task n15-la choose &decl1 &fem &choose-meaning [herba](wikt:herba)			herb				&nouns-en
+task n15-en choose &decl1 &fem &choose-meaning herb 						herba				&nouns-la
+
+task n16-la choose &decl1 &fem &choose-meaning [īnsula](wikt:insula)		island				&nouns-en
+task n16-en choose &decl1 &fem &choose-meaning island 						īnsula				&nouns-la
+
+task n17-la choose &decl1 &fem &choose-meaning [lūna](wikt:luna)			moon				&nouns-en
+task n17-en choose &decl1 &fem &choose-meaning moon 						lūna				&nouns-la
+
+task n18-la choose &decl1 &fem &choose-meaning [magistra](wikt:magistra)	"(female) teacher"	&nouns-en
+task n18-en choose &decl1 &fem &choose-meaning "(female) teacher" 			magistra			&nouns-la
+
+task n19-la choose &decl1 &fem &choose-meaning [mēnsa](wikt:mensa)			table				&nouns-en
+task n19-en choose &decl1 &fem &choose-meaning table 						mēnsa				&nouns-la
+
+task n20-la choose &decl1 &masc &choose-meaning [nauta](wikt:nauta)			sailor				&nouns-en
+task n20-en choose &decl1 &masc &choose-meaning sailor 						nauta				&nouns-la
+
+task n21-la choose &decl1 &fem &choose-meaning [patria](wikt:patria)		country				&nouns-en
+task n21-en choose &decl1 &fem &choose-meaning country 						patria				&nouns-la
+
+task n22-la choose &decl1 &fem &choose-meaning [pecūnia](wikt:pecunia)		money				&nouns-en
+task n22-en choose &decl1 &fem &choose-meaning money 						pecūnia				&nouns-la
+
+task n23-la choose &decl1 &masc &choose-meaning [pīrāta](wikt:pirata)		pirate				&nouns-en
+task n23-en choose &decl1 &masc &choose-meaning pirate 						pīrāta				&nouns-la
+
+task n24-la choose &decl1 &fem &choose-meaning [poēta](wikt:poeta)			poet				&nouns-en
+task n24-en choose &decl1 &fem &choose-meaning poet 						poēta				&nouns-la
+
+task n25-la choose &decl1 &fem &choose-meaning [porta](wikt:porta)			gate				&nouns-en
+task n25-en choose &decl1 &fem &choose-meaning gate 						porta				&nouns-la
+
+task n26-la choose &decl1 &fem &choose-meaning [puella](wikt:puella)		girl				&nouns-en
+task n26-en choose &decl1 &fem &choose-meaning girl 						puella				&nouns-la
+
+task n27-la choose &decl1 &fem &choose-meaning [rāna](wikt:rana)			frog				&nouns-en
+task n27-en choose &decl1 &fem &choose-meaning frog 						rāna				&nouns-la
+
+task n28-la choose &decl1 &fem &choose-meaning [rosa](wikt:rosa)			rose				&nouns-en
+task n28-en choose &decl1 &fem &choose-meaning rose 						rosa				&nouns-la
+
+task n29-la choose &decl1 &fem &choose-meaning [schōla](wikt:schola)		school				&nouns-en
+task n29-en choose &decl1 &fem &choose-meaning school 						schōla				&nouns-la
+
+task n30-la choose &decl1 &fem &choose-meaning [silva](wikt:silva)			forest				&nouns-en
+task n30-en choose &decl1 &fem &choose-meaning forest 						silva				&nouns-la
+
+task n31-la choose &decl1 &fem &choose-meaning [stēlla](wikt:stella)		star				&nouns-en
+task n31-en choose &decl1 &fem &choose-meaning star 						stēlla				&nouns-la
+
+task n32-la choose &decl1 &fem &choose-meaning [terra](wikt:terra)			land				&nouns-en
+task n32-en choose &decl1 &fem &choose-meaning land 						terra				&nouns-la
+
+task n33-la choose &decl1 &fem &choose-meaning [vacca](wikt:vacca)			cow					&nouns-en
+task n33-en choose &decl1 &fem &choose-meaning cow 							vacca				&nouns-la
+
+task n34-la choose &decl1 &fem &choose-meaning [via](wikt:via)				road				&nouns-en
+task n34-en choose &decl1 &fem &choose-meaning road 						via					&nouns-la

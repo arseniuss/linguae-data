@@ -70,21 +70,12 @@ EOL
 # Choose correct meaning
 #
 
-ref nouns-la <EOL
-	agricola, amīca, aqua, aquila, aurīga, bestia, casa, cēna,
-	columba, discipula, fābula, familia, fēmina, fīlia, herba, īnsula, lūna,
-	magistra, mēnsa, nauta, patria, pecūnia, pīrāta, poēta, porta, puella,
-	rāna, rosa, schōla, silva, stēlla, terra, vacca, via
-EOL
+include Nouns/Lesson01.txt
 
-ref nouns-en <EOL
-	farmer, (female) friend, water, eagle, charioteer, beast, cottage, dinner,
-	dove, (female) student, story, family, woman, daughter, herb, island, moon,
-	(female) teacher, table, sailor, country, money, pirate, poet, gate, girl,
-	frog, rose, school, forest, star, land, cow, read
-EOL
+ref nouns-la &nouns-l01-la
+ref nouns-en &nouns-l01-en
 
-include NounsD1/VocabularyL01.txt
+include Nouns/VocabularyL01.txt
 
 #
 # Decline nouns, nominative and accusative
@@ -93,7 +84,7 @@ include NounsD1/VocabularyL01.txt
 ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
 gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
 
-include NounsD1/DeclensionL01.txt
+include Nouns/DeclensionL01.txt
 
 #
 # Translate simple sentences <noun> et <noun>, <noun> aut <noun>

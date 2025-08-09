@@ -1,0 +1,6 @@
+#
+#
+#
+
+training Trainings/Vocabulary.txt
+training Trainings/Declension.txt

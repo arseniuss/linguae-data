@@ -1,0 +1,164 @@
+#
+# Lessons
+#
+
+skip <EOL
+	Section: Foundation
+	Lesson 1: First Declension Nouns (Nominative and Accusative)
+	- new 1st decl nouns (30): amīca, aqua, aquila, bestia, casa, cēna,
+		columba, discipula, fābula, familia, fēmina, fīlia,
+		herba, īnsula, luna, magistra, mēnsa, patria, pecūnia, porta, puella,
+		rāna, rosa, schōla, silva, stēlla, terra, vacca, via
+	- special nouns: agricola, nauta, pīrāta, poēta, aurīga
+	- no verbs, et, aut, et..et, aut..aut, nec, nec..nec
+	Lesson 2: First Conjugation (-āre verbs) Present Tense Active singular"
+	- new 1st conj verbs (30): amāre, ambulāre, cantāre, clamāre, cūrāre,
+		errāre, exspectāre, habitāre, intrāre, iuvāre, labōrāre, laudāre,
+		lavāre, liberāre, nārrāre, nāvigāre, optāre, ōrāre, rogāre, parāre,
+		portāre, salūtāre, servāre, spectāre, temptāre, vexāre, vocāre
+	- additional verbs: esse, habere, dare, stare
+	Lesson 3: First Conjugation (-āre verbs) Present Tense Active plural
+	- new adverbs: bene, crās, heri, hodiē, lente,
+		male, mox, nunc, saepe, semper, statim, subitō, celeriter
+	Lesson 4: First Declension Nouns (Dative)
+	- new 1s decl nouns (30): ancilla, causa, cūra, cūria, fāma, fossa,
+		fuga, grātia, hora, iniūria, īra, lacrima, lingua, littera,
+		machina, māteria, mora, nātūra, opera, penna, poena, rēgīna, sagitta,
+		spēlunca, taberna, tenebra, toga, umbra
+	- sed, -que, nōn, quoque
+	- special: fīlia - fīliābus
+	- additional verbs: posse
+	- special case: poenam dare 
+	Lesson 5: Second Declension Masculine Nouns
+	- new 2nd decl masc nouns (30): ager, amīcus, animus,
+		campus, captīvus, deus, dominus, equus, fīlius,
+		fluvius, hortus, liber, locus, lupus, marītus, modus, mūrus, numerus,
+		nuntius, oculus, populus, puer, servus, socius, verus, victus, vir
+	- special nouns: pīnus, morus, alvus, humus, laurus
+	- note: bonatical names are feminine 
+	Lesson 6: Ablative Case
+	- new 2nd decl masc nouns (30): annus, asinus, barbarus, carrus, cervus,
+		cibus, circus, cōlus, coquus, digitus, faber, gladius,
+		humerus, inimīcus, lūdus, magister, medicus, morbus, nāsus,
+		pīlus, ramus, rīvus, saccus, scūtum, sonus, taurus, ventus, vīcus
+	- Ablative: in, cum, ab, ex, sub (location/means)
+	- Accusative: in, ad, sub (motion toward)
+	- additional verbs: velle
+	- special: fīlia - fīliābus
+	Lesson 7: Second Declension Neuter Nouns
+	- new 2nd decl neuter nouns (30): argentum, argumentum, aurum, auxilium,
+		baculum, balneum, bellum, bracchium, caelum, cōnsilium, corpus, dōnum,
+		exemplum, factum, ferrum, gaudium, imperium, lumen, oppidum, ōvum,
+		perīculum, praemium, regnum, sacrum, stagnum, tēctum, templum,
+		verbum, vīnum, saxum
+	- nihil
+	Lesson 8: Adjectives
+	- new adjectives (30): albus, altus, blandus, bonus, candidus,
+		clarus, durus, ferus, fidus, grātus, iratus, laetus, longus, magnus,
+		malus, medius, miser, multus, niger, novus, parvus, paucus, pulcher,
+		ruber, sacer, saevus, sanctus, sollicitus
+	- adjective-noun agreement 
+	- additional verbs: nolle
+	- special: pulcher
+	 - nam
+	Lesson 9: Second Conjugation (-ēre verbs) Present Tense Active 
+	- new 2nd conj verbs (30): ardēre, augēre, cavēre, complēre, dēbēre,
+		dēlēre, docēre, fervēre, flēre, fovēre, habēre, iacēre, manēre, monēre,
+		movēre, patēre, respondēre, ridēre, sedēre, silēre, splendēre, tacēre,
+		tenēre, terrēre, timēre, valēre, vidēre, vigēre
+	- si, quia
+	Lesson 10: Genitive Case (Possession)
+	 - new 2nd decl neuter nouns (30): acetum, arvum, atrium,
+	 	colloquium, corium, damnum, fatum, forum, incendium,
+		ingenium, initium, iūdicium, iugum, lignum, malum,
+		mendacium, negōtium, nūntium, odium, officium, ōtium, pavimentum,
+		praeceptum, pretium, proelium, sepulcrum, signum, spatium, subsidium, vestīgium
+	 - plural only: arma, castra
+	 - additional verbs: īre
+	Lesson 11: Review
+EOL
+
+lesson 01_Foundation/Lesson01.txt
+#lesson 01_Foundation/Lesson02.txt
+#lesson 01_Foundation/Lesson03.txt
+#lesson 01_Foundation/Lesson04.txt
+#lesson 01_Foundation/Lesson05.txt
+#lesson 01_Foundation/Lesson06.txt
+#lesson 01_Foundation/Lesson07.txt
+#lesson 01_Foundation/Lesson08.txt
+#lesson 01_Foundation/Lesson09.txt
+#lesson 01_Foundation/Lesson10.txt
+#lesson 01_Foundation/Lesson11.txt
+
+###
+# 2. Grammar Core
+#	Personal pronouns
+#	Expanding noun and verb systems; mastering declensions and tenses
+#	Third, Fourth, and Fifth Declensions
+#	More verb conjugations: Present, Imperfect, Future
+#	Introduction to subjunctive mood
+#	Pronouns: Demonstrative, Reflexive, Interrogative
+#	Adjectives and agreement
+#	Simple prepositions and their cases
+#	Introduction to participles
+
+#lesson 02_Grammar/Lesson01.txt
+
+###
+# 3. Syntax and Sentence Complexity
+#	Building complex sentences and clauses
+#	Subordinate clauses: temporal, causal, purpose, result
+#	Relative pronouns and clauses
+#	Conditional sentences (if, unless)
+#	Indirect statements
+#	Gerunds and gerundives
+#	Ablative absolute
+#	Passive voice in present and past tenses
+
+#lesson 03_Syntax/Lesson01.txt
+
+###
+# 4. Advanced Verb Forms and Constructions
+#	Mastering tenses, moods, and voices
+#	Perfect, Pluperfect, and Future Perfect tenses
+#	Passive voice across all tenses
+#	Deponent and semi-deponent verbs
+#	Advanced subjunctive usage
+#	Infinitives and indirect discourse
+#	Historical infinitive and narrative techniques
+
+#lesson 04_Advanced/Lesson01.txt
+
+###
+# 5. Stylistic and Literary Latin
+#	Exploring classical style, prose, and poetry
+#	Figures of speech and rhetorical devices
+#	Poetic meters and basic verse forms
+#	Literary vocabulary and expressions
+#	Reading and analysis of classical texts (Cicero, Virgil, Ovid)
+#	Translation practice and composition
+
+#lesson 05_Literary/Lesson01.txt
+
+###
+# 6. Composition and Application
+#	Active Latin usage and creative work
+#	Writing sentences, paragraphs, short essays
+#	Oral practice and spoken Latin
+#	Roleplay and storytelling in Latin
+#	Etymology and word formation
+#	Latin in modern languages and culture
+
+#lesson 06_Application/Lesson01.txt
+
+###
+# 7. Specialized Topics and Review
+#	Fill gaps and reinforce learning
+#	Review of tricky grammar points
+#	Advanced pronouns and particles
+#	Nuances of Latin syntax
+#	Dialects and historical changes
+#	Final comprehensive review
+
+#lesson 07_Specialized/Lesson01.txt
+

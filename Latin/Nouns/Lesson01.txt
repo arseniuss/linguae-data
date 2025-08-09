@@ -1,0 +1,13 @@
+ref nouns-l01-la <EOL
+	agricola, amīca, aqua, aquila, aurīga, bestia, casa, cēna,
+	columba, discipula, fābula, familia, fēmina, fīlia, herba, īnsula, lūna,
+	magistra, mēnsa, nauta, patria, pecūnia, pīrāta, poēta, porta, puella,
+	rāna, rosa, schōla, silva, stēlla, terra, vacca, via
+EOL
+
+ref nouns-l01-en <EOL
+	farmer, (female) friend, water, eagle, charioteer, beast, cottage, dinner,
+	dove, (female) student, story, family, woman, daughter, herb, island, moon,
+	(female) teacher, table, sailor, country, money, pirate, poet, gate, girl,
+	frog, rose, school, forest, star, land, cow, read
+EOL
