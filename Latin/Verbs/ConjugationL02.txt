@@ -2,10 +2,10 @@
 # Required:
 #		ref conj1
 #		ref conj1ia
-#		ref irreg
+#		ref conj2
+#		ref iconj
 #		ref persons
 #		gen
-#		ref gen_esse
 #
 
 
@@ -15,9 +15,9 @@ task c03-la conjugate &conj1 &praes_act_ind [ambulāre](wikt:ambulo)		"to walk"	
 task c04-la conjugate &conj1 &praes_act_ind [cantāre](wikt:canto)		"to sing"					&persons @gen
 task c05-la conjugate &conj1 &praes_act_ind [clamāre](wikt:clamo)		"to shout"					&persons @gen
 task c06-la conjugate &conj1 &praes_act_ind [cūrāre](wikt:curo)			"to care for"				&persons @gen
-task c07-la conjugate &conj1ia &praes_act_ind [dare](wikt:do)			"to give"					&persons &gen_dare
+task c07-la conjugate &conj1ia &praes_act_ind [dare](wikt:do)			"to give"					&persons @gen
 task c08-la conjugate &conj1 &praes_act_ind [errāre](wikt:erro)			"to wander, err"			&persons @gen
-task c09-la conjugate &iconj &praes_act_ind [esse](wikt:sum)			"to be"						&persons &gen_esse
+task c09-la conjugate &iconj &praes_act_ind [esse](wikt:sum)			"to be"						&persons @gen
 task c10-la conjugate &conj1 &praes_act_ind [exspectāre](wikt:exspecto)	"to wait for"				&persons @gen
 task c11-la conjugate &conj2 &praes_act_ind [habēre](wikt:habeo)		"to have"					&persons @gen
 task c12-la conjugate &conj1 &praes_act_ind [habitāre](wikt:habito)		"to live, dwell"			&persons @gen

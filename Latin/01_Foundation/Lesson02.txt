@@ -45,10 +45,10 @@ include Verbs/VocabularyL02.txt
 #
 
 ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg."
-gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t
 
-ref gen_esse sum,es,est
-ref gen_dare dō,dās,dat
+gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t
+gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat
+gen conjugate &iconj &praes_act_ind esse &persons sum,es,est
 
 include Verbs/ConjugationL02.txt
 
