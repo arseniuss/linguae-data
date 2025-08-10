@@ -1,0 +1,15 @@
+ref verbs-l02-la <EOL
+	adorāre, amāre, ambulāre, cantāre, clamāre, cūrāre, dare, errāre, esse,
+	exspectāre, habēre, habitāre, intrāre, iuvāre, labōrāre, laudāre,
+	lavāre, līberāre, nārrāre, nāvigāre, optāre, ōrāre, parāre, portāre,
+	pugnāre, rogāre, saltāre, salūtāre, servāre, spectāre, stāre, temptāre,
+	vexāre, vocāre
+EOL
+
+ref verbs-l02-en <EOL
+	to worship, to love, to walk, to sing, to shout, to care for, to give,
+	to wander, to be, to wait for, to have, to live, to enter, to help,
+	to work, to praise, to wash, to free, to tell (a story), to sail,
+	to wish, to orate, to prepare, to carry, to fight, to ask, to greet,
+	to save, to watch, to stand, to try, to annoy, to call
+EOL

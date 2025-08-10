@@ -11,12 +11,15 @@ skip <EOL
 		rāna, rosa, schōla, silva, stēlla, terra, vacca, via
 	- special nouns: agricola, nauta, pīrāta, poēta, aurīga
 	- no verbs, et, aut, et..et, aut..aut, nec, nec..nec
+
 	Lesson 2: First Conjugation (-āre verbs) Present Tense Active singular"
-	- new 1st conj verbs (30): amāre, ambulāre, cantāre, clamāre, cūrāre,
-		errāre, exspectāre, habitāre, intrāre, iuvāre, labōrāre, laudāre,
-		lavāre, liberāre, nārrāre, nāvigāre, optāre, ōrāre, rogāre, parāre,
-		portāre, salūtāre, servāre, spectāre, temptāre, vexāre, vocāre
-	- additional verbs: esse, habere, dare, stare
+	- new 1st conj verbs (30): adorāre, amāre, ambulāre, cantāre, clamāre,
+		cūrāre, errāre, exspectāre, habitāre, intrāre,
+		iuvāre, labōrāre, laudāre, lavāre, līberāre, nārrāre, nāvigāre, optāre,
+		ōrāre, parāre, portāre,	pugnāre, rogāre, saltāre, salūtāre, servāre,
+		spectāre, temptāre, vexāre, vocāre
+	- additional verbs: esse, habēre, dare, stāre
+
 	Lesson 3: First Conjugation (-āre verbs) Present Tense Active plural
 	- new adverbs: bene, crās, heri, hodiē, lente,
 		male, mox, nunc, saepe, semper, statim, subitō, celeriter
@@ -79,7 +82,7 @@ skip <EOL
 EOL
 
 lesson 01_Foundation/Lesson01.txt
-#lesson 01_Foundation/Lesson02.txt
+lesson 01_Foundation/Lesson02.txt
 #lesson 01_Foundation/Lesson03.txt
 #lesson 01_Foundation/Lesson04.txt
 #lesson 01_Foundation/Lesson05.txt

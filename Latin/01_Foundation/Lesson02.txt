@@ -33,20 +33,12 @@ EOL
 # Vocabulary
 #
 
-ref verbs-la "amāre, vocāre, portāre, spectāre, parāre,\
-		intrāre, salūtāre, lavāre, cantāre, nārrāre,\
-		cūrāre, laborāre, vexāre, ambulāre, juvāre,\
-		laudāre, nāvigāre, servāre, rogāre, exspectāre,\
-		clamāre, habitāre, errāre, optāre, dēsīderāre,\
-		numerāre, temptāre, cessāre, vulnerāre, adorāre"
+include Verbs/Lesson02.txt
 
-ref verbs-en "to love,to call,to carry,to watch,to prepare,\
-		to enter,to greet,to wash,to sing,to tell,to care for,\
-		to work,to annoy,to walk,to help,to praise,to sail,to save,\
-		to ask,to wait for,to shout,to live,to wander,to wish,to long for,\
-		to count,to try,to be idle,to wound,to worship"
+ref verbs-la &verbs-l02-la
+ref verbs-en &verbs-l02-en
 
-include VerbsC1/VocabularyL02.txt
+include Verbs/VocabularyL02.txt
 
 #
 # Conjugate verbs
@@ -55,12 +47,16 @@ include VerbsC1/VocabularyL02.txt
 ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg."
 gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t
 
-include VerbsC1/ConjugationL02.txt
+ref gen_esse sum,es,est
+ref gen_dare dō,dās,dat
+
+include Verbs/ConjugationL02.txt
 
 #
 # Translate simple sentences
 #
 
+skip <EOL
 ref verbs1-la "amō, vocō, portō, spectō, parō,\
 		intrō, salūtō, lavō, cantō, nārrō,\
 		cūrō, laborō, vexō, ambulō, juvō,\
@@ -107,3 +103,4 @@ task t22-la translate "The pirate desires and carries the money." "Pīrāta pec�
 task t23-la translate "The teacher protects the school." "Magistra schōlam servat." &translate-la
 task t24-la translate "Neither the inhabitant walks nor the farmer calls." "Nec incola ambulat nec agricola vocat." &translate-la
 task t25-la translate "The girl carries the water." "Puella aquam portat." &translate-la
+EOL

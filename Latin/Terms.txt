@@ -39,12 +39,15 @@ gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
 
 ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg.,I. pers. pl.,II. pers. pl.,III. pers. pl."
 
-ref conj1 "prīma coniugātiō"
-ref conj2 "secunda coniugātiō"
-ref conj3 "tērtia coniugātiō"
-ref conj3io "tertia coniugātiō variantis -iō"
-ref conj4 "quārtā coniugātiō"
-ref iconj "coniugātiō īrregulāris"
+ref conj1	"prīma coniugātiō"
+ref conj1ia	"prīma coniugātiō, irregularis brevis a"
+ref conj2	"secunda coniugātiō"
+ref conj3	"tērtia coniugātiō"
+ref conj3io	"tertia coniugātiō variantis -iō"
+ref conj4	"quārtā coniugātiō"
+ref iconj	"coniugātiō īrregulāris"
+
+ref inf "īnfīnītīvus"
 
 ref praes_act_ind "praesēns āctīvum indicātīvum"
 ref imperf_act_ind "imperfectum āctīvum indicātīvum"

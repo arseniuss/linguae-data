@@ -1,0 +1,108 @@
+#
+# Required:
+#		ref choose-meaning
+#		ref verbs-la
+#		ref verbs-en
+#
+
+task v01-la choose &conj1 &inf &choose-meaning adorāre			"to worship"			&verbs-en
+task v01-en choose &conj1 &inf &choose-meaning "to worship"		adorāre					&verbs-la
+
+task v02-la choose &conj1 &inf &choose-meaning amāre			"to love"				&verbs-en
+task v02-en choose &conj1 &inf &choose-meaning "to love"		amāre					&verbs-la
+
+task v03-la choose &conj1 &inf &choose-meaning ambulāre			"to walk"				&verbs-en
+task v03-en choose &conj1 &inf &choose-meaning "to walk"		ambulāre				&verbs-la
+
+task v04-la choose &conj1 &inf &choose-meaning cantāre			"to sing"				&verbs-en
+task v04-en choose &conj1 &inf &choose-meaning "to sing"		cantāre					&verbs-la
+
+task v05-la choose &conj1 &inf &choose-meaning clamāre			"to shout"				&verbs-en
+task v05-en choose &conj1 &inf &choose-meaning "to shout"		clamāre					&verbs-la
+
+task v06-la choose &conj1 &inf &choose-meaning cūrāre			"to care for"			&verbs-en
+task v06-en choose &conj1 &inf &choose-meaning "to care for"	cūrāre					&verbs-la
+
+task v07-la choose &conj1 &inf &choose-meaning dare				"to give"				&verbs-en
+task v07-en choose &conj1 &inf &choose-meaning "to give"		dare					&verbs-la
+
+task v08-la choose &conj1 &inf &choose-meaning errāre			"to wander, err"		&verbs-en
+task v08-en choose &conj1 &inf &choose-meaning "to wander, err"	errāre					&verbs-la
+
+task v09-la choose &conj1 &inf &choose-meaning esse				"to be"					&verbs-en
+task v09-en choose &conj1 &inf &choose-meaning "to be"			esse					&verbs-la
+
+task v10-la choose &conj1 &inf &choose-meaning exspectāre		"to wait for"			&verbs-en
+task v10-en choose &conj1 &inf &choose-meaning "to wait for"	exspectāre				&verbs-la
+
+task v11-la choose &conj1 &inf &choose-meaning habēre			"to have"				&verbs-en
+task v11-en choose &conj1 &inf &choose-meaning "to have"		habēre					&verbs-la
+
+task v12-la choose &conj1 &inf &choose-meaning habitāre			"to live, dwell"		&verbs-en
+task v12-en choose &conj1 &inf &choose-meaning "to live, dwell"	habitāre				&verbs-la
+
+task v13-la choose &conj1 &inf &choose-meaning intrāre			"to enter"				&verbs-en
+task v13-en choose &conj1 &inf &choose-meaning "to enter"		intrāre					&verbs-la
+
+task v14-la choose &conj1 &inf &choose-meaning iuvāre			"to help"				&verbs-en
+task v14-en choose &conj1 &inf &choose-meaning "to help"		iuvāre					&verbs-la
+
+task v15-la choose &conj1 &inf &choose-meaning labōrāre			"to work"				&verbs-en
+task v15-en choose &conj1 &inf &choose-meaning "to work"		labōrāre				&verbs-la
+
+task v16-la choose &conj1 &inf &choose-meaning laudāre			"to praise"				&verbs-en
+task v16-en choose &conj1 &inf &choose-meaning "to praise"		laudāre					&verbs-la
+
+task v17-la choose &conj1 &inf &choose-meaning lavāre			"to wash"				&verbs-en
+task v17-en choose &conj1 &inf &choose-meaning "to wash"		lavāre					&verbs-la
+
+task v18-la choose &conj1 &inf &choose-meaning līberāre			"to free"				&verbs-en
+task v18-en choose &conj1 &inf &choose-meaning "to free"		līberāre				&verbs-la
+
+task v19-la choose &conj1 &inf &choose-meaning nārrāre				"to tell (a story)"	&verbs-en
+task v19-en choose &conj1 &inf &choose-meaning "to tell (a story)"	nārrāre				&verbs-la
+
+task v20-la choose &conj1 &inf &choose-meaning nāvigāre			"to sail"				&verbs-en
+task v20-en choose &conj1 &inf &choose-meaning "to sail"		nāvigāre				&verbs-la
+
+task v21-la choose &conj1 &inf &choose-meaning optāre				"to wish, desire"	&verbs-en
+task v21-en choose &conj1 &inf &choose-meaning "to wish, desire"	optāre				&verbs-la
+
+task v22-la choose &conj1 &inf &choose-meaning ōrāre			"to orate"				&verbs-en
+task v22-en choose &conj1 &inf &choose-meaning "to orate"		ōrāre					&verbs-la
+
+task v23-la choose &conj1 &inf &choose-meaning parāre			"to prepare"			&verbs-en
+task v23-en choose &conj1 &inf &choose-meaning "to prepare"		parāre					&verbs-la
+
+task v24-la choose &conj1 &inf &choose-meaning portāre			"to carry"				&verbs-en
+task v24-en choose &conj1 &inf &choose-meaning "to carry"		portāre					&verbs-la
+
+task v25-la choose &conj1 &inf &choose-meaning pugnāre			"to fight"				&verbs-en
+task v25-en choose &conj1 &inf &choose-meaning "to fight"		pugnāre					&verbs-la
+
+task v26-la choose &conj1 &inf &choose-meaning rogāre			"to ask"				&verbs-en
+task v26-en choose &conj1 &inf &choose-meaning "to ask"			rogāre					&verbs-la
+
+task v27-la choose &conj1 &inf &choose-meaning saltāre			"to dance"				&verbs-en
+task v27-en choose &conj1 &inf &choose-meaning "to dance"		saltāre					&verbs-la
+
+task v28-la choose &conj1 &inf &choose-meaning salūtāre			"to greet"				&verbs-en
+task v28-en choose &conj1 &inf &choose-meaning "to greet"		salūtāre				&verbs-la
+
+task v29-la choose &conj1 &inf &choose-meaning servāre			"to save, guard"		&verbs-en
+task v29-en choose &conj1 &inf &choose-meaning "to save, guard"	servāre					&verbs-la
+
+task v30-la choose &conj1 &inf &choose-meaning spectāre			"to watch"				&verbs-en
+task v30-en choose &conj1 &inf &choose-meaning "to watch"		spectāre				&verbs-la
+
+task v31-la choose &conj1 &inf &choose-meaning stāre			"to stand"				&verbs-en
+task v31-en choose &conj1 &inf &choose-meaning "to stand"		stāre					&verbs-la
+
+task v32-la choose &conj1 &inf &choose-meaning temptāre				"to try, attempt"	&verbs-en
+task v32-en choose &conj1 &inf &choose-meaning "to try, attempt"	temptāre			&verbs-la
+
+task v33-la choose &conj1 &inf &choose-meaning vexāre			"to annoy"				&verbs-en
+task v33-en choose &conj1 &inf &choose-meaning "to annoy"		vexāre					&verbs-la
+
+task v34-la choose &conj1 &inf &choose-meaning vocāre			"to call"				&verbs-en
+task v34-en choose &conj1 &inf &choose-meaning "to call"		vocāre					&verbs-la

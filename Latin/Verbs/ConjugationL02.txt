@@ -1,0 +1,45 @@
+#
+# Required:
+#		ref conj1
+#		ref conj1ia
+#		ref irreg
+#		ref persons
+#		gen
+#		ref gen_esse
+#
+
+
+task c01-la conjugate &conj1 &praes_act_ind [adorāre](wikt:adoro)		"to worship"				&persons @gen
+task c02-la conjugate &conj1 &praes_act_ind [amāre](wikt:amo)			"to love"					&persons @gen
+task c03-la conjugate &conj1 &praes_act_ind [ambulāre](wikt:ambulo)		"to walk"					&persons @gen
+task c04-la conjugate &conj1 &praes_act_ind [cantāre](wikt:canto)		"to sing"					&persons @gen
+task c05-la conjugate &conj1 &praes_act_ind [clamāre](wikt:clamo)		"to shout"					&persons @gen
+task c06-la conjugate &conj1 &praes_act_ind [cūrāre](wikt:curo)			"to care for"				&persons @gen
+task c07-la conjugate &conj1ia &praes_act_ind [dare](wikt:do)			"to give"					&persons &gen_dare
+task c08-la conjugate &conj1 &praes_act_ind [errāre](wikt:erro)			"to wander, err"			&persons @gen
+task c09-la conjugate &iconj &praes_act_ind [esse](wikt:sum)			"to be"						&persons &gen_esse
+task c10-la conjugate &conj1 &praes_act_ind [exspectāre](wikt:exspecto)	"to wait for"				&persons @gen
+task c11-la conjugate &conj2 &praes_act_ind [habēre](wikt:habeo)		"to have"					&persons @gen
+task c12-la conjugate &conj1 &praes_act_ind [habitāre](wikt:habito)		"to live, dwell"			&persons @gen
+task c13-la conjugate &conj1 &praes_act_ind [intrāre](wikt:intro)		"to enter"					&persons @gen
+task c14-la conjugate &conj1 &praes_act_ind [iuvāre](wikt:iuvo)			"to help"					&persons @gen
+task c15-la conjugate &conj1 &praes_act_ind [labōrāre](wikt:laboro)		"to work"					&persons @gen
+task c16-la conjugate &conj1 &praes_act_ind [laudāre](wikt:laudo)		"to praise"					&persons @gen
+task c17-la conjugate &conj1 &praes_act_ind [lavāre](wikt:lavo)			"to wash"					&persons @gen
+task c18-la conjugate &conj1 &praes_act_ind [līberāre](wikt:libero)		"to free"					&persons @gen
+task c19-la conjugate &conj1 &praes_act_ind [nārrāre](wikt:narro)		"to tell (a story)"			&persons @gen
+task c20-la conjugate &conj1 &praes_act_ind [nāvigāre](wikt:navigo)		"to sail"					&persons @gen
+task c21-la conjugate &conj1 &praes_act_ind [optāre](wikt:opto)			"to wish, desire"			&persons @gen
+task c22-la conjugate &conj1 &praes_act_ind [ōrāre](wikt:oro)			"to orate"					&persons @gen
+task c23-la conjugate &conj1 &praes_act_ind [parāre](wikt:paro)			"to prepare"				&persons @gen
+task c24-la conjugate &conj1 &praes_act_ind [portāre](wikt:porto)		"to carry"					&persons @gen
+task c25-la conjugate &conj1 &praes_act_ind [pugnāre](wikt:pugno)		"to fight"					&persons @gen
+task c26-la conjugate &conj1 &praes_act_ind [rogāre](wikt:rogo)			"to ask"					&persons @gen
+task c27-la conjugate &conj1 &praes_act_ind [saltāre](wikt:salto)		"to dance"					&persons @gen
+task c28-la conjugate &conj1 &praes_act_ind [salūtāre](wikt:saluto)		"to greet"					&persons @gen
+task c29-la conjugate &conj1 &praes_act_ind [servāre](wikt:servo)		"to save, guard"			&persons @gen
+task c30-la conjugate &conj1 &praes_act_ind [spectāre](wikt:specto)		"to watch"					&persons @gen
+task c31-la conjugate &conj1 &praes_act_ind [stāre](wikt:sto)			"to stand"					&persons @gen
+task c32-la conjugate &conj1 &praes_act_ind [temptāre](wikt:tempto)		"to try, attempt"			&persons @gen
+task c33-la conjugate &conj1 &praes_act_ind [vexāre](wikt:vexo)			"to annoy"					&persons @gen
+task c34-la conjugate &conj1 &praes_act_ind [vocāre](wikt:voco)			"to call"					&persons @gen
