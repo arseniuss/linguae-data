@@ -19,6 +19,9 @@ EOL
 
 ref choose-meaning-en "Choose correct meaning of the word"
 
+setting alphabet-order "Order in which to sort words" text \
+	"< a < ā < e < ē < i < ī < o < ō < u < ū < y < ȳ"
+
 include Terms.txt
 
 include Lessons.txt
