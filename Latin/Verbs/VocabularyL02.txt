@@ -23,20 +23,20 @@ task v05-en choose &conj1 &inf &choose-meaning "to shout"		clamāre					&verbs-l
 task v06-la choose &conj1 &inf &choose-meaning cūrāre			"to care for"			&verbs-en
 task v06-en choose &conj1 &inf &choose-meaning "to care for"	cūrāre					&verbs-la
 
-task v07-la choose &conj1 &inf &choose-meaning dare				"to give"				&verbs-en
-task v07-en choose &conj1 &inf &choose-meaning "to give"		dare					&verbs-la
+task v07-la choose &conj1ia &inf &choose-meaning dare			"to give"				&verbs-en
+task v07-en choose &conj1ia &inf &choose-meaning "to give"		dare					&verbs-la
 
 task v08-la choose &conj1 &inf &choose-meaning errāre			"to wander, err"		&verbs-en
 task v08-en choose &conj1 &inf &choose-meaning "to wander, err"	errāre					&verbs-la
 
-task v09-la choose &conj1 &inf &choose-meaning esse				"to be"					&verbs-en
-task v09-en choose &conj1 &inf &choose-meaning "to be"			esse					&verbs-la
+task v09-la choose &conji &inf &choose-meaning esse				"to be"					&verbs-en
+task v09-en choose &conji &inf &choose-meaning "to be"			esse					&verbs-la
 
 task v10-la choose &conj1 &inf &choose-meaning exspectāre		"to wait for"			&verbs-en
 task v10-en choose &conj1 &inf &choose-meaning "to wait for"	exspectāre				&verbs-la
 
-task v11-la choose &conj1 &inf &choose-meaning habēre			"to have"				&verbs-en
-task v11-en choose &conj1 &inf &choose-meaning "to have"		habēre					&verbs-la
+task v11-la choose &conj2 &inf &choose-meaning habēre			"to have"				&verbs-en
+task v11-en choose &conj2 &inf &choose-meaning "to have"		habēre					&verbs-la
 
 task v12-la choose &conj1 &inf &choose-meaning habitāre			"to live, dwell"		&verbs-en
 task v12-en choose &conj1 &inf &choose-meaning "to live, dwell"	habitāre				&verbs-la

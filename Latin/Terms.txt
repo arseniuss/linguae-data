@@ -2,6 +2,12 @@
 #
 #
 
+ref junc coniūnctiō
+
+#
+#
+#
+
 ref cases "nōminātīvus,genetīvus,datīvus,accūsātīvus,ablatīvus,vocātīvus"
 
 ref decl1 "prīma declīnātiō"
@@ -45,7 +51,7 @@ ref conj2	"secunda coniugātiō"
 ref conj3	"tērtia coniugātiō"
 ref conj3io	"tertia coniugātiō variantis -iō"
 ref conj4	"quārtā coniugātiō"
-ref iconj	"coniugātiō īrregulāris"
+ref conji	"coniugātiō īrregulāris"
 
 ref inf "īnfīnītīvus"
 

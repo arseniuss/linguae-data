@@ -1,0 +1,24 @@
+#
+#
+#
+
+section Foundation
+name "Unusual nouns"
+description "Decline nouns which are unusual"
+
+#
+# First Declension nouns which are masculine
+#
+
+category decline &decl1 &sg_m
+category decline &decl1 &pl_m
+
+gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
+ref masc &sg_m #redefine
+
+include subcategory &masc Nouns/DeclensionL01.txt
+
+gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
+ref masc &pl_m #refine
+
+include subcategory &masc Nouns/DeclensionL01.txt

@@ -1,0 +1,13 @@
+section Foundation
+name "First Conjugation"
+description "Conjugate first conjugation verbs"
+
+#
+
+category conjugate &conj1 &praes_act_ind
+category conjugate &conj1ia &praes_act_ind
+
+gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat,damus,datis,dant
+
+include category &conj1 Verbs/ConjugationL02.txt
+include category &conj1ia Verbs/ConjugationL02.txt

@@ -1,0 +1,11 @@
+section Foundation
+name "Irregular Verbs"
+description "Conjugate irregular verbs"
+
+#
+
+category conjugate &conji &praes_act_ind
+
+gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
+
+include category &conji Verbs/ConjugationL02.txt

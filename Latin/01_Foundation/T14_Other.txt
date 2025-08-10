@@ -1,0 +1,39 @@
+#
+#
+#
+
+section Foundation
+name "All Conjunctions and Prepositions"
+description "Test knowledge of conjunctions and prepositions"
+
+category choose &junc ""
+
+ref words-la <EOL
+	et, aut, et..et, aut..aut, nec, nec..nec
+EOL
+
+ref words-en <EOL
+	and, or, both..and, either..or,nor,neither..nor
+EOL
+
+#
+# Lesson 1
+#
+
+task j01-la choose &junc "" &choose-meaning et		and		&words-en
+task j01-en choose &junc "" &choose-meaning and		et		&words-la
+
+task j02-la choose &junc "" &choose-meaning aut		or		&words-en
+task j02-en choose &junc "" &choose-meaning or		aut		&words-la
+
+task j03-la choose &junc "" &choose-meaning et..et			both..and			&words-en
+task j03-en choose &junc "" &choose-meaning both..and		et..et				&words-la
+
+task j04-la choose &junc "" &choose-meaning aut..aut		either..or			&words-en
+task j04-en choose &junc "" &choose-meaning either..or		aut..aut			&words-la
+
+task j05-la choose &junc "" &choose-meaning nec				nor			&words-en
+task j05-en choose &junc "" &choose-meaning nor				nec				&words-la
+
+task j06-la choose &junc "" &choose-meaning nec..nec		neither..nor	&words-en
+task j06-en choose &junc "" &choose-meaning neither..nor	nec..nec		&words-la
