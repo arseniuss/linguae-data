@@ -1,0 +1,30 @@
+#
+# Requires:
+#		ref translate-la
+#
+
+task t01-la translate "The girl adores the moon." "Puella lūnam adorat." &translate-la
+task t02-la translate "The poet loves the star." " Poēta stēllam amat." &translate-la
+task t03-la translate "The farmer walks the road." "Agricola viam ambulat." &translate-la
+task t04-la translate "The dove sings." "Columba cantat." &translate-la
+task t05-la translate "The pirate shouts." "Pīrāta clamat." &translate-la
+task t06-la translate "The teacher cares for the student." "Magistra discipulam cūrat." &translate-la
+task t07-la translate "The sailor gives the flower." "Nauta rosam dat." &translate-la
+task t08-la translate "The frog wanders the field." "Rāna terram errat." &translate-la
+task t09-la translate "The eagle is a beast." "Aquila bestia est." &translate-la
+task t10-la translate "The friend waits for the poet." "Amīca poētam exspectat." &translate-la
+task t11-la translate "The daughter has the money." "Fīlia pecūniam habet." &translate-la
+task t12-la translate "The cow inhabits the island." "Vacca īnsulam habitat." &translate-la
+task t13-la translate "The student enters the school." "Discipula schōlam intrat." &translate-la
+task t14-la translate "The sailor helps the farmer." "Nauta agricolam iuvat." &translate-la
+task t15-la translate "The girl works the land." "Puella terram labōrat." &translate-la
+task t16-la translate "The poet praises the dove." "Poēta columbam laudat." &translate-la
+task t17-la translate "The friend washes the table." "Amīca mēnsam lavat." &translate-la
+task t18-la translate "The sailor frees the island." "Nauta īnsulam līberat." &translate-la
+task t19-la translate "The teacher tells the story." "Magistra fābulam nārrat." &translate-la
+task t20-la translate "The sailor navigates the island." "Nauta īnsulam nāvigat." &translate-la
+task t21-la translate "The girl wishes for the flower." "Puella rosam optat." &translate-la
+task t22-la translate "The poet prays to the moon." "Poēta lūnam ōrat." &translate-la
+task t23-la translate "The teacher prepares the meal." "Magistra cēnam parat." &translate-la
+task t24-la translate "The farmer carries the water." "Agricola aquam portat." &translate-la
+task t25-la translate "The pirate fights the sailor." "Pīrāta nautam pugnat." &translate-la

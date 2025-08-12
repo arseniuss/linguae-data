@@ -63,13 +63,13 @@ task v19-la choose &conj1 &inf &choose-meaning [nārrāre](wikt:narro)	"to tell 
 task v19-en choose &conj1 &inf &choose-meaning "to tell (a story)"		nārrāre				&verbs-la
 
 task v20-la choose &conj1 &inf &choose-meaning [nāvigāre](wikt:navigaro)	"to sail"				&verbs-en
-task v20-en choose &conj1 &inf &choose-meaning "to sail"					nāvigāre				&verbs-la
+task v20-en choose &conj1 &inf &choose-meaning "to sail, navigate"			nāvigāre				&verbs-la
 
 task v21-la choose &conj1 &inf &choose-meaning [optāre](wikt:opto)		"to wish, desire"	&verbs-en
 task v21-en choose &conj1 &inf &choose-meaning "to wish, desire"		optāre				&verbs-la
 
-task v22-la choose &conj1 &inf &choose-meaning [ōrāre](wikt:oro)		"to orate"				&verbs-en
-task v22-en choose &conj1 &inf &choose-meaning "to orate"				ōrāre					&verbs-la
+task v22-la choose &conj1 &inf &choose-meaning [ōrāre](wikt:oro)		"to pray"				&verbs-en
+task v22-en choose &conj1 &inf &choose-meaning "to pray, orate"			ōrāre					&verbs-la
 
 task v23-la choose &conj1 &inf &choose-meaning [parāre](wikt:paro)		"to prepare"			&verbs-en
 task v23-en choose &conj1 &inf &choose-meaning "to prepare"				parāre					&verbs-la

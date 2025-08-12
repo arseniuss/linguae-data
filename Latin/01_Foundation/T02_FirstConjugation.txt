@@ -1,6 +1,12 @@
+#
+#
+#
+
 section Foundation
 name "First Conjugation"
 description "Conjugate first conjugation verbs"
+
+include Generators.txt
 
 #
 

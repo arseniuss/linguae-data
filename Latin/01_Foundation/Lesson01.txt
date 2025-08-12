@@ -66,13 +66,16 @@ chapter 2 <EOL
 	- **nec** = and not / nor
 EOL
 
+ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
+gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
+
 #
 # Choose correct meaning
 #
 
 include Nouns/Lesson01.txt
 
-ref nouns-la &nouns-l01-la
+ref nouns-la &nouns-N-l01-la
 ref nouns-en &nouns-l01-en
 
 include Nouns/VocabularyL01.txt
@@ -80,9 +83,6 @@ include Nouns/VocabularyL01.txt
 #
 # Decline nouns, nominative and accusative
 #
-
-ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
-gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
 
 include Nouns/DeclensionL01.txt
 

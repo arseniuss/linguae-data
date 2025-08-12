@@ -1,4 +1,8 @@
-ref verbs-l02-la <EOL
+#
+#
+#
+
+ref verbs-inf-l02-la <EOL
 	adorāre, amāre, ambulāre, cantāre, clamāre, cūrāre, dare, errāre, esse,
 	exspectāre, habēre, habitāre, intrāre, iuvāre, labōrāre, laudāre,
 	lavāre, līberāre, nārrāre, nāvigāre, optāre, ōrāre, parāre, portāre,
@@ -6,10 +10,57 @@ ref verbs-l02-la <EOL
 	vexāre, vocāre
 EOL
 
-ref verbs-l02-en <EOL
+ref verbs-l02-la <EOL
+	@gen:adorāre, @gen:amāre, @gen:ambulāre, @gen:cantāre, @gen:clamāre,
+	@gen:cūrāre, @gen:dare, @gen:errāre, @gen:esse, @gen:exspectāre,
+	@gen:habēre, @gen:habitāre, @gen:intrāre, @gen:iuvāre, @gen:labōrāre,
+	@gen:laudāre, @gen:lavāre, @gen:līberāre, @gen:nārrāre, @gen:nāvigāre,
+	@gen:optāre, @gen:ōrāre, @gen:parāre, @gen:portāre, @gen:pugnāre,
+	@gen:rogāre, @gen:saltāre, @gen:salūtāre, @gen:servāre, @gen:spectāre,
+	@gen:stāre, @gen:temptāre, @gen:vexāre, @gen:vocāre
+EOL
+
+ref verbs-inf-l02-en <EOL
 	to worship, to love, to walk, to sing, to shout, to care for, to give,
 	to wander, to be, to wait for, to have, to live, to enter, to help,
 	to work, to praise, to wash, to free, to tell (a story), to sail,
-	to wish, to orate, to prepare, to carry, to fight, to ask, to greet,
+	to wish, to pray, to prepare, to carry, to fight, to ask, to greet,
 	to save, to watch, to stand, to try, to annoy, to call
+EOL
+
+# all forms
+ref verbs-l01-en <EOL
+	worship, worships,
+	love, loves,
+	walk, walks,
+	sing, sings,
+	shout, shouts,
+	care for, cares for,
+	give, gives,
+	wander, wanders,
+	am, are, be, is, 
+	wait for, waits for,
+	have, has,
+	live, lives, 
+	enter, enters, 
+	help, helps, 
+	work, works, 
+	praise, praises,
+	wash, washes, 
+	free, frees, 
+	tell, tells,
+	sail, sails, 
+	wish, wishes, 
+	pray, prays, 
+	prepare, prepares, 
+	carry, carries, 
+	fight, fights, 
+	ask, asks, 
+	greet, greets, 
+	save, saves, 
+	watch, watches, 
+	stand, stands, 
+	try, tries, 
+	annoy, annoys, 
+	call, calls
 EOL

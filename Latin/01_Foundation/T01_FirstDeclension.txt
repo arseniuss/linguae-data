@@ -6,6 +6,8 @@ section Foundation
 name "First Declension"
 description "Decline first declension nouns"
 
+include Generators.txt
+
 category decline &decl1 &sg_f
 category decline &decl1 &sg_m
 ref fem &sg_f

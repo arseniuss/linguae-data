@@ -33,12 +33,6 @@ ref pl_m "plūrālis, masculīnum"
 ref sg_n "singulāris, neutrum"
 ref pl_n "plūrālis, neutrum"
 
-gen decline &decl1 &sg_f -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
-gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
-
-gen decline &decl1 &pl_f -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
-gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
-
 #
 #
 #
@@ -81,11 +75,3 @@ ref plus_pas_con "plūsquamperfectum passīvum coniūnctīvum"
 
 ref praes_act_imp "praesēns āctīvum imperatīvum"
 ref fut_act_imp "futūrum prīmum āctīvum imperatīvum"
-
-# regular verb generation
-gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
-gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
-gen conjugate &conj3 &praes_act_ind -ere &persons 1+ō,1+is,1+it,1+imus,1+itis,1+unt
-gen conjugate &conj3io &praes_act_ind -ere &persons 1+i+ō,1+i+s,1+i+t,1+i+mus,1+i+tis,1+i+unt
-gen conjugate &conj4 &praes_act_ind -ī-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+unt
-

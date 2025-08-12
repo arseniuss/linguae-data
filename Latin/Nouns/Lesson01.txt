@@ -1,4 +1,8 @@
-ref nouns-l01-la <EOL
+#
+#
+#
+
+ref nouns-N-l01-la <EOL
 	agricola, amīca, aqua, aquila, aurīga, bestia, casa, cēna,
 	columba, discipula, fābula, familia, fēmina, fīlia, herba, īnsula, lūna,
 	magistra, mēnsa, nauta, patria, pecūnia, pīrāta, poēta, porta, puella,
@@ -10,4 +14,14 @@ ref nouns-l01-en <EOL
 	dove, (female) student, story, family, woman, daughter, herb, island, moon,
 	(female) teacher, table, sailor, country, money, pirate, poet, gate, girl,
 	frog, rose, school, forest, star, land, cow, read
+EOL
+
+ref nouns-l01-la <EOL
+	@gen:agricola, @gen:amīca, @gen:aqua, @gen:aquila, @gen:aurīga,
+	@gen:bestia, @gen:casa, @gen:cēna, @gen:columba, @gen:discipula,
+	@gen:fābula, @gen:familia, @gen:fēmina, @gen:fīlia, @gen:herba,
+	@gen:īnsula, @gen:lūna, @gen:magistra, @gen:mēnsa, @gen:nauta, @gen:patria,
+	@gen:pecūnia, @gen:pīrāta, @gen:poēta, @gen:porta, @gen:puella, @gen:rāna,
+	@gen:rosa, @gen:schōla, @gen:silva, @gen:stēlla, @gen:terra, @gen:vacca,
+	@gen:via
 EOL

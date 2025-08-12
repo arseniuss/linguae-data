@@ -6,6 +6,8 @@ section Foundation
 name "Full Vocabulary"
 description "Test knowledge of all words"
 
+include Generators.txt
+
 #
 # Nouns
 #
@@ -14,21 +16,24 @@ category choose &decl1 &masc
 
 include Nouns/Lesson01.txt
 
-ref nouns-la &nouns-l01-la
+ref nouns-la &nouns-N-l01-la
 ref nouns-en &nouns-l01-en
 
 include Nouns/VocabularyL01.txt
 
 #
-# 
+# Verbs
 #
 
 category choose &conj1 &inf
 category choose &conj2 &inf
 
+gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat,damus,datis,dant
+gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
+
 include Verbs/Lesson02.txt
 
-ref verbs-la &verbs-l02-la
-ref verbs-en &verbs-l02-en
+ref verbs-la &verbs-inf-l02-la
+ref verbs-en &verbs-inf-l02-en
 
 include Verbs/VocabularyL02.txt

@@ -6,6 +6,8 @@ section Foundation
 name "Declension Drill"
 description "Decline all nouns in this chapter"
 
+include Generators.txt
+
 #
 # First lesson
 #
