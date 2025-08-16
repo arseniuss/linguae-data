@@ -1,0 +1,8 @@
+section Morphology
+title "First declension"
+description <EOL
+	
+EOL
+
+chapter 1 <EOL
+EOL

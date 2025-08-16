@@ -28,3 +28,5 @@ include Terms.txt
 include Lessons.txt
 
 include Trainings.txt
+
+include Theory/Theory.txt
