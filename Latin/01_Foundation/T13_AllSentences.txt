@@ -1,0 +1,36 @@
+#
+#
+#
+
+section Foundation
+name "All sentences"
+description "Translate sentences ans select correct inflection"
+
+include Generators.txt
+
+#
+# Vocabulary
+#
+
+include Nouns/Lesson01.txt		# &nouns-l01-la
+
+ref conj-l01-la	et,aut,nec
+
+include Verbs/Lesson02.txt		# &verbs-l02-la
+
+ref translate-la &nouns-l01-la,&conj-l01-la,&verbs-l02-la
+
+#
+# Sentences
+#
+
+
+include Sentences/Lesson01.txt
+include Sentences/Lesson02.txt
+include Sentences/Lesson03.txt
+
+#
+# Selections
+#
+
+include Selections/Lesson03.txt

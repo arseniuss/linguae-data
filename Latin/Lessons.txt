@@ -90,7 +90,7 @@ EOL
 
 lesson 01_Foundation/Lesson01.txt
 lesson 01_Foundation/Lesson02.txt
-#lesson 01_Foundation/Lesson03.txt
+lesson 01_Foundation/Lesson03.txt
 #lesson 01_Foundation/Lesson04.txt
 #lesson 01_Foundation/Lesson05.txt
 #lesson 01_Foundation/Lesson06.txt

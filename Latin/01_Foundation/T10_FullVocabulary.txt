@@ -28,9 +28,6 @@ include Nouns/VocabularyL01.txt
 category choose &conj1 &inf
 category choose &conj2 &inf
 
-gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat,damus,datis,dant
-gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
-
 include Verbs/Lesson02.txt
 
 ref verbs-la &verbs-inf-l02-la

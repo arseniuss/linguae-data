@@ -1,0 +1,20 @@
+#
+# Requires:
+#		ref translate-la
+#
+
+task t01-la translate "The girls sing." "Puellae cantant." &translate-la
+task t02-la translate "The students and the teachers enter." "Discipulae et magistrae intrant." &translate-la
+task t03-la translate "The poets tell stories and sing." "Poētae nārrant et cantant." &translate-la
+task t04-la translate "The women call the students." "Fēminae vocant discipulās." &translate-la
+task t05-la translate "The girls carry water." "Puellae aquam portant." &translate-la
+task t06-la translate "The inhabitants look at the forest." "Incolae spectant silvam." &translate-la
+task t07-la translate "The teachers praise Julia." "Magistrae laudant Iūliam." &translate-la
+task t08-la translate "The sailors and the farmers work." "Nautae et agricolae laborant." &translate-la
+task t09-la translate "The girls prepare the tables." "Puellae parant mēnsās." &translate-la
+task t10-la translate "The eagles watch the frogs." "Aquilae spectant rānās." &translate-la
+task t11-la translate "Neither the poets nor the students sing." "Nec poētae nec discipulae cantant." &translate-la
+task t12-la translate "We watch the doves and call the grandmothers." "Columbās spectāmus et avias vocāmus." &translate-la
+task t13-la translate "We greet the girls and the grandmothers." "Puellās et avias salūtāmus." &translate-la
+task t14-la translate "We see the fishes and frogs." "Piscās et rānās vīdēmus." &translate-la
+task t15-la translate "You (all) tell stories or sing." "Nārrātis aut cantātis." &translate-la

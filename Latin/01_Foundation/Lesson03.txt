@@ -25,99 +25,46 @@ chapter 1 <EOL
 	| 3rd person pl | -ant   | portant      | they carry      |
 EOL
 
+ref persons "I. pers. pl.,II. pers. pl.,III. pers. pl."
+
+gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+2l+mus,1+2l+tis,1+2s+nt
+gen conjugate &conj1ia &praes_act_ind dare &persons damus,datis,dant
+gen conjugate &conji &praes_act_ind esse &persons sumus,estis,sunt
+
+gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2l+mus,1+2l+tis,1+2s+nt
+
 #
 # Vocabulary
 #
 
-ref verbs-la "amāre, vocāre, portāre, spectāre, parāre,\
-		intrāre, salūtāre, lavāre, cantāre, nārrāre,\
-		cūrāre, laborāre, vexāre, ambulāre, juvāre,\
-		laudāre, nāvigāre, servāre, rogāre, exspectāre,\
-		clamāre, habitāre, errāre, optāre, dēsīderāre,\
-		numerāre, temptāre, cessāre, vulnerāre, adorāre"
+include Verbs/Lesson02.txt
 
-ref verbs-en "to love,to call,to carry,to watch,to prepare,\
-		to enter,to greet,to wash,to sing,to tell,to care for,\
-		to work,to annoy,to walk,to help,to praise,to sail,to save,\
-		to ask,to wait for,to shout,to live,to wander,to wish,to long for,\
-		to count,to try,to be idle,to wound,to worship"
+ref verbs-la &verbs-inf-l02-la
+ref verbs-en &verbs-inf-l02-en
 
-include VerbsC1/VocabularyL02.txt
+include Verbs/VocabularyL02.txt
 
 #
 # Conjugate verbs
 #
 
-ref persons "I. pers. pl.,II. pers. pl.,III. pers. pl."
-gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+2l+mus,1+2l+tis,1+2s+nt
-
-include VerbsC1/ConjugationL02.txt
+include Verbs/ConjugationL02.txt
 
 #
-# Translate
+# Translate sentences
 #
 
-ref verbs1-la "amāmus, vocāmus, portāmus, spectāmus, parāmus,\
-		intrāmus, salūtāmus, lavāmus, cantāmus, nārrāmus,\
-		cūrāmus, laborāmus, vexāmus, ambulāmus, juvāmus,\
-		laudāmus, nāvigāmus, servāmus, rogāmus, exspectāmus,\
-		clamāmus, habitāmus, errāmus, optāmus, dēsīderāmus,\
-		numerāmus, temptāmus, cessāmus, vulnerāmus, adorāmus"
-ref verbs2-la "amātis, vocātis, portātis, spectātis, parātis,\
-		intrātis, salūtātis, lavātis, cantātis, nārrātis,\
-		cūrātis, laborātis, vexātis, ambulātis, juvātis,\
-		laudātis, nāvigātis, servātis, rogātis, exspectātis,\
-		clamātis, habitātis, errātis, optātis, dēsīderātis,\
-		numerātis, temptātis, cessātis, vulnerātis, adorātis"
-ref verbs3-la "amant, vocant, portant, spectant, parant,\
-		intrant, salūtant, lavant, cantant, nārrant,\
-		cūrant, laborant, vexant, ambulant, juvant,\
-		laudant, nāvigant, servant, rogant, exspectant,\
-		clamant, habitant, errant, optant, dēsīderant,\
-		numerant, temptant, cessant, vulnerant, adorant"
+# insert 1st lesson nouns
+ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
+gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
+include Nouns/Lesson01.txt
 
-ref translate-la &verbs1-la,&verbs2-la,&verbs3-la
+ref translate-la &nouns-l01-la,&verbs-l02-la
 
-task t01-la translate "The girls sing." "Puellae cantant." &translate-la
-task t02-la translate "The students and the teachers enter." "Discipulae et magistrae intrant." &translate-la
-task t03-la translate "The poets tell stories and sing." "Poētae nārrant et cantant." &translate-la
-task t04-la translate "The women call the students." "Fēminae vocant discipulās." &translate-la
-task t05-la translate "The girls carry water." "Puellae aquam portant." &translate-la
-task t06-la translate "The inhabitants look at the forest." "Incolae spectant silvam." &translate-la
-task t07-la translate "The teachers praise Julia." "Magistrae laudant Iūliam." &translate-la
-task t08-la translate "The sailors and the farmers work." "Nautae et agricolae laborant." &translate-la
-task t09-la translate "The girls prepare the tables." "Puellae parant mēnsās." &translate-la
-task t10-la translate "The eagles watch the frogs." "Aquilae spectant rānās." &translate-la
-task t11-la translate "Neither the poets nor the students sing." "Nec poētae nec discipulae cantant." &translate-la
-task t12-la translate "We watch the doves and call the grandmothers." "Columbās spectāmus et avias vocāmus." &translate-la
-task t13-la translate "We greet the girls and the grandmothers." "Puellās et avias salūtāmus." &translate-la
-task t14-la translate "We see the fishes and frogs." "Piscās et rānās vīdēmus." &translate-la
-task t15-la translate "You (all) tell stories or sing." "Nārrātis aut cantātis." &translate-la
+include Sentences/Lesson03.txt
 
 #
 # Select tasks
 #
 
-ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg.,I. pers. pl.,II. pers. pl.,III. pers. pl."
-ref 1psg	"I. pers. sg."
-ref 2psg	"II. pers. sg."
-ref 3psg	"III. pers. sg."
-ref 1ppl	"I. pers. pl."
-ref 2ppl	"II. pers. pl."
-ref 3ppl	"III. pers. pl."
-
-task s01-la select "The girl loves and the students ask." "Puella <amat> et discipulī <rogant>" &3psg,&3ppl &persons
-task s02-la select "The teacher calls and the girls sing." "Magister <vocat> et puellae <cantant>" &3psg,&3ppl &persons
-task s03-la select "The farmer carries and the girls watch." "Agricola <portat> et puellae <spectant>" &3psg,&3ppl &persons
-task s04-la select "Neither the student sings nor the sailor calls the woman." "Nec discipula <cantat> nec nauta <vocat> fēminam." &3psg,&3psg &persons
-task s05-la select "The pirate watches the eagle and the poet wishes for stars." "Pīrāta <spectat> aquilam et poēta <optat> stellās." &3psg,&3psg &persons
-task s06-la select "The inhabitants shout and the poets praise the homeland." "Incolae <clāmant> et poētae <laudant> patriam." &3ppl,&3ppl &persons
-task s07-la select "Both Julia and the grandmother carry water and wash the table." "Et Iūlia et avia <portant> aquam et <lavant> mēnsam." &3ppl,&3ppl &persons
-task s08-la select "The girl sings and the teacher praises you." "Puella <cantat> et magistra <laudās>" &3psg,&2psg &persons
-task s09-la select "You live in the house and the islands wait for the sailors." "Casa <habitās> et īnsulae <exspectant> nautas." &2psg,&3ppl &persons
-task s10-la select "I watch the star and the woman praises the island." "<Spectō> stellam et fēmina <laudat> īnsulam." &1psg,&3psg &persons 
-task s11-la select "Either I sing or you sail." "Aut <cantō> aut <nāvigās>" &1psg,&2psg &persons
-task s12-la select "The sailor watches the gate and I carry water." "Nauta <spectat> portam et <portō> aquam." &3psg,&1psg &persons 
-task s13-la select "Both the sailor enters and the poet waits." "Et nauta <intrat> et poēta <exspectat>" &3psg,&3psg &persons
-task s14-la select "We watch the stars and the student praises the land." "<Spectāmus> stēllās et discipula <laudat> terram." &1ppl,&3psg &persons
-task s15-la select "The girls carry water and you (pl.) watch the school." "Puellae <portant> aquam et <spectātis> scholam." &3ppl,&2ppl &persons
+include Selections/Lesson03.txt
