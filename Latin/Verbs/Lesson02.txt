@@ -29,7 +29,7 @@ ref verbs-inf-l02-en <EOL
 EOL
 
 # all forms
-ref verbs-l01-en <EOL
+ref verbs-l02-en <EOL
 	worship, worships,
 	love, loves,
 	walk, walks,

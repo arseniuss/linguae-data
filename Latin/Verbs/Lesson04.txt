@@ -1,0 +1,9 @@
+#
+#
+#
+
+ref verbs-inf-l04-la posse
+ref verbs-l04-la @gen:posse
+
+ref verbs-inf-l04-en "be able to"
+ref verbs-l04-en "can"

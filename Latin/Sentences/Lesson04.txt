@@ -1,0 +1,93 @@
+#
+#
+#
+
+task t01-la translate	"The queen can give a toga to the daughter." \
+						"Rēgīna fīliae togam dare potest." &translate-la
+
+task t02-la translate	"The cause is not for the queen, but for the slave-girl." \
+						"Causa nōn rēgīnae, sed ancillae est." &translate-la
+
+task t03-la translate	"The queen and the daughter can wait, but the slave-girl cannot wait." \
+						"Rēgīna fīliaque exspectāre possunt, sed ancilla exspectāre nōn potest." &translate-la
+
+task t04-la translate	"The arrow is for the queen, and the tear is for the daughter too." \
+						"Sagitta rēgīnae est, et lacrima fīliae quoque." &translate-la
+
+task t05-la translate	"The queen can write a letter to the daughter." \
+						"Rēgīna fīliae litteram scrībere potest." &translate-la
+
+task t06-la translate	"The fame of the queen is great, and the grace of the daughter is great too." \
+						"Fāma rēgīnae magna est, et grātia fīliae magna quoque." &translate-la
+
+task t07-la translate	"The story can be a cause for tears for the girl." \
+						"Fābula puellae lacrimae causa esse potest." &translate-la
+
+task t08-la translate	"The queen praises the farmer but does not praise the pirate." \
+						"Rēgīna agricolam laudat, sed pīrātam nōn laudat." &translate-la
+
+task t09-la translate	"The senate gives favor to the queen." \
+						"Cūria rēgīnae grātiam dat." &translate-la
+
+task t10-la translate	"The maidservant can carry water to the daughter." \
+						"Ancilla fīliae aquam portāre potest." &translate-la
+
+task t11-la translate	"The poet tells a story to the cause, but does not sing." \
+						"Poēta causae fābulam nārrat sed nōn cantat." &translate-la
+
+task t12-la translate	"The senate-house can prepare favor for the queen." \
+						"Cūria rēgīnae grātiam parāre potest." &translate-la
+
+task t13-la translate	"Reputation also prepares favor for the poet." \
+						"Fāma poētae grātiam parat quoque." &translate-la
+
+task t14-la translate	"The farmers prepare a ditch for the friend." \
+						"Agricolae fossam amīcae parant." &translate-la
+
+task t15-la translate	"Injustice prepares tears for the friend." \
+						"Iniūria amīcae lacrimās parat." &translate-la
+
+task t16-la translate	"The teacher can praise the language and letters for the student." \
+						"Magistra discipulae linguam litterāsque laudāre potest." &translate-la
+
+task t17-la translate	"The machine carries material for the farmer." \
+						"Machina agricolae māteriam portat." &translate-la
+
+task t18-la translate	"A friend prepares a feather for the poet." \
+						"Amīca pennam poētae parat." &translate-la
+
+task t19-la translate	"The beast prepares an arrow for the poet but does not carry (it)." \
+						"Bestia sagittam poētae parat sed nōn portat." &translate-la
+
+task t20-la translate	"The poet does not watch the shadow and the darkness for the friend." \
+						"Poēta amīcae umbram tenebrāsque nōn spectat." &translate-la
+
+task t21-la translate	"The senate prepares favor for the queens, but not always." \
+						"Cūria rēgīnīs grātiam parat sed nōn semper." &translate-la
+
+task t22-la translate	"The tavern prepares dinner for the farmer but not for the sailors." \
+						"Taberna agricolae cēnam parat sed nōn nautīs." &translate-la
+
+task t23-la translate	"The holidays prepare service for the poets." \
+						"Fēriae poētīs operam parant." &translate-la
+
+task t24-la translate	"The queen can give care to the daughter." \
+						"Rēgīna fīliae cūram dare potest." &translate-la
+
+task t25-la translate	"The flight is for the poet." \
+						"Fuga poētae est." &translate-la
+
+task t26-la translate	"The anger is for the queen." \
+						"Īra rēgīnae est." &translate-la
+
+task t27-la translate	"Nature gives favor to the daughter." \
+						"Nātūra fīliae grātiam dat." &translate-la
+
+task t28-la translate	"The queen praises the cave, but does not praise the darkness." \
+						"Rēgīna spēluncam laudat, sed tenebram nōn laudat." &translate-la
+
+task t29-la translate	"The queen gives punishment to the pirate." \
+						"Rēgīna pīrātā poenam dat." &translate-la
+
+task t30-la translate	"The daughters enter the cave and call the maidservants." \
+						"Fīliae spēluncam intrant et ancillās vocant." &translate-la

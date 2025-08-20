@@ -63,48 +63,49 @@ EOL
 ref cases "nōminātīvus sg., datīvus sg, accūsātīvus sg., nōminātīvus pl., datīvus pl., accūsātīvus pl."
 gen decline &decl1 "" -a &cases 1+a,1+ae,1+am,1+ae,1+īs,1+ās
 
+gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
+gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat,damus,datis,dant
+gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt
+
+gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
+gen conjugate &conji &praes_act_ind posse &persons possum,potes,potest,possumus,potestis,possunt
+
+include Verbs/Lesson02.txt
+
 #
 # Choose correct meaning
 #
 
 include Nouns/Lesson04.txt
+include Verbs/Lesson04.txt
 
 ref nouns-la &nouns-N-l04-la
 ref nouns-en &nouns-l04-en
 
 include Nouns/VocabularyL04.txt
 
-stop
+ref verbs-la &verbs-l02-la 
+ref verbs-en &verbs-l02-en
+
+include Verbs/VocabularyL04.txt
 
 #
 # Decline
 #
 
-ref cases "nōminātīvus sg.,datīvus sg.,accūsātīvus sg.,nōminātīvus pl.,datīvus pl.,accūsātīvus pl."
-gen decline &decl1 "" -a &cases 1+a,1+ae,1+am,1+ae,1+īs,1+ās
-
-#include Nouns/DeclensionL04.txt
+include Nouns/DeclensionL04.txt
 
 #
-# Translate
+# Conjugate verbs
 #
 
-task t01-la translate
-task t02-la translate
-task t03-la translate 
-task t04-la translate
-task t05-la translate 
-task t06-la translate 
-task t07-la translate 
-task t08-la translate 
-task t09-la translate 
-task t10-la translate 
-task t11-la translate 
-task t12-la translate 
-task t13-la translate 
-task t14-la translate 
-task t15-la translate 
+include Verbs/ConjugationL04.txt
+
 
 #
-# Select
+# Translate sentences
 #
+
+ref translate-la &nouns-l04-la,&verbs-l02-la 
+
+include Sentences/Lesson04.txt

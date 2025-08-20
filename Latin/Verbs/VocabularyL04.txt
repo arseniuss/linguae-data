@@ -1,0 +1,9 @@
+#
+# Required:
+#		ref choose-meaning
+#		ref verbs-la
+#		ref verbs-en
+#
+
+task v01-la choose &conji &inf &choose-meaning [posse](wikt:possum)	"be able to"			&verbs-en
+task v01-en choose &conji &inf &choose-meaning "be able to, can, may"	posse					&verbs-la

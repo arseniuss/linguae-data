@@ -17,4 +17,6 @@ gen conjugate &conj3io &praes_act_ind -ere &persons 1+i+ō,1+i+s,1+i+t,1+i+mus,1
 gen conjugate &conj4 &praes_act_ind -ī-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+unt
 
 gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat,damus,datis,dant
+
 gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
+gen conjugate &conji &praes_act_ind posse &persons possum,potes,potest,possumus,potestis,possunt
