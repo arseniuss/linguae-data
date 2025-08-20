@@ -1,0 +1,43 @@
+#
+#	Required:
+#
+
+
+task a01-la choose &adverb &base &choose-meaning [bene](wikt:bene)					well 	&adverbs-en
+task a01-en choose &adverb &base &choose-meaning "well; rightly; satisfactorily"	bene	&adverbs-la
+
+task a02-la choose &adverb &base &choose-meaning [celeriter](wikt:celeriter)	quickly		&adverbs-en
+task a02-en choose &adverb &base &choose-meaning "quickly; speedily; readily"	celeriter	&adverbs-la
+
+task a03-la choose &adverb &base &choose-meaning [crās](wikt:cras)		tomorrow	&adverbs-en
+task a03-en choose &adverb &base &choose-meaning tomorrow				crās 		&adverbs-la
+
+task a04-la choose &adverb &base &choose-meaning [herī](wikt:heri)		yesterday	&adverbs-en
+task a04-en choose &adverb &base &choose-meaning yesterday				herī		&adverbs-la
+
+task a05-la choose &adverb &base &choose-meaning [hodiē](wikt:hodie) 			today	&adverbs-en
+task a05-en choose &adverb &base &choose-meaning "today; at the present time"	hodiē	&adverbs-la
+
+task a06-la choose &adverb &base &choose-meaning [lente](wikt:lente)	slowly	&adverbs-en
+task a06-en choose &adverb &base &choose-meaning "slowly; gradually"	lente	&adverbs-la
+
+task a07-la choose &adverb &base &choose-meaning [male](wikt:male)					badly	&adverbs-en
+task a07-en choose &adverb &base &choose-meaning "badly; wrongly; unfortunately"	male	&adverbs-la
+
+task a08-la choose &adverb &base &choose-meaning [mox](wikt:mex)						soon	&adverbs-en
+task a08-en choose &adverb &base &choose-meaning "soon; presently; shortly thereafter"	mox		&adverbs-la
+
+task a09-la choose &adverb &base &choose-meaning [nunc](wikt:nunc)					now		&adverbs-en
+task a00-en choose &adverb &base &choose-meaning "now; at present; at this moment"	nunc	&adverbs-la
+
+task a10-la choose &adverb &base &choose-meaning [saepe](wikt:saepe)	often	&adverbs-en
+task a10-en choose &adverb &base &choose-meaning "often; frequently"	saepe	&adverbs-la
+
+task a11-la choose &adverb &base &choose-meaning [semper](wikt:semper)			always	&adverbs-en
+task a11-en choose &adverb &base &choose-meaning "always; ever; continually"	semper	&adverbs-la
+
+task a12-la choose &adverb &base &choose-meaning [statim](wikt:statim)					immediately	&adverbs-en
+task a12-en choose &adverb &base &choose-meaning "immediately; at once; without delay"	statim		&adverbs-la
+
+task a13-la choose &adverb &base &choose-meaning [subitō](wikt:subito)		suddenly	&adverbs-en
+task a13-en choose &adverb &base &choose-meaning "suddenly; unexpectedly"	subitō		&adverbs-la

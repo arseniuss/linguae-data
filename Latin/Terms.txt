@@ -37,6 +37,15 @@ ref pl_n "plūrālis, neutrum"
 #
 #
 
+ref adverb "adverbium"
+ref base "positīvum"
+ref comp "comparātīvum"
+ref super "superlātīvum"
+
+#
+#
+#
+
 ref persons "I. pers. sg.,II. pers. sg.,III. pers. sg.,I. pers. pl.,II. pers. pl.,III. pers. pl."
 
 ref conj1	"prīma coniugātiō"

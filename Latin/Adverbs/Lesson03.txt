@@ -1,0 +1,13 @@
+#
+#
+#
+
+ref adverbs-l03-la <EOL
+	bene, celeriter, crās, heri, hodiē, lente, male, mox, nunc, saepe,
+	semper, statim, subitō
+EOL
+
+ref adverbs-l03-en <EOL
+	well, quickly, tomorrow, yesterday, today, slowly, badly, soon, now, often,
+	always, immediately, suddenly
+EOL

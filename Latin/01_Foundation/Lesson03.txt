@@ -44,12 +44,21 @@ ref verbs-en &verbs-inf-l02-en
 
 include Verbs/VocabularyL02.txt
 
+include Adverbs/Lesson03.txt
+
+ref adverbs-en &adverbs-l03-en
+ref adverbs-la &adverbs-l03-la
+
+include Adverbs/VocabularyL03.txt
+
 #
 # Conjugate verbs
 #
 
 include Verbs/ConjugationL02.txt
 
+
+# TODO: redo sentences
 #
 # Translate sentences
 #
