@@ -1,0 +1,26 @@
+#
+#
+#
+
+ref nouns-N-l04-la <EOL
+	ancilla, causa, cūra, cūria, fāma, fossa,
+	fuga, grātia, hora, iniūria, īra, lacrima, lingua, littera,
+	machina, māteria, mora, nātūra, opera, penna, poena, rēgīna, sagitta,
+	spēlunca, taberna, tenebra, toga, umbra, fīlia, fēria
+EOL
+
+ref nouns-l04-en <EOL
+	maidservant, reason, care, court, fame, ditch, flight, favor, hour,
+	injustice, anger, tear, tongue, letter, machine, material, delay, nature,
+	effort, wing, penalty, queen, arrow, cave, shop, darkness, toga, shadow,
+	daughter, festival
+EOL
+
+ref nouns-l04-la <EOL
+	@gen:ancilla, @gen:causa, @gen:cūra, @gen:cūria, @gen:fāma, @gen:fossa,
+	@gen:fuga, @gen:grātia, @gen:hora, @gen:iniūria, @gen:īra, @gen:lacrima,
+	@gen:lingua, @gen:littera, @gen:machina, @gen:māteria, @gen:mora,
+	@gen:nātūra, @gen:opera, @gen:penna, @gen:poena, @gen:rēgīna, @gen:sagitta,
+	@gen:spēlunca, @gen:taberna, @gen:tenebra, @gen:toga, @gen:umbra,
+	@gen:fīlia, @gen:fēria
+EOL

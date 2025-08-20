@@ -1,0 +1,95 @@
+#
+# Required:
+#       ref nouns-la
+#       ref nouns-en
+#
+
+task n01-la choose &decl1 &fem &choose-meaning [ancilla](wikt:ancilla)		"maidservant"	&nouns-en
+task n01-en choose &decl1 &fem &choose-meaning "maidservant" 				ancilla			&nouns-la
+
+task n02-la choose &decl1 &fem &choose-meaning [causa](wikt:causa)			"reason"	&nouns-en
+task n02-en choose &decl1 &fem &choose-meaning "cause, reason" 				causa		&nouns-la
+
+task n03-la choose &decl1 &fem &choose-meaning [cūra](wikt:cura)			"care" 		&nouns-en
+task n03-en choose &decl1 &fem &choose-meaning "care, concern" 				cūra		&nouns-la
+
+task n04-la choose &decl1 &fem &choose-meaning [cūria](wikt:cura)			"court" 	&nouns-en
+task n04-en choose &decl1 &fem &choose-meaning court 						cūria		&nouns-la
+
+task n05-la choose &decl1 &fem &choose-meaning [fāma](wikt:fama)			"fame"	&nouns-en
+task n05-en choose &decl1 &fem &choose-meaning "fame, reputation" 			fāma	&nouns-la
+
+task n06-la choose &decl1 &fem &choose-meaning [fossa](wikt:fossa)			"ditch"	&nouns-en
+task n06-en choose &decl1 &fem &choose-meaning "ditch" 						fossa	&nouns-la
+
+task n07-la choose &decl1 &fem &choose-meaning [fuga](wikt:fuga)			"flight"	&nouns-en
+task n07-en choose &decl1 &fem &choose-meaning "flight" 					fuga		&nouns-la
+
+task n08-la choose &decl1 &fem &choose-meaning [grātia](wikt:gratia)		"favor" &nouns-en
+task n08-en choose &decl1 &fem &choose-meaning "favor, thanks" 				grātia &nouns-la
+
+task n09-la choose &decl1 &fem &choose-meaning [hora](wikt:hora)		"hour"	&nouns-en
+task n09-en choose &decl1 &fem &choose-meaning "hour" 					hora	&nouns-la
+
+task n10-la choose &decl1 &fem &choose-meaning [iniūria](wikt:iniuria)		"injustice"	&nouns-en
+task n10-en choose &decl1 &fem &choose-meaning "injustice" 					iniūria		&nouns-la
+
+task n11-la choose &decl1 &fem &choose-meaning [īra](wikt:ira) 				"anger"	&nouns-en
+task n11-en choose &decl1 &fem &choose-meaning "anger" 						īra		&nouns-la
+
+task n12-la choose &decl1 &fem &choose-meaning [lacrima](wikt:lacrima)		"tear" &nouns-en
+task n12-en choose &decl1 &fem &choose-meaning "tear (from eye)" 			lacrima &nouns-la
+
+task n13-la choose &decl1 &fem &choose-meaning [lingua](wikt:lingua) 		"tongue"	&nouns-en
+task n13-en choose &decl1 &fem &choose-meaning "tongue, language"			lingua		&nouns-la
+
+task n14-la choose &decl1 &fem &choose-meaning [littera](wikt:littera)		"letter"	&nouns-en
+task n14-en choose &decl1 &fem &choose-meaning "letter (of the alphabet)"	littera		&nouns-la
+
+task n15-la choose &decl1 &fem &choose-meaning [machina](wikt:machina)		"machine"	&nouns-en
+task n15-en choose &decl1 &fem &choose-meaning "machine"					machina		&nouns-la
+
+task n16-la choose &decl1 &fem &choose-meaning [māteria](wikt:materia)		"material" &nouns-en
+task n16-en choose &decl1 &fem &choose-meaning "material, matter" 			māteria &nouns-la
+
+task n17-la choose &decl1 &fem &choose-meaning [mora](wikt:mora)		"delay"	&nouns-en
+task n17-en choose &decl1 &fem &choose-meaning "delay" 					mora	&nouns-la
+
+task n18-la choose &decl1 &fem &choose-meaning [nātūra](wikt:natura)		"nature" &nouns-en
+task n18-en choose &decl1 &fem &choose-meaning "nature" 					nātūra &nouns-la
+
+task n19-la choose &decl1 &fem &choose-meaning [opera](wikt:opera)			"effort"	&nouns-en
+task n19-en choose &decl1 &fem &choose-meaning "effort, work" 				opera		&nouns-la
+
+task n20-la choose &decl1 &fem &choose-meaning [penna](wikt:penna)			"wing"		&nouns-en
+task n20-en choose &decl1 &fem &choose-meaning "wing, feather" 				penna		&nouns-la
+
+task n21-la choose &decl1 &fem &choose-meaning [poena](wikt:poena)			"penalty"	&nouns-en
+task n21-en choose &decl1 &fem &choose-meaning "penalty, punishment " 		poena		&nouns-la
+
+task n22-la choose &decl1 &fem &choose-meaning [rēgīna](wikt:regina)		"queen" &nouns-en
+task n22-en choose &decl1 &fem &choose-meaning "queen" 						rēgīna &nouns-la
+
+task n23-la choose &decl1 &fem &choose-meaning [sagitta](wikt:sagitta)		"arrow" &nouns-en
+task n23-en choose &decl1 &fem &choose-meaning "arrow, shaft, bolt " 		sagitta &nouns-la
+
+task n24-la choose &decl1 &fem &choose-meaning [spēlunca](wikt:spelunca)	"cave" &nouns-en
+task n24-en choose &decl1 &fem &choose-meaning "cave"						spēlunca &nouns-la
+
+task n25-la choose &decl1 &fem &choose-meaning [taberna](wikt:taberna)		"shop" &nouns-en
+task n25-en choose &decl1 &fem &choose-meaning "shop, tavern"				taberna &nouns-la
+
+task n26-la choose &decl1 &fem &choose-meaning [tenebra](wikt:tenebra)		"darkness" &nouns-en
+task n26-en choose &decl1 &fem &choose-meaning "darkness"					tenebra &nouns-la
+
+task n27-la choose &decl1 &fem &choose-meaning [toga](wikt:toga)			"toga" &nouns-en
+task n27-en choose &decl1 &fem &choose-meaning "toga, garment"				toga &nouns-la
+
+task n28-la choose &decl1 &fem &choose-meaning [umbra](wikt:umbra)			"shadow" &nouns-en
+task n28-en choose &decl1 &fem &choose-meaning shadow						umbra &nouns-la
+
+task n29-la choose &decl1 &fem &choose-meaning [fīlia](wikt:filia)			"daughter " &nouns-en
+task n29-en choose &decl1 &fem &choose-meaning daughter 					fīlia &nouns-la
+
+task n30-la choose &decl1 &fem &choose-meaning [fēria](wikt:feria)			"festival " &nouns-en
+task n30-en choose &decl1 &fem &choose-meaning "festival, holy day" 		fēria &nouns-la

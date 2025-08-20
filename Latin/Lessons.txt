@@ -7,7 +7,7 @@ skip <EOL
 	Lesson 1: First Declension Nouns (Nominative and Accusative)
 	- new 1st decl nouns (30): amīca, aqua, aquila, bestia, casa, cēna,
 		columba, discipula, fābula, familia, fēmina, fīlia,
-		herba, īnsula, luna, magistra, mēnsa, patria, pecūnia, porta, puella,
+		herba, īnsula, lūna, magistra, mēnsa, patria, pecūnia, porta, puella,
 		rāna, rosa, schōla, silva, stēlla, terra, vacca, via
 	- special nouns: agricola, nauta, pīrāta, poēta, aurīga
 	- no verbs, et, aut, et..et, aut..aut, nec, nec..nec
@@ -28,7 +28,7 @@ skip <EOL
 	- new 1s decl nouns (30): ancilla, causa, cūra, cūria, fāma, fossa,
 		fuga, grātia, hora, iniūria, īra, lacrima, lingua, littera,
 		machina, māteria, mora, nātūra, opera, penna, poena, rēgīna, sagitta,
-		spēlunca, taberna, tenebra, toga, umbra
+		spēlunca, taberna, tenebra, toga, umbra, fēria
 	- sed, -que, nōn, quoque
 	- special: fīlia - fīliābus
 	- additional verbs: posse
@@ -91,7 +91,7 @@ EOL
 lesson 01_Foundation/Lesson01.txt
 lesson 01_Foundation/Lesson02.txt
 lesson 01_Foundation/Lesson03.txt
-#lesson 01_Foundation/Lesson04.txt
+lesson 01_Foundation/Lesson04.txt
 #lesson 01_Foundation/Lesson05.txt
 #lesson 01_Foundation/Lesson06.txt
 #lesson 01_Foundation/Lesson07.txt

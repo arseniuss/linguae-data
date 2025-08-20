@@ -1,0 +1,110 @@
+section Foundation
+name "Lesson 4: First Declension Nouns (Dative)"
+
+description <EOL
+	Learn the dative case of first declension nouns, used to show the indirect
+	object (“to” or “for” someone) in singular and plural.
+EOL
+
+chapter 1 <EOL
+	## First Declension Nouns — Dative Singular and Plural
+
+	In Latin, the **dative case** is used to show the **indirect object** of a
+	sentence — the person or thing **to** or **for** whom something is given,
+	shown, or done.
+
+	---
+
+	## First Declension Dative Endings
+
+	| Case     | Singular | Plural  |
+	|----------|----------|---------|
+	| Dative   | -ae      | -īs      |
+
+	For first declension nouns, the dative singular ends in **-ae**, and the
+	dative plural ends in **-īs**.
+
+	Using the dative case allows Latin to clearly express **to whom** or **for
+	whom** an action is done, an important part of everyday communication.
+EOL
+
+chapter 2 <EOL
+	## Conjunctions: **sed** and **-que**
+
+	### 1. **sed** — "but"
+
+	- **sed** is a coordinating conjunction used to express contrast or
+	opposition between two ideas.
+	- It is similar to the English word **"but."**
+	- It often introduces a sentence or clause that contrasts with what was
+	said before.
+
+	---
+
+	### 2. **-que** — "and" (enclitic conjunction)
+
+	- **-que** is an enclitic conjunction, meaning it is attached to the end of
+	the **second** word in the phrase.
+	- It means **"and,"** linking two words or phrases closely.
+	- Unlike **et**, it is not a separate word but a suffix.
+
+	## Summary
+
+	| Conjunction | Meaning | Position in sentence                 | Example                      |
+	|-------------|---------|-----------------------------------|------------------------------|
+	| **sed**    | but     | Separate word, before contrasting clause | _Puella legit, **sed** puer laborat._ |
+	| **-que**   | and     | Attached to the end of second word | _Puella puer**que** ambulant._ |
+
+	---
+
+	Use **sed** to show contrast, and use **-que** to connect closely linked words or ideas smoothly.
+EOL
+
+ref cases "nōminātīvus sg., datīvus sg, accūsātīvus sg., nōminātīvus pl., datīvus pl., accūsātīvus pl."
+gen decline &decl1 "" -a &cases 1+a,1+ae,1+am,1+ae,1+īs,1+ās
+
+#
+# Choose correct meaning
+#
+
+include Nouns/Lesson04.txt
+
+ref nouns-la &nouns-N-l04-la
+ref nouns-en &nouns-l04-en
+
+include Nouns/VocabularyL04.txt
+
+stop
+
+#
+# Decline
+#
+
+ref cases "nōminātīvus sg.,datīvus sg.,accūsātīvus sg.,nōminātīvus pl.,datīvus pl.,accūsātīvus pl."
+gen decline &decl1 "" -a &cases 1+a,1+ae,1+am,1+ae,1+īs,1+ās
+
+#include Nouns/DeclensionL04.txt
+
+#
+# Translate
+#
+
+task t01-la translate
+task t02-la translate
+task t03-la translate 
+task t04-la translate
+task t05-la translate 
+task t06-la translate 
+task t07-la translate 
+task t08-la translate 
+task t09-la translate 
+task t10-la translate 
+task t11-la translate 
+task t12-la translate 
+task t13-la translate 
+task t14-la translate 
+task t15-la translate 
+
+#
+# Select
+#
