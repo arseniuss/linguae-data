@@ -1,0 +1,11 @@
+#
+#
+#
+
+note 1 <EOL
+	Some first declension nouns which denote roles or occupations are masculine but are declined like feminine nouns.
+EOL
+
+note add_verb <EOL
+	This is additional verb.
+EOL

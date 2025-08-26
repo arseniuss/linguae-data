@@ -70,36 +70,36 @@ gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2s+ō,1+2l+s,1+2s+t,1+2l+m
 gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
 gen conjugate &conji &praes_act_ind posse &persons possum,potes,potest,possumus,potestis,possunt
 
-include Verbs/Lesson02.txt
+include 01_Foundation/Verbs/Lesson02.txt
 
 #
 # Choose correct meaning
 #
 
-include Nouns/Lesson04.txt
-include Verbs/Lesson04.txt
+include 01_Foundation/Nouns/Lesson04.txt
+include 01_Foundation/Verbs/Lesson04.txt
 
 ref nouns-la &nouns-N-l04-la
 ref nouns-en &nouns-l04-en
 
-include Nouns/VocabularyL04.txt
+include 01_Foundation/Nouns/VocabularyL04.txt
 
 ref verbs-la &verbs-l02-la 
 ref verbs-en &verbs-l02-en
 
-include Verbs/VocabularyL04.txt
+include 01_Foundation/Verbs/VocabularyL04.txt
 
 #
 # Decline
 #
 
-include Nouns/DeclensionL04.txt
+include 01_Foundation/Nouns/DeclensionL04.txt
 
 #
 # Conjugate verbs
 #
 
-include Verbs/ConjugationL04.txt
+include 01_Foundation/Verbs/ConjugationL04.txt
 
 
 #
@@ -108,4 +108,4 @@ include Verbs/ConjugationL04.txt
 
 ref translate-la &nouns-l04-la,&verbs-l02-la 
 
-include Sentences/Lesson04.txt
+include 01_Foundation/Sentences/Lesson04.txt

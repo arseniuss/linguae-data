@@ -14,12 +14,12 @@ include Generators.txt
 category choose &decl1 &fem
 category choose &decl1 &masc
 
-include Nouns/Lesson01.txt
+include 01_Foundation/Nouns/Lesson01.txt
 
 ref nouns-la &nouns-N-l01-la
 ref nouns-en &nouns-l01-en
 
-include Nouns/VocabularyL01.txt
+include 01_Foundation/Nouns/VocabularyL01.txt
 
 #
 # Verbs
@@ -28,9 +28,9 @@ include Nouns/VocabularyL01.txt
 category choose &conj1 &inf
 category choose &conj2 &inf
 
-include Verbs/Lesson02.txt
+include 01_Foundation/Verbs/Lesson02.txt
 
 ref verbs-la &verbs-inf-l02-la
 ref verbs-en &verbs-inf-l02-en
 
-include Verbs/VocabularyL02.txt
+include 01_Foundation/Verbs/VocabularyL02.txt

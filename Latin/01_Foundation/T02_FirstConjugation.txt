@@ -15,5 +15,5 @@ category conjugate &conj1ia &praes_act_ind
 
 gen conjugate &conj1ia &praes_act_ind dare &persons dō,dās,dat,damus,datis,dant
 
-include category &conj1 Verbs/ConjugationL02.txt
-include category &conj1ia Verbs/ConjugationL02.txt
+include category &conj1 01_Foundation/Verbs/ConjugationL02.txt
+include category &conj1ia 01_Foundation/Verbs/ConjugationL02.txt

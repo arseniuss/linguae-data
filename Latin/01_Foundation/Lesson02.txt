@@ -37,22 +37,24 @@ gen conjugate &conji &praes_act_ind esse &persons sum,es,est
 
 gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2s+ō,1+2l+s,1+2s+t
 
+include 01_Foundation/Notes.txt
+
 #
 # Vocabulary
 #
 
-include Verbs/Lesson02.txt
+include 01_Foundation/Verbs/Lesson02.txt
 
 ref verbs-la &verbs-inf-l02-la
 ref verbs-en &verbs-inf-l02-en
 
-include Verbs/VocabularyL02.txt
+include 01_Foundation/Verbs/VocabularyL02.txt
 
 #
 # Conjugate verbs
 #
 
-include Verbs/ConjugationL02.txt
+include 01_Foundation/Verbs/ConjugationL02.txt
 
 #
 # Translate simple sentences
@@ -61,10 +63,10 @@ include Verbs/ConjugationL02.txt
 # insert 1st lesson nouns
 ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
 gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
-include Nouns/Lesson01.txt
+include 01_Foundation/Nouns/Lesson01.txt
 
 ref translate-la &nouns-l01-la,&verbs-l02-la
 
-include Sentences/Lesson02.txt
+include 01_Foundation/Sentences/Lesson02.txt
 
 

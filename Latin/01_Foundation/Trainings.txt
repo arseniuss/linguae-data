@@ -1,0 +1,34 @@
+skip <EOL
+	Section: Foundation
+	Trainings:
+	 - First Declension
+	 - First Conjugation
+	 - Second Declension Masculine Nouns
+	 - Second Declension Neuter Nouns
+	 - All Adjectives
+	 - Second Conjugation
+	 - Unusual Nouns
+	 - Irregular Verbs
+	 - Declension Drill
+	 - Full Vocabulary
+	 - All Additional Verbs
+	 - All Adverbs
+	 - All Sentences
+	 - All Prepositions and Conjunctions
+EOL
+
+
+training 01_Foundation/T01_FirstDeclension.txt
+training 01_Foundation/T02_FirstConjugation.txt
+training 01_Foundation/T03_SecondDeclensionM.txt
+training 01_Foundation/T04_SecondDeclensionN.txt
+training 01_Foundation/T05_AllAdjectives.txt
+training 01_Foundation/T06_SecondConjugation.txt
+training 01_Foundation/T07_UnusualNouns.txt
+training 01_Foundation/T08_IrregularVerbs.txt
+training 01_Foundation/T09_DeclensionDrill.txt
+training 01_Foundation/T10_FullVocabulary.txt
+training 01_Foundation/T11_AdditionalVerbs.txt
+training 01_Foundation/T12_AddAdverbs.txt
+training 01_Foundation/T13_AllSentences.txt
+training 01_Foundation/T14_Other.txt

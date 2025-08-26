@@ -7,11 +7,11 @@
 #		ref masc
 #
 
-task d01-la decline &decl1 &masc	[agricola](wikt:agricola)	farmer				&cases @gen
+task d01-la decline &decl1 &masc	[agricola](wikt:agricola)	farmer				&cases @gen !1
 task d02-la decline &decl1 &fem		[amīca](wikt:amica)			"(female) friend"	&cases @gen
 task d03-la decline &decl1 &fem		[aqua](wikt:aqua)			water				&cases @gen
 task d04-la decline &decl1 &fem		[aquila](wikt:aquila)		eagle				&cases @gen
-task d05-la decline &decl1 &masc	[aurīga](wikt:auriga)		charioteer			&cases @gen
+task d05-la decline &decl1 &masc	[aurīga](wikt:auriga)		charioteer			&cases @gen !1
 task d06-la decline &decl1 &fem		[bestia](wikt:bestia)		beast				&cases @gen
 task d07-la decline &decl1 &fem		[casa](wikt:casa)			cottage				&cases @gen
 task d08-la decline &decl1 &fem		[cēna](wikt:cena)			dinner				&cases @gen
@@ -25,11 +25,11 @@ task d15-la decline &decl1 &fem		[īnsula](wikt:insula)		island				&cases @gen
 task d16-la decline &decl1 &fem		[lūna](wikt:luna)			moon				&cases @gen
 task d17-la decline &decl1 &fem		[magistra](wikt:magistra)	"(female) teacher"	&cases @gen
 task d18-la decline &decl1 &fem		[mēnsa](wikt:mensa)			table				&cases @gen
-task d19-la decline &decl1 &masc	[nauta](wikt:nauta)			sailor				&cases @gen
+task d19-la decline &decl1 &masc	[nauta](wikt:nauta)			sailor				&cases @gen !1
 task d20-la decline &decl1 &fem		[patria](wikt:patria)		country				&cases @gen
 task d21-la decline &decl1 &fem		[pecūnia](wikt:pecunia)		money				&cases @gen
-task d22-la decline &decl1 &masc	[pīrāta](wikt:pirata)		pirate				&cases @gen
-task d23-la decline &decl1 &masc	[poēta](wikt:poeta)			poet				&cases @gen
+task d22-la decline &decl1 &masc	[pīrāta](wikt:pirata)		pirate				&cases @gen !1
+task d23-la decline &decl1 &masc	[poēta](wikt:poeta)			poet				&cases @gen !1
 task d24-la decline &decl1 &fem		[porta](wikt:porta)			gate				&cases @gen
 task d25-la decline &decl1 &fem		[puella](wikt:puella)		girl				&cases @gen
 task d26-la decline &decl1 &fem		[rāna](wikt:rana)			frog				&cases @gen

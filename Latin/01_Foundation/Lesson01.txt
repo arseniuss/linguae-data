@@ -69,22 +69,24 @@ EOL
 ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
 gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
 
+include 01_Foundation/Notes.txt
+
 #
 # Choose correct meaning
 #
 
-include Nouns/Lesson01.txt
+include 01_Foundation/Nouns/Lesson01.txt
 
 ref nouns-la &nouns-N-l01-la
 ref nouns-en &nouns-l01-en
 
-include Nouns/VocabularyL01.txt
+include 01_Foundation/Nouns/VocabularyL01.txt
 
 #
 # Decline nouns, nominative and accusative
 #
 
-include Nouns/DeclensionL01.txt
+include 01_Foundation/Nouns/DeclensionL01.txt
 
 #
 # Translate simple sentences <noun> et <noun>, <noun> aut <noun>
@@ -93,4 +95,4 @@ include Nouns/DeclensionL01.txt
 ref conj-la	et,aut,nec
 ref translate-la &nouns-la,&conj-la
 
-include Sentences/Lesson01.txt
+include 01_Foundation/Sentences/Lesson01.txt

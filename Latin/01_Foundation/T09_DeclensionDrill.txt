@@ -6,6 +6,8 @@ section Foundation
 name "Declension Drill"
 description "Decline all nouns in this chapter"
 
+include 01_Foundation/Notes.txt
+
 include Generators.txt
 
 #
@@ -17,14 +19,14 @@ category decline &decl1 &sg_m
 ref fem &sg_f
 ref masc &sg_m
 
-include Nouns/DeclensionL01.txt
+include 01_Foundation/Nouns/DeclensionL01.txt
 
 category decline &decl1 &pl_f
 category decline &decl1 &pl_m
 ref fem &pl_f
 ref masc &pl_m
 
-include Nouns/DeclensionL01.txt
+include 01_Foundation/Nouns/DeclensionL01.txt
 
 #
 #

@@ -33,29 +33,31 @@ gen conjugate &conji &praes_act_ind esse &persons sumus,estis,sunt
 
 gen conjugate &conj2 &praes_act_ind -ē-re &persons 1+2l+mus,1+2l+tis,1+2s+nt
 
+include 01_Foundation/Notes.txt
+
 #
 # Vocabulary
 #
 
-include Verbs/Lesson02.txt
+include 01_Foundation/Verbs/Lesson02.txt
 
 ref verbs-la &verbs-inf-l02-la
 ref verbs-en &verbs-inf-l02-en
 
-include Verbs/VocabularyL02.txt
+include 01_Foundation/Verbs/VocabularyL02.txt
 
-include Adverbs/Lesson03.txt
+include 01_Foundation/Adverbs/Lesson03.txt
 
 ref adverbs-en &adverbs-l03-en
 ref adverbs-la &adverbs-l03-la
 
-include Adverbs/VocabularyL03.txt
+include 01_Foundation/Adverbs/VocabularyL03.txt
 
 #
 # Conjugate verbs
 #
 
-include Verbs/ConjugationL02.txt
+include 01_Foundation/Verbs/ConjugationL02.txt
 
 
 # TODO: redo sentences
@@ -66,14 +68,14 @@ include Verbs/ConjugationL02.txt
 # insert 1st lesson nouns
 ref cases "nōminātīvus sg., accūsātīvus sg., nōminātīvus pl., accūsātīvus pl."
 gen decline &decl1 "" -a &cases 1+a,1+am,1+ae,1+ās
-include Nouns/Lesson01.txt
+include 01_Foundation/Nouns/Lesson01.txt
 
 ref translate-la &nouns-l01-la,&verbs-l02-la
 
-include Sentences/Lesson03.txt
+include 01_Foundation/Sentences/Lesson03.txt
 
 #
 # Select tasks
 #
 
-include Selections/Lesson03.txt
+include 01_Foundation/Selections/Lesson03.txt
