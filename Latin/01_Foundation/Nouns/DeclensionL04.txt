@@ -4,33 +4,33 @@
 #		gen
 #
 
-task d01-la decline &decl1 &fem ancilla		"maidservant"				&cases @gen
-task d02-la decline &decl1 &fem causa		"reason"					&cases @gen
-task d03-la decline &decl1 &fem cūra		"care, concern"				&cases @gen
-task d04-la decline &decl1 &fem cūria		court						&cases @gen
-task d05-la decline &decl1 &fem fāma 		"fame, reputation"			&cases @gen
-task d06-la decline &decl1 &fem fossa		"ditch"						&cases @gen
-task d07-la decline &decl1 &fem fuga		"flight"					&cases @gen
-task d08-la decline &decl1 &fem grātia		"favor, thanks"				&cases @gen
-task d09-la decline &decl1 &fem hora		"hour"						&cases @gen
-task d10-la decline &decl1 &fem iniūria		"injustice"					&cases @gen
-task d11-la decline &decl1 &fem īra			"anger"						&cases @gen
-task d12-la decline &decl1 &fem lacrima		"tear"						&cases @gen
-task d13-la decline &decl1 &fem lingua		"tongue, language" 			&cases @gen
-task d14-la decline &decl1 &fem littera		"letter (of the alphabet)"	&cases @gen
-task d15-la decline &decl1 &fem machina		"machine"					&cases @gen
-task d16-la decline &decl1 &fem māteria 	"material, matter"			&cases @gen
-task d17-la decline &decl1 &fem mora		"delay"						&cases @gen
-task d18-la decline &decl1 &fem nātūra 		"nature"					&cases @gen
-task d19-la decline &decl1 &fem opera 		"effort, work"				&cases @gen
-task d20-la decline &decl1 &fem penna 		"wing"						&cases @gen
-task d21-la decline &decl1 &fem poena 		"penalty"					&cases @gen
-task d22-la decline &decl1 &fem rēgīna		"queen"						&cases @gen
-task d23-la decline &decl1 &fem sagitta		"arrow"						&cases @gen
-task d24-la decline &decl1 &fem spēlunca	"cave"						&cases @gen
-task d25-la decline &decl1 &fem taberna		"shop, tavern"				&cases @gen
-task d26-la decline &decl1 &fem tenebra		"darkness"					&cases @gen
-task d27-la decline &decl1 &fem toga		"toga, garment"				&cases @gen
-task d28-la decline &decl1 &fem umbra		"shadow"					&cases @gen
-task d29-la decline &decl1 &fem fīlia		"daughter"					&cases @gen
-task d30-la decline &decl1 &fem fēria		"holiday, festival"			&cases @gen
+task d01-la decline &decl1 &fem [ancilla](wikt:ancilla)		"maidservant"				&cases @gen
+task d02-la decline &decl1 &fem [causa](wikt:causa)			"reason"					&cases @gen
+task d03-la decline &decl1 &fem [cūra](wikt:cura)			"care, concern"				&cases @gen
+task d04-la decline &decl1 &fem [cūria](wikt:curia)			court						&cases @gen
+task d05-la decline &decl1 &fem [fāma](wikt:fama) 			"fame, reputation"			&cases @gen
+task d06-la decline &decl1 &fem [fossa](wikt:fossa)			"ditch"						&cases @gen
+task d07-la decline &decl1 &fem [fuga](wikt:fuga)			"flight"					&cases @gen
+task d08-la decline &decl1 &fem [grātia](wikt:gratia)		"favor, thanks"				&cases @gen
+task d09-la decline &decl1 &fem [hora](wikt:hora)			"hour"						&cases @gen
+task d10-la decline &decl1 &fem [iniūria](wikt:iniuria)		"injustice"					&cases @gen
+task d11-la decline &decl1 &fem [īra](wikt:ira)				"anger"						&cases @gen
+task d12-la decline &decl1 &fem [lacrima](wikt:lacrima)		"tear"						&cases @gen
+task d13-la decline &decl1 &fem [lingua](wikt:lingua)		"tongue, language" 			&cases @gen
+task d14-la decline &decl1 &fem [littera](wikt:littera)		"letter (of the alphabet)"	&cases @gen
+task d15-la decline &decl1 &fem [machina](wikt:machina)		"machine"					&cases @gen
+task d16-la decline &decl1 &fem [māteria](wikt:materia)		"material, matter"			&cases @gen
+task d17-la decline &decl1 &fem [mora](wikt:mora)			"delay"						&cases @gen
+task d18-la decline &decl1 &fem [nātūra](wikt:natura) 		"nature"					&cases @gen
+task d19-la decline &decl1 &fem [opera](wikt:opera)			"effort, work"				&cases @gen
+task d20-la decline &decl1 &fem [penna](wikt:penna)			"wing"						&cases @gen
+task d21-la decline &decl1 &fem [poena](wikt:poena)			"penalty"					&cases @gen
+task d22-la decline &decl1 &fem [rēgīna](wikt:regina)		"queen"						&cases @gen
+task d23-la decline &decl1 &fem [sagitta](wikt:sagitta)		"arrow"						&cases @gen
+task d24-la decline &decl1 &fem [spēlunca](wikt:spelunca)	"cave"						&cases @gen
+task d25-la decline &decl1 &fem [taberna](wikt:taberna)		"shop, tavern"				&cases @gen
+task d26-la decline &decl1 &fem [tenebra](wikt:tenebra)		"darkness"					&cases @gen
+task d27-la decline &decl1 &fem [toga](wikt:toga)			"toga, garment"				&cases @gen
+task d28-la decline &decl1 &fem [umbra](wikt:umbra)			"shadow"					&cases @gen
+task d29-la decline &decl1 &fem [fīlia](wikt:filia)			"daughter"					&cases @gen
+task d30-la decline &decl1 &fem [fēria](wikt:feria)			"holiday, festival"			&cases @gen

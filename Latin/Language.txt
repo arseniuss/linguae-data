@@ -6,7 +6,7 @@ name        "lingua Latīna"
 
 code        la
 version     2025.08.20.00
-parser      >=v0.0.1
+parser      >=v0.0.3
 image       eagle_512x512.png
 author      "Armands Arseniuss Skolmeisters"
 bugs        github:https://github.com/arseniuss/linguae-data/issues/new
@@ -22,6 +22,8 @@ ref choose-meaning-en "Choose correct meaning of the word"
 
 setting alphabet-order "Order in which to sort words" text \
 	"< a < ā < e < ē < i < ī < o < ō < u < ū < y < ȳ"
+
+section Foundation 01_Foundation
 
 include Terms.txt
 

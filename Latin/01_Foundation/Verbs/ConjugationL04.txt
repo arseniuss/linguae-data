@@ -2,4 +2,4 @@
 #
 #
 
-task c01-la conjugate &conji &praes_act_ind [posse](wikt:possum) "be able to"	&persons @gen
+task c01-la conjugate &conji &praes_act_ind [posse](wikt:possum) "be able to"	&persons @gen !add_verb

@@ -9,5 +9,7 @@ include 01_Foundation/Notes.txt
 category conjugate &conji &praes_act_ind
 
 gen conjugate &conji &praes_act_ind esse &persons sum,es,est,sumus,estis,sunt
+gen conjugate &conji &praes_act_ind posse &persons possum,potes,potest,possumus,potestis,possunt
 
 include category &conji 01_Foundation/Verbs/ConjugationL02.txt
+include category &conji 01_Foundation/Verbs/ConjugationL04.txt

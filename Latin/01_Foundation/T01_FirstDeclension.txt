@@ -10,13 +10,20 @@ include 01_Foundation/Notes.txt
 
 include Generators.txt
 
+#
+# Make tasks for singular nouns
+#
+
 category decline &decl1 &sg_f
 category decline &decl1 &sg_m
 ref fem &sg_f
 ref masc &sg_m
 
 include 01_Foundation/Nouns/DeclensionL01.txt
+include 01_Foundation/Nouns/DeclensionL04.txt
 
+#
+# Make tasks for plural nouns
 #
 
 category decline &decl1 &pl_f
@@ -25,3 +32,4 @@ ref fem &pl_f
 ref masc &pl_m
 
 include 01_Foundation/Nouns/DeclensionL01.txt
+include 01_Foundation/Nouns/DeclensionL04.txt

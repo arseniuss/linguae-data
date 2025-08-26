@@ -14,11 +14,20 @@ include Generators.txt
 
 include 01_Foundation/Nouns/Lesson01.txt		# &nouns-l01-la
 
+include 01_Foundation/Nouns/Lesson04.txt		# &nouns-04-la
+
 ref conj-l01-la	et,aut,nec
+ref conj-l04-la sed
 
 include 01_Foundation/Verbs/Lesson02.txt		# &verbs-l02-la
 
-ref translate-la &nouns-l01-la,&conj-l01-la,&verbs-l02-la
+include 01_Foundation/Verbs/Lesson04.txt		# &verbs-l04-la
+
+ref translate-la <EOL
+	&nouns-l01-la,&conj-l01-la,
+	&verbs-l02-la,
+	&nouns-l04-la,&verbs-l04-la,&conj-l04-la
+EOL
 
 #
 # Sentences
@@ -28,6 +37,7 @@ ref translate-la &nouns-l01-la,&conj-l01-la,&verbs-l02-la
 include 01_Foundation/Sentences/Lesson01.txt
 include 01_Foundation/Sentences/Lesson02.txt
 include 01_Foundation/Sentences/Lesson03.txt
+include 01_Foundation/Sentences/Lesson04.txt
 
 #
 # Selections

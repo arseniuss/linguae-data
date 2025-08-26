@@ -8,32 +8,52 @@ description "Test knowledge of conjunctions and prepositions"
 
 category choose &junc ""
 
-ref words-la <EOL
-	et, aut, et..et, aut..aut, nec, nec..nec
-EOL
+ref l01-la	"et, aut, et..et, aut..aut, nec, nec..nec"
+ref l01-en	"and, or, both..and, either..or,nor,neither..nor"
 
-ref words-en <EOL
-	and, or, both..and, either..or,nor,neither..nor
-EOL
+ref l04-la	"sed, -que, nōn, quoque"
+ref l04-en	"but, -too, not, too"
+
+
+
+ref words-la &l01-la,&l04-la
+
+ref words-en &l01-en,&l04-en
 
 #
 # Lesson 1
 #
 
-task j01-la choose &junc "" &choose-meaning et		and		&words-en
-task j01-en choose &junc "" &choose-meaning and		et		&words-la
+task j01-l01-la choose &junc "" &choose-meaning et		and		&words-en
+task j01-l01-en choose &junc "" &choose-meaning and		et		&words-la
 
-task j02-la choose &junc "" &choose-meaning aut		or		&words-en
-task j02-en choose &junc "" &choose-meaning or		aut		&words-la
+task j02-l01-la choose &junc "" &choose-meaning aut		or		&words-en
+task j02-l01-en choose &junc "" &choose-meaning or		aut		&words-la
 
-task j03-la choose &junc "" &choose-meaning et..et			both..and			&words-en
-task j03-en choose &junc "" &choose-meaning both..and		et..et				&words-la
+task j03-l01-la choose &junc "" &choose-meaning et..et			both..and			&words-en
+task j03-l01-en choose &junc "" &choose-meaning both..and		et..et				&words-la
 
-task j04-la choose &junc "" &choose-meaning aut..aut		either..or			&words-en
-task j04-en choose &junc "" &choose-meaning either..or		aut..aut			&words-la
+task j04-l01-la choose &junc "" &choose-meaning aut..aut		either..or			&words-en
+task j04-l01-en choose &junc "" &choose-meaning either..or		aut..aut			&words-la
 
-task j05-la choose &junc "" &choose-meaning nec				nor			&words-en
-task j05-en choose &junc "" &choose-meaning nor				nec				&words-la
+task j05-l01-la choose &junc "" &choose-meaning nec				nor			&words-en
+task j05-l01-en choose &junc "" &choose-meaning nor				nec				&words-la
 
-task j06-la choose &junc "" &choose-meaning nec..nec		neither..nor	&words-en
-task j06-en choose &junc "" &choose-meaning neither..nor	nec..nec		&words-la
+task j06-l01-la choose &junc "" &choose-meaning nec..nec		neither..nor	&words-en
+task j06-l01-en choose &junc "" &choose-meaning neither..nor	nec..nec		&words-la
+
+#
+# Lesson 4
+#
+
+task j01-l04-la choose &junc "" &choose-meaning sed		but		&words-en
+task j01-l04-en choose &junc "" &choose-meaning but		sed		&words-la
+
+task j02-l04-la choose &junc "" &choose-meaning -que		-too		&words-en
+task j02-l04-en choose &junc "" &choose-meaning -too		-que		&words-la
+
+task j03-l04-la choose &junc "" &choose-meaning nōn		not		&words-en
+task j03-l04-en choose &junc "" &choose-meaning not		nōn		&words-la
+
+task j04-l04-la choose &junc "" &choose-meaning quoque		too			&words-en
+task j04-l04-en choose &junc "" &choose-meaning too			quoque		&words-la

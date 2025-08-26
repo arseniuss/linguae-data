@@ -15,11 +15,13 @@ category choose &decl1 &fem
 category choose &decl1 &masc
 
 include 01_Foundation/Nouns/Lesson01.txt
+include 01_Foundation/Nouns/Lesson04.txt
 
-ref nouns-la &nouns-N-l01-la
-ref nouns-en &nouns-l01-en
+ref nouns-la &nouns-N-l01-la,&nouns-N-l04-la
+ref nouns-en &nouns-l01-en,&nouns-l04-en
 
 include 01_Foundation/Nouns/VocabularyL01.txt
+include 01_Foundation/Nouns/VocabularyL04.txt
 
 #
 # Verbs
@@ -29,8 +31,10 @@ category choose &conj1 &inf
 category choose &conj2 &inf
 
 include 01_Foundation/Verbs/Lesson02.txt
+include 01_Foundation/Verbs/Lesson04.txt
 
-ref verbs-la &verbs-inf-l02-la
-ref verbs-en &verbs-inf-l02-en
+ref verbs-la &verbs-inf-l02-la,&verbs-inf-l04-la
+ref verbs-en &verbs-inf-l02-en,&verbs-inf-l04-en
 
 include 01_Foundation/Verbs/VocabularyL02.txt
+include 01_Foundation/Verbs/VocabularyL04.txt

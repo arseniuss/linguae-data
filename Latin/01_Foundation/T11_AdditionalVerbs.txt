@@ -9,29 +9,32 @@ description "Test knowledge of additional verbs in this chapter"
 
 
 ref verbs-la <EOL
-	esse, habēre, dare, stāre
+	esse, habēre, dare, stāre, posse
 EOL
 
 ref verbs-en <EOL
-	to be, to have, to give, to stand
+	to be, to have, to give, to stand, to be able
 EOL
-
-
-
 
 #
 # Lesson 1
 #
 
-task v01-la choose &conji &inf &choose-meaning esse				"to be"					&verbs-en
-task v01-en choose &conji &inf &choose-meaning "to be"			esse					&verbs-la
+task v01-l01-la choose &conji &inf &choose-meaning esse				"to be"					&verbs-en
+task v01-l01-en choose &conji &inf &choose-meaning "to be"			esse					&verbs-la
 
-task v02-la choose &conj2 &inf &choose-meaning habēre			"to have"				&verbs-en
-task v02-en choose &conj2 &inf &choose-meaning "to have"		habēre					&verbs-la
+task v02-l01-la choose &conj2 &inf &choose-meaning habēre			"to have"				&verbs-en
+task v02-l01-en choose &conj2 &inf &choose-meaning "to have"		habēre					&verbs-la
 
-task v03-la choose &conj1ia &inf &choose-meaning dare			"to give"				&verbs-en
-task v03-en choose &conj1ia &inf &choose-meaning "to give"		dare					&verbs-la
+task v03-l01-la choose &conj1ia &inf &choose-meaning dare			"to give"				&verbs-en
+task v03-l01-en choose &conj1ia &inf &choose-meaning "to give"		dare					&verbs-la
 
-task v04-la choose &conj1 &inf &choose-meaning stāre			"to stand"				&verbs-en
-task v94-en choose &conj1 &inf &choose-meaning "to stand"		stāre					&verbs-la
+task v04-l01-la choose &conj1 &inf &choose-meaning stāre			"to stand"				&verbs-en
+task v04-l01-en choose &conj1 &inf &choose-meaning "to stand"		stāre					&verbs-la
 
+#
+# Lesson 4
+#
+
+task v01-l04-la choose &conji &inf &choose-meaning posse			"to be able"			&verbs-en
+task v01-l04-en choose &conji &inf &choose-meaning "to be able"		posse					&verbs-la
