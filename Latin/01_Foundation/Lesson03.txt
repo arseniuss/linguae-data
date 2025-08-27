@@ -60,7 +60,6 @@ include 01_Foundation/Adverbs/VocabularyL03.txt
 include 01_Foundation/Verbs/ConjugationL02.txt
 
 
-# TODO: redo sentences
 #
 # Translate sentences
 #

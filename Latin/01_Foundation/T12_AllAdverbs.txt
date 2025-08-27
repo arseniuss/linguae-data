@@ -1,0 +1,14 @@
+#
+#
+#
+
+section Foundation
+name "All adverbs"
+description "Test knowledge of all adverbs in this section"
+
+include 01_Foundation/Adverbs/Lesson03.txt
+
+ref adverbs-en &adverbs-l03-en
+ref adverbs-la &adverbs-l03-la
+
+include 01_Foundation/Adverbs/VocabularyL03.txt

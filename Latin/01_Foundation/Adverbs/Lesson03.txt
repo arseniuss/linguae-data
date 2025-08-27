@@ -3,7 +3,7 @@
 #
 
 ref adverbs-l03-la <EOL
-	bene, celeriter, crās, heri, hodiē, lente, male, mox, nunc, saepe,
+	bene, celeriter, crās, hodiē, lente, male, mox, nunc, saepe,
 	semper, statim, subitō
 EOL
 
