@@ -7,6 +7,7 @@ name "Full Vocabulary"
 description "Test knowledge of all words"
 
 include Generators.txt
+include 01_Foundation/Notes.txt
 
 #
 # Nouns
@@ -14,14 +15,21 @@ include Generators.txt
 category choose &decl1 &fem
 category choose &decl1 &masc
 
+category choose &decl2 &fem
+category choose &decl2 &masc
+category choose &decl2a &masc
+category choose &decl2r &masc
+
 include 01_Foundation/Nouns/Lesson01.txt
 include 01_Foundation/Nouns/Lesson04.txt
+include 01_Foundation/Nouns/Lesson05.txt
 
-ref nouns-la &nouns-N-l01-la,&nouns-N-l04-la
-ref nouns-en &nouns-l01-en,&nouns-l04-en
+ref nouns-la &nouns-N-l01-la,&nouns-N-l04-la,&nouns-N-l05-la
+ref nouns-en &nouns-l01-en,&nouns-l04-en,&nouns-l05-en
 
 include 01_Foundation/Nouns/VocabularyL01.txt
 include 01_Foundation/Nouns/VocabularyL04.txt
+include 01_Foundation/Nouns/VocabularyL05.txt
 
 #
 # Verbs

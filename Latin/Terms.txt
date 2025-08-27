@@ -8,7 +8,7 @@ ref junc coniūnctiō
 #
 #
 
-ref cases "nōminātīvus,genetīvus,datīvus,accūsātīvus,ablatīvus,vocātīvus"
+ref cases "nōminātīvus,genetīvus,datīvus,accūsātīvus,ablatīvus"
 
 ref decl1 "prīma declīnātiō"
 

@@ -10,20 +10,37 @@ include 01_Foundation/Notes.txt
 
 include Generators.txt
 
+########################################################
 
 category decline &decl1 &sg_f
 category decline &decl1 &sg_m
+
+category decline &decl2 &sg_f
+category decline &decl2 &sg_m
+category decline &decl2r &sg_m
+category decline &decl2a &sg_m
+
 ref fem &sg_f
 ref masc &sg_m
 
 include 01_Foundation/Nouns/DeclensionL01.txt
 include 01_Foundation/Nouns/DeclensionL04.txt
+include 01_Foundation/Nouns/DeclensionL05.txt
+
+########################################################
 
 category decline &decl1 &pl_f
 category decline &decl1 &pl_m
+
+category decline &decl2 &pl_f
+category decline &decl2 &pl_m
+category decline &decl2r &pl_m
+category decline &decl2a &pl_m
+
+
 ref fem &pl_f
 ref masc &pl_m
 
 include 01_Foundation/Nouns/DeclensionL01.txt
 include 01_Foundation/Nouns/DeclensionL04.txt
-
+include 01_Foundation/Nouns/DeclensionL05.txt

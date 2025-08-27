@@ -3,11 +3,23 @@
 #
 
 # regular nouns
-gen decline &decl1 &sg_f -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
-gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
+gen decline &decl1 &sg_f -a &cases 1+a,1+ae,1+ae,1+am,1+ā
+gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā
 
-gen decline &decl1 &pl_f -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
-gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
+gen decline &decl1 &pl_f -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs
+gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs
+
+gen decline &decl2 &sg_f -us &cases 1+us,1+ī,1+ō,1+um,1+ō
+gen decline &decl2 &sg_m -us &cases 1+us,1+ī,1+ō,1+um,1+ō
+
+gen decline &decl2 &pl_f -us &cases 1+ī,1+ōrum,1+īs,1+ōs,1+īs
+gen decline &decl2 &pl_m -us &cases 1+ī,1+ōrum,1+īs,1+ōs,1+īs
+
+gen decline &decl2r &sg_m "" &cases 1,1+ī,1+ō,1+um,1+ō			# puer->puerī
+gen decline &decl2r &pl_m "" &cases 1+ī,1+ōrum,1+īs,1+ōs,1+īs
+
+gen decline &decl2a &sg_m -e-r &cases 1+2+3,1+3+ī,1+3+ō,1+3+um,1+3+ō	# ager->agrī
+gen decline &decl2a &pl_m -e-r &cases 1+3+ī,1+3+ōrum,1+3+īs,1+3+ōs,1+3+īs
 
 # regular verb generation
 gen conjugate &conj1 &praes_act_ind -ā-re &persons 1+ō,1+2l+s,1+2s+t,1+2l+mus,1+2l+tis,1+2s+nt

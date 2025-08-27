@@ -15,12 +15,30 @@ include 01_Foundation/Notes.txt
 category decline &decl1 &sg_m
 category decline &decl1 &pl_m
 
-gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā,1+a!
+gen decline &decl1 &sg_m -a &cases 1+a,1+ae,1+ae,1+am,1+ā
 ref masc &sg_m #redefine
 
 include subcategory &masc 01_Foundation/Nouns/DeclensionL01.txt
 
-gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs,1+ae!
+gen decline &decl1 &pl_m -a &cases 1+ae,1+ārum,1+īs,1+ās,1+īs
 ref masc &pl_m #refine
 
 include subcategory &masc 01_Foundation/Nouns/DeclensionL01.txt
+
+#
+# Second declension nouns which are feminine
+#
+
+category decline &decl2 &sg_f
+category decline &decl2 &pl_f
+
+gen decline &decl2 &sg_f -us &cases 1+us,1+ī,1+ō,1+um,1+ō
+ref fem &sg_f #redefine
+
+include subcategory &fem 01_Foundation/Nouns/DeclensionL05.txt
+
+gen decline &decl2 &pl_f -us &cases 1+ī,1+ōrum,1+īs,1+ōs,1+īs
+ref fem &pl_f #redefine
+
+include subcategory &fem 01_Foundation/Nouns/DeclensionL05.txt
+

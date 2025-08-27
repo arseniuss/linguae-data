@@ -4,11 +4,11 @@
 #       ref nouns-en
 #
 
-task n01-la choose &decl2 &masc &choose-meaning [ager](wikt:ager)	"field" &nouns-en
-task n01-en choose &decl2 &masc &choose-meaning "field, acre"		ager	&nouns-la
+task n01-la choose &decl2a &masc &choose-meaning [ager](wikt:ager)	"field" &nouns-en
+task n01-en choose &decl2a &masc &choose-meaning "field, acre"		ager	&nouns-la
 
-task n02-la choose &decl2 &masc &choose-meaning [alvus](wikt:alvus)		"belly" &nouns-en
-task n02-en choose &decl2 &masc &choose-meaning "belly, stomach"		alvus	&nouns-la
+task n02-la choose &decl2 &fem &choose-meaning [alvus](wikt:alvus)		"belly" &nouns-en !3
+task n02-en choose &decl2 &fem &choose-meaning "belly, stomach"		alvus	&nouns-la !3
 
 task n03-la choose &decl2 &masc &choose-meaning [amīcus](wikt:amicus)		"(male) friend" &nouns-en
 task n03-en choose &decl2 &masc &choose-meaning "(male) friend"				amīcus			&nouns-la
@@ -40,14 +40,14 @@ task n11-en choose &decl2 &masc &choose-meaning "stream"				fluvius &nouns-la
 task n12-la choose &decl2 &masc &choose-meaning [hortus](wikt:hortus)		"garden" &nouns-en
 task n12-en choose &decl2 &masc &choose-meaning "garden"					hortus &nouns-la
 
-task n13-la choose &decl2 &masc &choose-meaning [humus](wikt:humus)		"ground" &nouns-en
-task n13-en choose &decl2 &masc &choose-meaning "ground, floor"			humus &nouns-la
+task n13-la choose &decl2 &fem &choose-meaning [humus](wikt:humus)		"ground" &nouns-en !3
+task n13-en choose &decl2 &fem &choose-meaning "ground, floor"			humus &nouns-la !3
 
-task n14-la choose &decl2 &masc &choose-meaning [laurus](wikt:laurus)		"laurel tree" &nouns-en
-task n14-en choose &decl2 &masc &choose-meaning "laurel tree, laurels"		laurus &nouns-la
+task n14-la choose &decl2 &fem &choose-meaning [laurus](wikt:laurus)		"laurel tree" &nouns-en !2
+task n14-en choose &decl2 &fem &choose-meaning "laurel tree, laurels"		laurus &nouns-la !2
 
-task n15-la choose &decl2 &masc &choose-meaning [liber](wikt:liber)		"book" &nouns-en
-task n15-en choose &decl2 &masc &choose-meaning "a book"				liber &nouns-la
+task n15-la choose &decl2a &masc &choose-meaning [liber](wikt:liber)		"book" &nouns-en
+task n15-en choose &decl2a &masc &choose-meaning "a book"				liber &nouns-la
 
 task n16-la choose &decl2 &masc &choose-meaning [locus](wikt:locus)		"place" &nouns-en
 task n16-en choose &decl2 &masc &choose-meaning "place, spot"			locus &nouns-la
@@ -61,8 +61,8 @@ task n18-en choose &decl2 &masc &choose-meaning "marital"				mārītus &nouns-la
 task n19-la choose &decl2 &masc &choose-meaning [modus](wikt:modus)		"measure" &nouns-en
 task n19-en choose &decl2 &masc &choose-meaning "measure"				modus &nouns-la
 
-task n20-la choose &decl2 &masc &choose-meaning [mōrus](wikt:morus)			"black mulberry tree" &nouns-en
-task n20-en choose &decl2 &masc &choose-meaning "the black mulberry tree"	mōrus &nouns-la
+task n20-la choose &decl2 &fem &choose-meaning [mōrus](wikt:morus)			"black mulberry tree" &nouns-en !2
+task n20-en choose &decl2 &fem &choose-meaning "the black mulberry tree"	mōrus &nouns-la !2
 
 task n21-la choose &decl2 &masc &choose-meaning [mūrus](wikt:mūrus)		"wall" &nouns-en
 task n21-en choose &decl2 &masc &choose-meaning "wall, city wall"		mūrus &nouns-la
@@ -76,14 +76,14 @@ task n23-en choose &decl2 &masc &choose-meaning "messenger, reporter, courier "	
 task n24-la choose &decl2 &masc &choose-meaning [oculus](wikt:oculus)		"eye" &nouns-en
 task n24-en choose &decl2 &masc &choose-meaning "eye"						oculus &nouns-la
 
-task n25-la choose &decl2 &masc &choose-meaning [pīnus](wikt:pinus)		"pine tree" &nouns-en
-task n25-en choose &decl2 &masc &choose-meaning "pine tree, fir tree"	pīnus &nouns-la
+task n25-la choose &decl2 &fem &choose-meaning [pīnus](wikt:pinus)		"pine tree" &nouns-en !2
+task n25-en choose &decl2 &fem &choose-meaning "pine tree, fir tree"	pīnus &nouns-la !2
 
 task n26-la choose &decl2 &masc &choose-meaning [populus](wikt:populus)	"people" &nouns-en
 task n26-en choose &decl2 &masc &choose-meaning "people, nation"		populus &nouns-la
 
-task n27-la choose &decl2 &masc &choose-meaning [puer](wikt:puer)			"boy" &nouns-en
-task n27-en choose &decl2 &masc &choose-meaning "boy"						puer &nouns-la
+task n27-la choose &decl2r &masc &choose-meaning [puer](wikt:puer)			"boy" &nouns-en
+task n27-en choose &decl2r &masc &choose-meaning "boy"						puer &nouns-la
 
 task n28-la choose &decl2 &masc &choose-meaning [servus](wikt:servus)		"slave" &nouns-en
 task n28-en choose &decl2 &masc &choose-meaning "slave, servant"			servus &nouns-la
@@ -91,5 +91,5 @@ task n28-en choose &decl2 &masc &choose-meaning "slave, servant"			servus &nouns
 task n29-la choose &decl2 &masc &choose-meaning [socius](wikt:socius)		"ally" &nouns-en
 task n29-en choose &decl2 &masc &choose-meaning "ally, companion, partner"	socius &nouns-la
 
-task n30-la choose &decl2 &masc &choose-meaning [vir](wikt:vir)			"man" &nouns-en
-task n30-en choose &decl2 &masc &choose-meaning "man"					vir &nouns-la
+task n30-la choose &decl2r &masc &choose-meaning [vir](wikt:vir)			"man" &nouns-en
+task n30-en choose &decl2r &masc &choose-meaning "man"					vir &nouns-la
