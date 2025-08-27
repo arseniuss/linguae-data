@@ -6,6 +6,14 @@ note 1 <EOL
 	Some first declension nouns which denote roles or occupations are masculine but are declined like feminine nouns.
 EOL
 
+note 2 <EOL
+	Most trees and many places, and words that came from Greek spaces, with *-us* are feminine.
+EOL
+
+note 3 <EOL
+	This word is feminine. This is well-known exception.
+EOL
+
 note add_verb <EOL
 	This is additional verb.
 EOL

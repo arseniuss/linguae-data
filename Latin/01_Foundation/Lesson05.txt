@@ -1,0 +1,39 @@
+section Foundation
+name "Lesson 5: Second Declension Nouns"
+
+description <EOL
+	This lesson presents Second Declension masculine and neuter nouns, with
+	focus on their nominative, accusative, and dative forms in both singular
+	and plural.
+EOL
+
+chapter 1 <EOL
+TODO :rewrite
+EOL
+
+ref cases "nōminātīvus sg., datīvus sg, accūsātīvus sg., nōminātīvus pl., datīvus pl., accūsātīvus pl."
+
+gen decline &decl1 "" -a &cases 1+a,1+ae,1+am,1+ae,1+īs,1+ās
+
+gen decline &decl2 "" -us &cases 1+us,1+ō,1+um,1+ī,1+īs,1+ōs
+gen decline &decl2r &masc "" &cases 1,1+ō,1+um,1+ī,1+īs,1+ōs
+gen decline &decl2a &masc -e-r &cases 1+2+3,1+3+ō,1+3+um,1+3+ī,1+3+īs,1+3+ōs
+
+include 01_Foundation/Notes.txt
+
+#
+# Choose correct meaning
+#
+
+include 01_Foundation/Nouns/Lesson05.txt
+
+ref nouns-la &nouns-N-l05-la
+ref nouns-en &nouns-l05-en
+
+include 01_Foundation/Nouns/VocabularyL05.txt
+
+#
+# Decline
+#
+
+include 01_Foundation/Nouns/DeclensionL05.txt

@@ -1,0 +1,37 @@
+
+#
+# Required:
+#		ref cases
+#		gen
+#
+
+task d01-la decline &decl2a &masc [ager](wikt:ager)			"field, acre"			&cases @gen
+task d02-la decline &decl2 &fem [alvus](wikt:alvus)		"belly, stomach"		&cases @gen !3
+task d03-la decline &decl2 &masc [amīcus](wikt:amicus)		"(male) friend"			&cases @gen
+task d04-la decline &decl2 &masc [animus](wikt:animus)		"mind, spirit"			&cases @gen
+task d05-la decline &decl2 &masc [campus](wikt:campus)		"field, flat ground"	&cases @gen
+task d06-la decline &decl2 &masc [captīvus](wikt:captivus)	"captive, prisoner"		&cases @gen
+task d07-la decline &decl2 &masc [deus](wikt:deus)			"god"					&cases @gen
+task d08-la decline &decl2 &masc [dominus](wikt:dominus)	"master, owner"			&cases @gen
+task d09-la decline &decl2 &masc [equus](wikt:equus)		"horse"					&cases @gen
+task d10-la decline &decl2 &masc [fīlius](wikt:filius)		"son"					&cases @gen
+task d11-la decline &decl2 &masc [fluvius](wikt:fluvius)	"stream"				&cases @gen
+task d12-la decline &decl2 &masc [hortus](wikt:hortus)		"garden"				&cases @gen
+task d13-la decline &decl2 &fem [humus](wikt:humus)		"ground, floor"			&cases @gen !3
+task d14-la decline &decl2 &fem [laurus](wikt:laurus)		"laurel tree, laurels"	&cases @gen !2
+task d15-la decline &decl2a &masc [liber](wikt:liber)		"a book"				&cases @gen
+task d16-la decline &decl2 &masc [locus](wikt:locus)		"place, spot"			&cases @gen
+task d17-la decline &decl2 &masc [lupus](wikt:lupus)		"wolf"					&cases @gen
+task d18-la decline &decl2 &masc [marītus](wikt:maritus)	"marital"				&cases @gen
+task d19-la decline &decl2 &masc [modus](wikt:modus)		"measure"				&cases @gen
+task d20-la decline &decl2 &fem [mōrus](wikt:morus)		"the black mulberry tree"	&cases @gen !2
+task d21-la decline &decl2 &masc [mūrus](wikt:mūrus)		"wall, city wall"			&cases @gen
+task d22-la decline &decl2 &masc [numerus](wikt:numerus)	"number, collection"		&cases @gen
+task d23-la decline &decl2 &masc [nūntius](wikt:nuntius)	"messenger, reporter, courier "	&cases @gen
+task d24-la decline &decl2 &masc [oculus](wikt:oculus)		"eye"					&cases @gen
+task d25-la decline &decl2 &fem [pīnus](wikt:pinus)		"pine tree, fir tree"	&cases @gen !2
+task d26-la decline &decl2 &masc [populus](wikt:populus)	"people, nation"		&cases @gen
+task d27-la decline &decl2r &masc [puer](wikt:puer)			"boy"					&cases @gen
+task d28-la decline &decl2 &masc [servus](wikt:servus)		"slave, servant"		&cases @gen
+task d29-la decline &decl2 &masc [socius](wikt:socius)		"ally, companion, partner"	&cases @gen
+task d30-la decline &decl2r &masc [vir](wikt:vir)			"man"					&cases @gen

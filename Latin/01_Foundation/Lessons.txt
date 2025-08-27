@@ -38,8 +38,8 @@ skip <EOL
 	- new 2nd decl masc nouns (30): ager, amīcus, animus,
 		campus, captīvus, deus, dominus, equus, fīlius,
 		fluvius, hortus, liber, locus, lupus, marītus, modus, mūrus, numerus,
-		nuntius, oculus, populus, puer, servus, socius, verus, victus, vir
-	- special nouns: pīnus, morus, alvus, humus, laurus
+		nūntius, oculus, populus, puer, servus, socius, vir
+	- special nouns: pīnus, mōrus, alvus, humus, laurus
 	- note: bonatical names are feminine 
 
 	Lesson 6: Ablative Case
@@ -92,7 +92,7 @@ lesson 01_Foundation/Lesson01.txt
 lesson 01_Foundation/Lesson02.txt
 lesson 01_Foundation/Lesson03.txt
 lesson 01_Foundation/Lesson04.txt
-#lesson 01_Foundation/Lesson05.txt
+lesson 01_Foundation/Lesson05.txt
 #lesson 01_Foundation/Lesson06.txt
 #lesson 01_Foundation/Lesson07.txt
 #lesson 01_Foundation/Lesson08.txt

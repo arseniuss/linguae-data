@@ -11,9 +11,11 @@ ref junc coniūnctiō
 ref cases "nōminātīvus,genetīvus,datīvus,accūsātīvus,ablatīvus,vocātīvus"
 
 ref decl1 "prīma declīnātiō"
+
 ref decl2 "secunda declīnātiō"
-ref decl2er "secunda declīnātiō, -er fīnum"
-ref decl2r "secunda declīnātiō, -r fīnum"
+ref decl2a "secunda declīnātiō cum e amissō" # ager -> agrī
+ref decl2r "secunda declīnātiō cum e retentō" # puer -> puerī
+
 ref decl3 "tērtia declīnātiō"
 ref decl3i "tērtia declīnātiō, i-stem pūrum"
 ref decl3x "tērtia declīnātiō, i-stem"

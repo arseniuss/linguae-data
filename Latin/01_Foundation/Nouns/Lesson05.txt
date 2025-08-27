@@ -1,0 +1,25 @@
+#
+#
+#
+
+ref nouns-N-l05-la <EOL
+	ager, alvus, amīcus, animus, campus, captīvus, deus, dominus, equus,
+	fīlius, fluvius, hortus, humus, laurus, liber, locus, lupus, marītus,
+	modus, mōrus, mūrus, numerus, nūntius, oculus, pīnus, populus,
+	puer, servus, socius, vir
+EOL
+
+ref nouns-l05-en <EOL
+	field, belly, (male) friend, mind, field, captive, god, master, horse, son,
+	stream, garden, laurel, book, place, wolf, marital, measure, mulberry, wall,
+	number, messenger, eye, pine, people, boy, slave, ally, man
+EOL
+
+ref nouns-l05-la <EOL
+	@gen:ager, @gen:alvus, @gen:amīcus, @gen:animus, @gen:campus,
+	@gen:captīvus, @gen:deus, @gen:dominus, @gen:equus, @gen:fīlius,
+	@gen:fluvius, @gen:hortus, @gen:humus, @gen:laurus, @gen:liber, @gen:locus,
+	@gen:lupus, @gen:marītus, @gen:modus, @gen:mōrus, @gen:mūrus, @gen:numerus,
+	@gen:nūntius, @gen:oculus, @gen:pīnus, @gen:populus, @gen:puer, @gen:servus,
+	@gen:socius, @gen:vir
+EOL
